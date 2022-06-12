@@ -14,10 +14,8 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets 
 
 - Jeu de stratégie ([![My Skills](https://skills.thijs.gg/icons?i=)](https://skills.thijs.gg))
 
-<p height: 150px;>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unity" />
-  </a>
+<p>
+    <img src="https://skillicons.dev/icons?i=cpp,unity" height: 150px/>
 </p>
 
 

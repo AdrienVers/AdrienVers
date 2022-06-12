@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Après une première expérience réussie dans le monde de l'industrie en tant qu'ingénieur en électrotechnique/automatisme/informatique, 
+Après une première expérience réussie dans le monde de l'industrie en tant qu'ingénieur en électrotechnique / automatisme / informatique, 
 et avec une grande préférence pour l'informatique, j'ai décidé de me spécialiser dans le développement web (orienté Frontend), 
 alliant deux de mes passions : la programmation et la création de contenu !
 

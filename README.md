@@ -19,7 +19,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img width="100" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 

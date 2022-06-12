@@ -14,8 +14,8 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets 
 
 - <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 - <p>IHM industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
-- <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
-- <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+- <p>Clone Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+- <p>Site e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
 
 

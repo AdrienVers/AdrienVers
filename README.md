@@ -12,7 +12,7 @@ J'ai également des notions en :
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets : 
 
-- <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="150" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a></sapn></p>)
+- <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 - Pupitre industriel ([![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg))
 - Clone de Youtube ([![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react)](https://skills.thijs.gg))
 - Site de e-commerce ([![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react)](https://skills.thijs.gg))

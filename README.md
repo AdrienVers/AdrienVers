@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Adrienv77/Adrienv77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Après une première expérience réussie dans le monde de l'industrie en tant qu'ingénieur en électrotechnique/automatisme/informatique, 
+et avec une grande préférence pour l'informatique, j'ai décidé de me spécialiser dans le développement web (orienté Frontend), 
+alliant deux de mes passions : la programmation et la création de contenu !
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

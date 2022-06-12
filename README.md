@@ -12,7 +12,15 @@ J'ai également des notions en :
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets : 
 
-- Jeu de tir <p width="200">([![My Skills](https://skills.thijs.gg/icons?i=cpp,unity)](https://skills.thijs.gg))<p/>
+- Jeu de stratégie ([![My Skills](https://skills.thijs.gg/icons?i=)](https://skills.thijs.gg))
+
+<p height: 150px;>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,unity" />
+  </a>
+</p>
+
+
 - Pupitre industriel ([![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg))
 - Clone de Youtube ([![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react)](https://skills.thijs.gg))
 - Site de e-commerce ([![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react)](https://skills.thijs.gg))

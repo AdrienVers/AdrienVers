@@ -18,7 +18,7 @@ Réalisé lors du premier confinement et un peu après (fevrier à juin 2021), j
 
 - <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Reproduction d'une IHM industrielle : dans un premier temps l'IHM devait seulement être locale, elle avait donc été programmée via Tia Portal, ensuite, il fallait que les informations soient accessibles à distance, pour cela, il a fallu réaliser une page web recevant et affichant les données de l'automate.
+Reproduction d'une IHM industrielle : dans un premier temps l'IHM devait seulement être locale, elle avait donc été programmée via Tia Portal, ensuite, il fallait que les informations soient accessibles à distance, pour cela, il a fallu réaliser une page web recevant et affichant les données de l'automate. 
 
 - <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 

@@ -14,11 +14,11 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets 
 
 - <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 
-Réalisé lors du premier confinement et un peu après (fevrier à juin 2021), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity.
+Réalisé lors du premier confinement et un peu après (fevrier à juin 2021), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : 
 
 - <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Reproduction d'une IHM industrielle : dans un premier temps l'IHM devait seulement être locale, elle avait donc été programmée via Tia Portal, ensuite, il fallait que les informations soient accessibles à distance, pour cela, il a fallu réaliser une page web recevant et affichant les données de l'automate. 
+Reproduction d'une IHM industrielle : dans un premier temps l'IHM devait seulement être utilisée de façon locale sur un pupitre opérateur, elle avait donc été programmée via Tia Portal, ensuite, il a fallu rendre les informations accessibles à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate. Pour des raisons évidentes de confidentialités, la présentation du projet est très simplifiée et ne dévoile aucun des composants utilisés. Pour plus de détails :  
 
 - <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 

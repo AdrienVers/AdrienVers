@@ -12,7 +12,7 @@ J'ai également des notions en :
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
 
-- <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+- ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
 Au travers de ce projet (mai à juillet 2022), j'ai voulu approndir mes connaîssances sur le framework React, pour cela j'ai réalisé un site web de vente à emporter de plats rencontrés au fur et à mesure des mes différents voyages dans le Monde. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion, gestion de panier, donner son avis sur les plats, etc...). Les illustrations sur ce site web ont été réalisés par mon collaborateur Joseph Paris. Pour plus de détails : 
 

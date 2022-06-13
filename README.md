@@ -12,14 +12,17 @@ J'ai également des notions en :
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
 
-- <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
-
-
 - <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
+Au travers de ce projet (mai à juillet 2022), j'ai voulu accentué mes connaîssances sur React. Pour plus de détails : 
+
+- <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+
+Au travers de ce projet (mars à avril 2022), j'ai voulu accentué mes connaîssances sur les API REST, pour cela j'ai décidé de réaliser une site web affichant les acutalités scientifiques. Pour plus de détails : 
 
 - <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
+Au travers de ce projet (janvier à avril 2022), j'ai décidé de me familariser puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, des recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : 
 
 - <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 

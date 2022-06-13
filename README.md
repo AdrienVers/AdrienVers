@@ -1,6 +1,6 @@
 ### Bienvenue 👋
 
-Après une première expérience réussie dans le monde de l'industrie en tant qu'ingénieur en électrotechnique / automatique / informatique, et avec une appétence plus forte pour la programmation, j'ai décidé de me spécialiser dans le développement web (orienté Frontend), alliant deux de mes passions : la programmation et la création de contenu !
+Après une première expérience réussie dans le monde de l'industrie en tant qu'ingénieur en électrotechnique / automatique / informatique, et avec une appétence très forte pour la programmation, j'ai décidé de me spécialiser dans le développement web (orienté Frontend), alliant deux de mes passions : la programmation et la création de contenu !
 
 Les technologies que je maîtrise sont : 
 

@@ -23,7 +23,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets 
 
 - <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Réalisée lors de ma fonction d'ingénieur électrotechnique (2021), il s'agissait dans un premier temps de réaliser une IHM seulement utilisable de façon locale sur un pupitre opérateur, elle avait donc été programmée via Tia Portal, puis, il a fallu rendre les informations accessibles à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate. Pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est très simplifiée, modifiée et ne dévoile aucun des composants utilisés. Pour plus de détails :  
+Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait dans un premier temps de réaliser une IHM seulement utilisable de façon locale sur un pupitre opérateur, elle avait donc été programmée via Tia Portal, puis, il a fallu rendre les informations accessibles à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate. Pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est très simplifiée, modifiée et ne dévoile aucun des composants utilisés. Pour plus de détails :  
 
 - <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 

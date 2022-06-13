@@ -14,7 +14,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets 
 
 - <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
-Au travers de ce projet (mai à juillet 2022), j'ai voulu accentué mes connaîssances sur React. Pour plus de détails : 
+Au travers de ce projet (mai à juillet 2022), j'ai voulu approndir mes connaîssances sur le framework React. Pour plus de détails : 
 
 - <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 

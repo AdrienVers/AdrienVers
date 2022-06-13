@@ -8,7 +8,7 @@ Les technologies qui me plaisent et que je maîtrise sont les suivantes :
 
 J'ai également des notions en : 
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,py,angular,ts)](https://skills.thijs.gg)
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
 

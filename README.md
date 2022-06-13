@@ -10,20 +10,23 @@ J'ai également des notions en :
 
 [![My Skills](https://skills.thijs.gg/icons?i=php,mysql,py)](https://skills.thijs.gg)
 
-Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets : 
+Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
 
-- <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
+- <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
-Réalisé lors du premier confinement et un peu après (fevrier à juin 2021), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : 
+
+- <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+
+
+- <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+
 
 - <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
 Reproduction d'une IHM industrielle : dans un premier temps l'IHM devait seulement être utilisée de façon locale sur un pupitre opérateur, elle avait donc été programmée via Tia Portal, ensuite, il a fallu rendre les informations accessibles à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate. Pour des raisons évidentes de confidentialités, la présentation du projet est très simplifiée et ne dévoile aucun des composants utilisés. Pour plus de détails :  
 
-- <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+- <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 
-- <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
-
-
+Réalisé lors du premier confinement et un peu après (fevrier à juin 2021), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : 
 
 

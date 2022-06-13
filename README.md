@@ -18,7 +18,7 @@ Au travers de ce projet (mai à juillet 2022), j'ai voulu approndir mes connaîs
 
 - ### <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
-Au travers de ce projet (mars à avril 2022), j'ai voulu accentué mes connaîssances sur les API REST, pour cela j'ai décidé de réaliser un site web permettant d'accéder aux acutalités scientifiques. Pour plus de détails : 
+Au travers de ce projet (mars à avril 2022), j'ai voulu accentué mes connaîssances sur les API REST, pour cela j'ai décidé de réaliser un site web permettant d'accéder aux actualités scientifiques. Pour plus de détails : 
 
 - ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 

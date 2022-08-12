@@ -14,7 +14,7 @@ J'ai également des notions en :
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux (par ordre de publications) : 
 
-## <p>Mes différents projets <span>(:mag_right::computer::page_with_curl:)</span></p>
+## <p>Mes différents projets <span>(:computer::page_with_curl:)</span></p>
 
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,redux,materialui,vscode"/></a>)</span></p>
 

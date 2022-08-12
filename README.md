@@ -58,19 +58,21 @@ Toutes dernières versions et informations sur le Framework React (V18.2) : http
 
 Dans le developpement web (:computer:) : 
 
+Données techniques (HTML/CSS/JS) : https://developer.mozilla.org/fr/
+
+Données techniques et tests ludiques de code HTML/CSS/JS : https://www.w3schools.com/
+
 Validateur HTML (permettant de vérifier l'absence de coquilles) : https://validator.w3.org/ 
 
 Validateur CSS (permettant de vérifier l'absence de coquilles) : https://jigsaw.w3.org/css-validator/ 
 
 Précautions à respecter lors du développement d'un site web : https://www.w3.org/
 
-Données techniques et tests ludiques de code HTML/CSS/JS : https://www.w3schools.com/
-
 Hébergeurs de code permettant de visualiser le résultat directement :
 - Codepen (HTML, CSS, JS) : https://codepen.io/trending ,
-- Codesandbox () : https://codesandbox.io/ , 
-- Codeply () : https://www.codeply.com/ , 
-- Jsfddle () : https://jsfiddle.net/ 
+- Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search , 
+- Codeply (React, Vue, Angular) : https://www.codeply.com/ , 
+- Js Fiddle (React, Vue, Angular) : https://jsfiddle.net/ 
 
 Dans la finance (:moneybag:) : 
 

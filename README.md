@@ -56,7 +56,7 @@ Toutes dernières versions et informations sur le Framework React (V18.2) : http
 
 - ### Différentes ressources pour se perfectionner : 
 
-Dans le developpement web (:computer:) : 
+#### Dans le developpement web (:computer:) : 
 
 Données techniques (HTML/CSS/JS) : https://developer.mozilla.org/fr/
 
@@ -74,7 +74,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 - Codeply (React, Vue, Angular) : https://www.codeply.com/ , 
 - Js Fiddle (React, Vue, Angular) : https://jsfiddle.net/ 
 
-Dans la finance (:moneybag:) : 
+#### Dans la finance (:moneybag:) : 
 
-Dans l'électrotechnique (:electric_plug:) : 
+#### Dans l'électrotechnique (:electric_plug:) : 
 

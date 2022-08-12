@@ -58,6 +58,16 @@ Toutes dernières versions et informations sur le Framework React (V18.2) : http
 
 Dans le developpement web (:computer:) : 
 
+Validateur HTML (permettant de vérifier l'absence de coquilles) : https://validator.w3.org/ 
+
+Validateur CSS (permettant de vérifier l'absence de coquilles) : https://jigsaw.w3.org/css-validator/ 
+
+Précautions à respecter lors du développement d'un site web : https://www.w3.org/
+
+Données techniques et tests ludiques de code HTML/CSS/JS : https://www.w3schools.com/
+
+Trois hébergeurs de code permettant de visualiser le résultat directement : https://codesandbox.io/ , https://www.codeply.com/ , https://jsfiddle.net/ 
+
 Dans la finance (:moneybag:) : 
 
 Dans l'électrotechnique (:electric_plug:) : 

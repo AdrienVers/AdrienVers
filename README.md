@@ -36,6 +36,7 @@ Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'ag
 
 Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : 
 
+## <p><span></span></p>
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 

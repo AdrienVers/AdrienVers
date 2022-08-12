@@ -39,7 +39,7 @@ Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), j
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
-- ## <p>Veille technologique <span>(:mag_right::computer::chart_with_upwards_trend:)</span></p>
+## <p>Veille technologique <span>(:mag_right::computer::chart_with_upwards_trend:)</span></p>
 
 Différentes ressources que j'utilise pour ma veille technologique (technologies recommandées et en devenir) : 
 

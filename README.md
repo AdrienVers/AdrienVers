@@ -10,7 +10,11 @@ J'ai également des notions en :
 
 [![My Skills](https://skills.thijs.gg/icons?i=ts,vue,nodejs,php,py)](https://skills.thijs.gg)
 
+## <p><span></span></p>
+
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
+
+## <p>Mes différents projets <span>(:mag_right::computer::page_with_curl:)</span></p>
 
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,redux,materialui,vscode"/></a>)</span></p>
 

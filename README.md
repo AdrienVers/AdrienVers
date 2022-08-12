@@ -66,7 +66,11 @@ Précautions à respecter lors du développement d'un site web : https://www.w3.
 
 Données techniques et tests ludiques de code HTML/CSS/JS : https://www.w3schools.com/
 
-Trois hébergeurs de code permettant de visualiser le résultat directement : https://codesandbox.io/ , https://www.codeply.com/ , https://jsfiddle.net/ 
+Hébergeurs de code permettant de visualiser le résultat directement :
+- Codepen (HTML, CSS, JS) : https://codepen.io/ ,
+- Codesandbox () : https://codesandbox.io/ , 
+- Codeply () : https://www.codeply.com/ , 
+- Jsfddle () : https://jsfiddle.net/ 
 
 Dans la finance (:moneybag:) : 
 

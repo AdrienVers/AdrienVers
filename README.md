@@ -46,6 +46,6 @@ Différentes technologies web recommandées et en devenir :
 
 Différentes ressources pour se perfectionner dans divers domaines : 
 
-En <p><span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=javascript"/></a></span></p> : 
+En - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,redux,materialui,vscode"/></a>)</span></p>
 
 En <p><span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react"/></a></span></p> :

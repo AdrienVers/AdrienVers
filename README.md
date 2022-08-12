@@ -4,11 +4,11 @@ Après une première expérience réussie dans le monde de l'industrie en tant q
 
 Les technologies qui me plaisent et que je maîtrise sont les suivantes : 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,vue,cpp,unity)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,cpp,unity)](https://skills.thijs.gg)
 
 J'ai également des notions en : 
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,php,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,vue,nodejs,php,py)](https://skills.thijs.gg)
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
 
@@ -36,4 +36,7 @@ Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'ag
 
 Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : 
 
+Différentes ressources que j'utilise pour ma veille technologique (technologies recommandées et en devenir) : 
 
+
+Différents liens pour se perfectionner dans divers domaines : 

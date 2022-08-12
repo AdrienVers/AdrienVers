@@ -39,9 +39,13 @@ Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), j
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
-## <p>Veille technologique <span>(:mag_right::computer::chart_with_upwards_trend:)</span></p>
+## <p>Ma veille technologique <span>(:mag_right::computer::chart_with_upwards_trend:)</span></p>
 
-Différentes ressources que j'utilise pour ma veille technologique (technologies recommandées et en devenir) : 
+Différentes technologies web recommandées et en devenir : 
 
 
-Différents liens pour se perfectionner dans divers domaines : 
+Différentes ressources pour se perfectionner dans divers domaines : 
+
+En <span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=javascript"/></a>)</span> : 
+
+En <span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react"/></a>)</span>

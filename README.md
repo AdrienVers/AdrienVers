@@ -41,11 +41,11 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 ## <p>Ma veille technologique <span>(:mag_right::computer::chart_with_upwards_trend:)</span></p>
 
-Différentes technologies web recommandées et en devenir : 
+- ### Différentes technologies web recommandées et en devenir : 
 
 <p>En (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,ts,vscode"/></a>)</span></p>
 
-Différentes ressources pour se perfectionner dans divers domaines : 
+- ### Différentes ressources pour se perfectionner : 
 
 Dans la finance (:moneybag:) : 
 

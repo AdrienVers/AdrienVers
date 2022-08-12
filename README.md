@@ -43,7 +43,11 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 Différentes technologies web recommandées et en devenir : 
 
+<p>En (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,ts,vscode"/></a>)</span></p>
 
 Différentes ressources pour se perfectionner dans divers domaines : 
 
-En ### <p>En (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,ts,vscode"/></a>)</span></p>
+Dans la finance (:moneybag:) : 
+
+Dans l'électrotechnique (:electric_plug:) : 
+

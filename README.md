@@ -69,9 +69,9 @@ Validateur CSS (permettant de vérifier l'absence de coquilles) : https://jigsaw
 Précautions à respecter lors du développement d'un site web : https://www.w3.org/
 
 Hébergeurs de code permettant de visualiser le résultat directement :
-- Codepen (HTML, CSS, JS) : https://codepen.io/trending ,
-- Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search , 
-- Codeply (React, Vue, Angular) : https://www.codeply.com/ , 
+- Codepen (HTML, CSS, JS) : https://codepen.io/trending
+- Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search 
+- Codeply (React, Vue, Angular) : https://www.codeply.com/ 
 - Js Fiddle (React, Vue, Angular) : https://jsfiddle.net/ 
 
 #### Dans la finance (:moneybag:) : 

@@ -12,7 +12,7 @@ J'ai également des notions en :
 
 ## <p><span></span></p>
 
-Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents projets (par ordre de publications) : 
+Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux (par ordre de publications) : 
 
 ## <p>Mes différents projets <span>(:mag_right::computer::page_with_curl:)</span></p>
 
@@ -44,7 +44,7 @@ Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), j
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
-## <p>Ma veille technologique <span>(:mag_right::computer::chart_with_upwards_trend:)</span></p>
+## <p>Ma veille technologique <span>(:computer::chart_with_upwards_trend:)</span></p>
 
 - ### Différentes technologies web recommandées et en devenir : 
 

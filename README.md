@@ -45,9 +45,9 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 Statistiques sur les librairies web les plus utilisées en 2021 : https://2021.stateofjs.com/fr-FR/
 
-Statistiques sur les plateformes les plus utilisées (Mobile, PC, Tablette) : https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
+Statistiques sur les plateformes les plus utilisées en 2021 : https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
 
-Toutes dernières versions et informations sur le Framework React : https://stackleap.io/js/react
+Toutes dernières versions et informations sur le Framework React (V18.2) : https://stackleap.io/js/react
 
 - ### Différentes ressources pour se perfectionner : 
 

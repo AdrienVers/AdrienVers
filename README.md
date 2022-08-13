@@ -68,6 +68,8 @@ Validateur CSS (vérifier l'absence de coquilles en CSS) : https://jigsaw.w3.org
 
 Précautions à respecter lors du développement d'un site web : https://www.w3.org/
 
+En React, la documentation sur les hooks principaux : https://fr.reactjs.org/docs/hooks-reference.html
+
 Hébergeurs de code permettant de visualiser le résultat directement :
 - Codepen (HTML, CSS, JS) : https://codepen.io/trending
 - Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search 

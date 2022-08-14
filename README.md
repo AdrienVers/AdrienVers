@@ -78,6 +78,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 - Codeply (React, Vue, Angular) : https://www.codeply.com/ 
 - Js Fiddle (React, Vue, Angular) : https://jsfiddle.net/ 
 
+Blog sur le développement web : https://www.designcise.com/web/develop
+
 #### Dans la finance (:moneybag:) : 
 
 #### Dans l'électrotechnique (:electric_plug:) : 

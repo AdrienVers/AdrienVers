@@ -52,7 +52,9 @@ Statistiques sur les librairies web les plus utilisées en 2021 : https://2021.s
 
 Statistiques sur les plateformes les plus utilisées en 2021 : https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
 
-Toutes dernières versions et informations sur le Framework React (V18.2) : https://stackleap.io/js/react
+Différents modèles et dimensions de mobiles : https://www.dimensions.com/collection/phones-cell-phones
+
+Les toutes dernières versions et informations sur le Framework React (V18.2) : https://stackleap.io/js/react
 
 - ### Différentes ressources pour se perfectionner : 
 

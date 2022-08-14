@@ -70,6 +70,8 @@ Précautions à respecter lors du développement d'un site web : https://www.w3.
 
 En React, la documentation sur les hooks principaux : https://fr.reactjs.org/docs/hooks-reference.html
 
+En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
+
 Hébergeurs de code permettant de visualiser le résultat directement :
 - Codepen (HTML, CSS, JS) : https://codepen.io/trending
 - Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search 

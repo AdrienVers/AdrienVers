@@ -82,6 +82,8 @@ Blog sur le développement web : https://www.designcise.com/web/develop
 
 En responsive, différents modèles et dimensions de mobiles : https://www.dimensions.com/collection/phones-cell-phones
 
+Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
+
 #### Dans la finance (:moneybag:) : 
 
 #### Dans l'électrotechnique (:electric_plug:) : 

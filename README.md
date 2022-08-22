@@ -62,10 +62,6 @@ Données techniques (HTML/CSS/JS) : https://developer.mozilla.org/fr/
 
 Données techniques et tests ludiques (HTML/CSS/JS) : https://www.w3schools.com/
 
-Validateur HTML (vérifier l'absence de coquilles en HTML) : https://validator.w3.org/ 
-
-Validateur CSS (vérifier l'absence de coquilles en CSS) : https://jigsaw.w3.org/css-validator/ 
-
 Précautions à respecter lors du développement d'un site web : https://www.w3.org/
 
 En React, la documentation sur les hooks principaux : https://fr.reactjs.org/docs/hooks-reference.html

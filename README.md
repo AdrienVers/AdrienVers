@@ -16,7 +16,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 ## <p>Mes différents projets <span>(:computer::page_with_curl:)</span></p>
 
-- ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,redux,materialui,vscode"/></a>)</span></p>
+- ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,firebase,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai voulu approndir mes connaîssances sur le framework React, pour cela j'ai réalisé le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), gestion de panier, donner son avis sur les plats, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur Joseph Paris. Pour plus de détails : 
 

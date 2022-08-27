@@ -80,7 +80,9 @@ En responsive, différents modèles et dimensions de mobiles : https://www.dimen
 
 Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
 
-#### Dans la finance (:moneybag:) : 
+#### Dans la finance (:moneybag:) :  
+
+S'entraîner gratuitement et virtuellement au trading : https://www.ig.com/fr/compte-demo
 
 #### Dans l'électrotechnique (:electric_plug:) : 
 

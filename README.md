@@ -84,5 +84,7 @@ Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
 
 S'entraîner gratuitement et virtuellement au trading : https://www.ig.com/fr/compte-demo
 
+Analyse des 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr?ref_id=16075&regulator=cysec&utm_campaign=16075&utm_medium=affiliate&utm_source=partner_referral
+
 #### Dans l'électrotechnique (:electric_plug:) : 
 

@@ -80,8 +80,6 @@ En responsive, différents modèles et dimensions de mobiles : https://www.dimen
 
 Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
 
-Top 5 des bibliothèques Carousel : https://npmtrends.com/react-elastic-carousel-vs-react-responsive-carousel-vs-react-slick-vs-slick-carousel-vs-swiper
-
 #### Dans la finance (:moneybag:) : 
 
 #### Dans l'électrotechnique (:electric_plug:) : 

@@ -88,5 +88,7 @@ Analyse des 7 catégories financières (actions, obligations, ETF, devises, indi
 
 Analyse du trafic de n'importe quel site web : https://www.similarweb.com/fr/
 
+Études des marchés financiers : https://www.reuters.com/markets/deals/
+
 #### Dans l'électrotechnique (:electric_plug:) : 
 

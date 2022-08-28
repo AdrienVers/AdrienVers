@@ -86,5 +86,7 @@ S'entraîner gratuitement et virtuellement au trading : https://www.ig.com/fr/co
 
 Analyse des 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
 
+Analyse du trafic de n'importe quel site web : https://www.similarweb.com/fr/
+
 #### Dans l'électrotechnique (:electric_plug:) : 
 

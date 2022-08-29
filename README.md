@@ -82,13 +82,15 @@ Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
 
 Choix de bibliothèque pour générer des formulaires (React) : https://npmtrends.com/formik-vs-react-hook-form
 
+Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www.similarweb.com/fr/
+
 #### Dans la finance (:moneybag:) :  
 
 S'entraîner gratuitement et virtuellement au trading : https://www.ig.com/fr/compte-demo
 
 Analyse des 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
 
-Analyse du trafic de n'importe quel site web : https://www.similarweb.com/fr/
+Actualité des marchés financiers : https://www.boursedirect.fr
 
 Études des marchés financiers : https://www.reuters.com/markets/deals/
 

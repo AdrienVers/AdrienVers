@@ -80,6 +80,8 @@ En responsive, différents modèles et dimensions de mobiles : https://www.dimen
 
 Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
 
+Choix de bibliothèque pour générer des formulaires (React) : https://npmtrends.com/formik-vs-react-hook-form
+
 #### Dans la finance (:moneybag:) :  
 
 S'entraîner gratuitement et virtuellement au trading : https://www.ig.com/fr/compte-demo

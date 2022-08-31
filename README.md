@@ -94,5 +94,7 @@ Actualité des marchés financiers : https://www.boursedirect.fr
 
 Études des marchés financiers : https://www.reuters.com/markets/deals/
 
+Comment bien choisir une action : https://www.hellomonnaie.fr/action-definition/
+
 #### Dans l'électrotechnique (:electric_plug:) : 
 

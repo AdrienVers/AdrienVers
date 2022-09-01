@@ -88,7 +88,7 @@ Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www
 
 S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo et/ou (Etoro) : https://www.etoro.com/fr/trading/demo-account/
 
-Analyse des 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
+Analyse de 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
 
 Actualité des marchés financiers : https://www.boursedirect.fr
 

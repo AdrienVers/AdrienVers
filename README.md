@@ -86,7 +86,7 @@ Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www
 
 #### Dans la finance (:moneybag:) :  
 
-S'entraîner gratuitement et virtuellement au trading : https://www.ig.com/fr/compte-demo
+S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo et/ou (Etoro) : https://www.etoro.com/fr/trading/demo-account/
 
 Analyse des 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
 

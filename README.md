@@ -100,7 +100,7 @@ Actualité des marchés financiers : https://www.boursedirect.fr
 Comment bien choisir une action : https://www.hellomonnaie.fr/action-definition/
 
 Analyse du PIB, consommation, production, secteurs d'activité, etc : https://www.insee.fr/fr/statistiques/2107840
-
+ 
 Analyse des enjeux géopolitiques : https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/
 
 #### Dans l'électrotechnique (:electric_plug:) : 

@@ -99,5 +99,7 @@ Actualité des marchés financiers : https://www.boursedirect.fr
 
 Comment bien choisir une action : https://www.hellomonnaie.fr/action-definition/
 
+Analyse des enjeux géopolitiques : https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/
+
 #### Dans l'électrotechnique (:electric_plug:) : 
 

@@ -87,9 +87,7 @@ Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www
 #### Dans la finance (:moneybag:) :  
 
 S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo et/ou (Etoro) : https://www.etoro.com/fr/trading/demo-account/
-Attention tout de même, en cas d'ouverture de compte réel, bien prendre en compte que malgré l'ancienneté de IG Markets (1974), ce courtier n'est pas réglementé par l'AMF (même souci pour Degiro).
-
-Comparatif : https://forexdepositbonuses.com/fr/comparatif/degiro-ou-ig-markets
+Attention tout de même, en cas d'ouverture de compte réel, bien prendre en compte que malgré l'ancienneté de IG Markets (1974), ce courtier n'est pas réglementé par l'AMF.
 
 Analyse de 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
 

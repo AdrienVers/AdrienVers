@@ -84,6 +84,8 @@ Choix de bibliothèque pour générer des formulaires (React) : https://npmtrend
 
 Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www.similarweb.com/fr/
 
+Extension Google permettant d'analyser les frameworks, librairies JS et CDN d'un site web : https://www.wappalyzer.com/
+
 #### Dans la finance (:moneybag:) :  
 
 S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo et/ou (Etoro) : https://www.etoro.com/fr/trading/demo-account/

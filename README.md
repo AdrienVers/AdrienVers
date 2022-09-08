@@ -30,7 +30,7 @@ Au travers de ce projet, j'ai voulu accentué mes connaîssances sur les API RES
 
 - ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
-Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, des recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : 
+Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : 
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 

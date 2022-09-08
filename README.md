@@ -88,6 +88,8 @@ Extension Google permettant d'analyser les frameworks, librairies JS et CDN d'un
 
 Extension Google permettant de revoir l'ancienne version et structure d'un site web (Wayback Machine) : https://archive.org/web/
 
+Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
+
 #### Dans la finance (:moneybag:) :  
 
 S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo et/ou (Etoro) : https://www.etoro.com/fr/trading/demo-account/

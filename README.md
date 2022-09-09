@@ -6,7 +6,7 @@ Les technologies qui me plaisent et que je maîtrise sont les suivantes :
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,cpp,unity)](https://skills.thijs.gg)
 
-J'ai également des notions en : 
+J'ai également des notions en :  
 
 [![My Skills](https://skills.thijs.gg/icons?i=ts,vue,nodejs,php,py)](https://skills.thijs.gg)
 

@@ -84,6 +84,8 @@ Choix de bibliothèque pour générer des formulaires (React) : https://npmtrend
 
 Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www.similarweb.com/fr/
 
+Référencement SEO (Bonnes pratique avec la balise meta description) :
+
 Extension Google permettant d'analyser les frameworks, librairies JS et CDN d'un site web : https://www.wappalyzer.com/
 
 Extension Google permettant de revoir l'ancienne version et structure d'un site web (Wayback Machine) : https://archive.org/web/

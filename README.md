@@ -65,7 +65,7 @@ Données techniques et tests ludiques (HTML/CSS/JS) : https://www.w3schools.com/
 Précautions à respecter lors du développement d'un site web : https://www.w3.org/
 
 En React, la documentation sur les hooks principaux : https://fr.reactjs.org/docs/hooks-reference.html
-
+ 
 En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
 
 Hébergeurs de code permettant de visualiser le résultat directement :

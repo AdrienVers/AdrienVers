@@ -92,19 +92,9 @@ Extension Google permettant de revoir l'ancienne version et structure d'un site 
 
 Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
 
-#### Dans la finance (:moneybag:) :  
-
-S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo
-
-Attention tout de même, en cas d'ouverture de compte réel, bien prendre en compte que malgré l'ancienneté de IG Markets (1974), ce courtier n'est pas réglementé par l'AMF.
-
-Analyse de 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr
+#### Autres :  
 
 Actualité des marchés financiers : https://www.boursedirect.fr
-
-Études des marchés financiers : https://www.reuters.com/markets/deals/
-
-Comment bien choisir une action : https://www.hellomonnaie.fr/action-definition/
 
 Analyse du PIB, consommation, production, secteurs d'activité, etc : https://www.insee.fr/fr/statistiques/2107840
  

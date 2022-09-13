@@ -94,7 +94,8 @@ Optimisation des performances React (grâce au hook useCallback) : https://m.you
 
 #### Dans la finance (:moneybag:) :  
 
-S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo 
+S'entraîner gratuitement et virtuellement au trading (IG Markets) : https://www.ig.com/fr/compte-demo
+
 Attention tout de même, en cas d'ouverture de compte réel, bien prendre en compte que malgré l'ancienneté de IG Markets (1974), ce courtier n'est pas réglementé par l'AMF.
 
 Analyse de 7 catégories financières (actions, obligations, ETF, devises, indices, matières premières, cryptomonnaies) : https://admiralmarkets.com/fr

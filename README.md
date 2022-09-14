@@ -20,9 +20,13 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 Au travers de ce projet, j'ai voulu approndir mes connaîssances sur le framework React, pour cela j'ai réalisé le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), gestion de panier, donner son avis sur les plats, formulaire de contact, carrousel d'actualité, menu dynamique, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur Joseph Paris. Pour plus de détails : 
 
+Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase.
+
 - ### <p>Roue de la fortune (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur Joseph Paris. Pour plus de détails : 
+
+
 
 - ### <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 

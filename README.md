@@ -26,8 +26,6 @@ Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext)
 
 Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur Joseph Paris. Pour plus de détails : 
 
-
-
 - ### <p>Site d'actualités scientifiques (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai voulu accentué mes connaîssances sur les API REST, pour cela j'ai décidé de réaliser un site web permettant d'accéder aux actualités scientifiques. Pour plus de détails : 

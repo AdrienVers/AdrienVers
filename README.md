@@ -70,6 +70,8 @@ En React, la documentation sur les hooks principaux : https://fr.reactjs.org/doc
  
 En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
 
+Tests utilitaires avec Jest, la documentation : https://jestjs.io/fr/docs/tutorial-react
+
 Hébergeurs de code permettant de visualiser le résultat directement :
 - Codepen (HTML, CSS, JS) : https://codepen.io/trending
 - Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search 

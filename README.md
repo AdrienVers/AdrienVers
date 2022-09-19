@@ -96,6 +96,8 @@ Extension Google permettant d'analyser les frameworks, librairies JS et CDN d'un
 
 Extension Google permettant de revoir l'ancienne version et structure d'un site web (Wayback Machine) : https://archive.org/web/
 
+Extension Google permettant de visualiser l'ensemble des éléments d'une page de façon colorée (Debug CSS) : https://github.com/pranayjoshicse/Debug-CSS
+
 Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
 
 #### Autres :  

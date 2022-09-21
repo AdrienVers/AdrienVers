@@ -70,7 +70,7 @@ En React, la documentation sur les hooks principaux : https://fr.reactjs.org/doc
  
 En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
 
-Tests utilitaires avec Jest, la documentation : https://jestjs.io/fr/docs/tutorial-react
+Jest (tests utilitaires), documentation : https://jestjs.io/fr/docs/tutorial-react
 
 Tests avec React Testing Library : https://testing-library.com/docs/react-testing-library/intro/
 

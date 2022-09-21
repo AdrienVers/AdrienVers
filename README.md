@@ -72,6 +72,8 @@ En Redux, la documentation sur les hooks principaux : https://react-redux.js.org
 
 Tests utilitaires avec Jest, la documentation : https://jestjs.io/fr/docs/tutorial-react
 
+Tests avec React Testing Library : https://testing-library.com/docs/react-testing-library/intro/
+
 Hébergeurs de code permettant de visualiser le résultat directement :
 - Codepen (HTML, CSS, JS) : https://codepen.io/trending
 - Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search 

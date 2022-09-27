@@ -102,6 +102,8 @@ Extension Google permettant de visualiser l'ensemble des éléments d'une page d
 
 Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
 
+Comparaison des performances entre CRA et Next.js : https://bts-sio-formation.com/divers/next
+
 #### Autres :  
 
 Actualité des marchés financiers : https://www.boursedirect.fr

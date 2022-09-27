@@ -54,6 +54,13 @@ Les toutes dernières versions et informations sur le Framework React (<p style=
 
 Livre pour approfondir ses connaissances en React (01/20, V16) : https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
 - ### Différentes ressources pour se perfectionner : 
 
 #### Dans le developpement web (:computer:) : 

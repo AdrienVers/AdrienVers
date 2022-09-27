@@ -70,6 +70,8 @@ Jest (tests utilitaires), documentation : https://jestjs.io/fr/docs/tutorial-rea
 
 React Testing Library, documentation : https://testing-library.com/docs/react-testing-library/intro/
 
+React Query, documentation : https://react-query-v3.tanstack.com/overview
+
 Blog sur React Query : https://blog.arcoptimizer.com/construire-la-vraie-application-avec-react-query/amp
 
 Hébergeurs de code permettant de visualiser le résultat directement :

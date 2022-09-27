@@ -50,16 +50,10 @@ Statistiques sur les librairies web les plus utilisées en 2021 : https://2021.s
 
 Statistiques sur les plateformes les plus utilisées en 2021 : https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
 
-Les toutes dernières versions et informations sur le Framework React (<p style={{color: "green"}}>V18.2</p>) : https://stackleap.io/js/react
+Les toutes dernières versions et informations sur le Framework React (```diff + V18.2```</p>) : https://stackleap.io/js/react
 
-Livre pour approfondir ses connaissances en React (01/20, V16) : https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722
+Livre pour approfondir ses connaissances en React (01/20, ```diff ! V16```) : https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
 
 - ### Différentes ressources pour se perfectionner : 
 

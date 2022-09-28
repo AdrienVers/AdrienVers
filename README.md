@@ -107,6 +107,8 @@ Optimisation des performances React (grâce au hook useCallback) : https://m.you
 
 Comparaison des performances entre CRA et Next.js : https://bts-sio-formation.com/divers/next
 
+API permettant de faire des tests de requêtes : https://jsonplaceholder.typicode.com/
+
 #### Autres :  
 
 Actualité des marchés financiers : https://www.boursedirect.fr

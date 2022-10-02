@@ -32,7 +32,7 @@ Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionn
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait dans un premier temps de réaliser une IHM utilisable de façon locale sur un pupitre opérateur, elle avait donc été programmée via Tia Portal, puis, il a fallu rendre les informations accessibles à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate, pouvant être affichées sur ordinateur (responsive non demandé). Pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très simplifiée, modifiée et ne dévoilant aucun des composants électrotechniques utilisés. Pour plus de détails :  
+Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait dans un premier temps de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, elle avait donc été programmée via Tia Portal ; puis, il a fallu rendre les informations accessibles sur un ordinateur à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate (envoyée par le web server de Tia Portal). Pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  
 
 - ### <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 

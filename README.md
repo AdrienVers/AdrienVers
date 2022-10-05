@@ -18,7 +18,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,firebase,vscode"/></a>)</span></p>
 
-Au travers de ce projet, j'ai approndi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com (React-Query), gestion de panier, système de filtre, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
+Au travers de ce projet, j'ai approndi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, système de filtre, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
 Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components, React-Query), Firebase.
 
@@ -26,19 +26,19 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-comme
 
 - ### <p>Roue de la fortune (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur Joseph Paris. Pour plus de détails : 
+Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/). Pour plus de détails : Le [code](https://github.com/AdrienVers/Roue-de-la-fortune) sur GitHub.
 
 - ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
 
-Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : 
+Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub.
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait dans un premier temps de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, elle avait donc été programmée via Tia Portal ; puis, il a fallu rendre les informations accessibles sur un ordinateur à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate (envoyée par le web server de Tia Portal). Pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  
+Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait dans un premier temps de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, elle avait donc été programmée via Tia Portal ; puis, il a fallu rendre les informations accessibles sur un ordinateur à distance, pour cela, j'ai réalisé une page web recevant et affichant les données de l'automate (envoyée par le web server de Tia Portal). Pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  Le [code](https://github.com/AdrienVers/IHM-industrielle) sur GitHub.
 
 - ### <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 
-Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : 
+Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : Le [code](https://github.com/AdrienVers/Little-Slayer) sur GitHub.
 
 ## <p><span></span></p>
 
@@ -48,14 +48,13 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 - ### Différentes technologies web recommandées et en devenir : 
 
-Statistiques sur les librairies web les plus utilisées en 2021 : https://2021.stateofjs.com/fr-FR/
+[Statistiques sur les librairies web les plus utilisées en 2021](https://2021.stateofjs.com/fr-FR/)
 
-Statistiques sur les plateformes les plus utilisées en 2021 : https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet
+[Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet)
 
-Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:) : https://stackleap.io/js/react
+[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://stackleap.io/js/react)
 
-Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722
-
+[Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722)
 
 - ### Différentes ressources pour se perfectionner : 
 

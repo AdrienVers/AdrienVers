@@ -78,7 +78,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Documentation sur les tests unitaires (Jest)](https://jestjs.io/fr/docs/tutorial-react).
 
-[Documentation sur les tests unitaires (React Testing Library)](https://testing-library.com/docs/react-testing-library/intro/).
+[Documentation sur les tests de composants (React Testing Library)](https://testing-library.com/docs/react-testing-library/intro/).
 
 ##### API REST :
 

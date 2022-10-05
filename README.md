@@ -61,7 +61,7 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 ##### React :
 
-[Documentation sur les hooks react principaux](https://fr.reactjs.org/docs/hooks-reference.html).
+[Documentation sur les hooks React principaux](https://fr.reactjs.org/docs/hooks-reference.html).
 
 [Comparaison des performances entre CRA et Next.js](https://bts-sio-formation.com/divers/next).
 
@@ -71,7 +71,7 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 ##### Redux :
 
-[Documentation sur les hooks redux principaux](https://react-redux.js.org/api/hooks).
+[Documentation sur les hooks Redux principaux](https://react-redux.js.org/api/hooks).
 
 ##### Tests :
 
@@ -81,27 +81,28 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 ##### API REST :
 
-React Query, documentation : https://react-query-v3.tanstack.com/overview
+[Documentation sur React Query](https://react-query-v3.tanstack.com/overview).
 
-Blog sur React Query : https://blog.arcoptimizer.com/construire-la-vraie-application-avec-react-query/amp
+[Blog sur React Query](https://blog.arcoptimizer.com/construire-la-vraie-application-avec-react-query/amp).
 
-API permettant de faire des tests de requêtes : https://jsonplaceholder.typicode.com/
+[API permettant de faire des tests de requêtes](https://jsonplaceholder.typicode.com/). 
 
 ##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :
-- Codepen (HTML, CSS, JS) : https://codepen.io/trending
-- Code Sandbox (React, Vue, Angular) : https://codesandbox.io/search 
-- Codeply (React, Vue, Angular) : https://www.codeply.com/ 
-- Js Fiddle (React, Vue, Angular) : https://jsfiddle.net/ 
 
-Blog sur le développement web : https://www.designcise.com/web/develop
+[- Codepen (HTML, CSS, JS)](https://codepen.io/trending). 
+[- Code Sandbox (React, Vue, Angular)](https://codesandbox.io/search).
+[- Codeply (React, Vue, Angular)](https://www.codeply.com/).
+[- Js Fiddle (React, Vue, Angular)](https://jsfiddle.net/).
 
-Données techniques (HTML/CSS/JS) : https://developer.mozilla.org/fr/
+[Blog sur le développement web](https://www.designcise.com/web/develop).
 
-Données techniques et tests ludiques (HTML/CSS/JS) : https://www.w3schools.com/
+[Données techniques (HTML/CSS/JS)](https://developer.mozilla.org/fr/).
 
-Précautions à respecter lors du développement d'un site web : https://www.w3.org/
+[Données techniques et tests ludiques (HTML/CSS/JS)](https://www.w3schools.com/).
+ 
+[Précautions à respecter lors du développement d'un site web](https://www.w3.org/).
 
 ##### UI/UX :
 

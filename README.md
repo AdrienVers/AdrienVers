@@ -59,7 +59,9 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 #### Dans le developpement web (:computer:) : 
 
-[En React, la documentation sur les hooks principaux]([https://github.com/facebook/create-react-app](https://fr.reactjs.org/docs/hooks-reference.html))
+https://fr.reactjs.org/docs/hooks-reference.html
+
+[En React, la documentation sur les hooks principaux]([https://fr.reactjs.org/docs/hooks-reference.html])
  
 En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
 

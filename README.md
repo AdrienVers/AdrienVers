@@ -91,10 +91,10 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 Hébergeurs de code permettant de visualiser le résultat directement :
 
-[- Codepen (HTML, CSS, JS)](https://codepen.io/trending). 
-[- Code Sandbox (React, Vue, Angular)](https://codesandbox.io/search).
-[- Codeply (React, Vue, Angular)](https://www.codeply.com/).
-[- Js Fiddle (React, Vue, Angular)](https://jsfiddle.net/).
+- [Codepen (HTML, CSS, JS)](https://codepen.io/trending). 
+- [Code Sandbox (React, Vue, Angular)](https://codesandbox.io/search).
+- [Codeply (React, Vue, Angular)](https://www.codeply.com/).
+- [Js Fiddle (React, Vue, Angular)](https://jsfiddle.net/).
 
 [Blog sur le développement web](https://www.designcise.com/web/develop).
 
@@ -106,34 +106,36 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 ##### UI/UX :
 
-En responsive, différents modèles et dimensions de mobiles : https://www.dimensions.com/collection/phones-cell-phones
+[Différents modèles et dimensions de mobiles pour le responsive)](https://www.dimensions.com/collection/phones-cell-phones).
 
-Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
+[Pour réaliser des maquettes UI/UX design (Figma)](https://www.figma.com/fr/).
 
-Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM : https://ellianabeberness.com/copy-of-chefy-ux-design-research
+##### Méthodologie agile :
+
+[Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).
 
 ##### SEO :
 
-Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www.similarweb.com/fr/
+[Analyse du trafic de n'importe quel site web](https://www.similarweb.com/fr/).
 
-Référencement SEO (Bonnes pratiques avec la balise meta description) : https://www.blogdumoderateur.com/seo-bonnes-pratiques-meta-descriptions/
+[Bonnes pratiques avec la balise meta description](https://www.blogdumoderateur.com/seo-bonnes-pratiques-meta-descriptions/).
 
-Livre sur le référencement SEO : Le SEO en 500 questions, Olivier Andrieu.
+[Livre sur le référencement SEO : Le SEO en 500 questions, Olivier Andrieu.](https://www.eyrolles.com/Informatique/Livre/le-seo-en-500-questions-9782416002168/).
 
 ##### Extensions Google :
 
-Extension Google permettant d'analyser les frameworks, librairies JS et CDN d'un site web : https://www.wappalyzer.com/
+[Analyse des frameworks, librairies JS et CDN d'un site web](https://www.wappalyzer.com/).
 
-Extension Google permettant de revoir l'ancienne version et structure d'un site web (Wayback Machine) : https://archive.org/web/
+[Revoir l'ancienne version et structure d'un site web (Wayback Machine)](https://archive.org/web/).
 
-Extension Google permettant de visualiser l'ensemble des éléments d'une page de façon colorée (Debug CSS) : https://github.com/pranayjoshicse/Debug-CSS
+[Visualisation de l'ensemble des éléments d'une page de façon colorée (Debug CSS)](https://github.com/pranayjoshicse/Debug-CSS).
 
 #### Autres :  
 
-Actualité des marchés financiers : https://www.boursedirect.fr
+[Actualité des marchés financiers](https://www.boursedirect.fr).
 
-Analyse du PIB, consommation, production, secteurs d'activité, etc : https://www.insee.fr/fr/statistiques/2107840
- 
-Analyse des enjeux géopolitiques : https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/
+[Analyse du PIB, consommation, production, secteurs d'activité, etc](https://www.insee.fr/fr/statistiques/2107840).
 
-Ressources en ingénierie mécanique : https://www.linkedin.com/mwlite/company/mechanical-engineering-learn
+[Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
+
+[Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).

@@ -59,21 +59,35 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 #### Dans le developpement web (:computer:) : 
 
-https://fr.reactjs.org/docs/hooks-reference.html
+##### React :
 
-This project was bootstrapped with [Create React App](https://fr.reactjs.org/docs/hooks-reference.html).
+[En React, la documentation sur les hooks principaux](https://fr.reactjs.org/docs/hooks-reference.html).
 
-[En React, la documentation sur les hooks principaux]([])
- 
+Choix de bibliothèque pour générer des formulaires (React) : https://npmtrends.com/formik-vs-react-hook-form
+
+Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
+
+Comparaison des performances entre CRA et Next.js : https://bts-sio-formation.com/divers/next
+
+##### Redux :
+
 En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
+
+##### Tests :
 
 Jest (tests utilitaires), documentation : https://jestjs.io/fr/docs/tutorial-react
 
 React Testing Library, documentation : https://testing-library.com/docs/react-testing-library/intro/
 
+##### API REST :
+
 React Query, documentation : https://react-query-v3.tanstack.com/overview
 
 Blog sur React Query : https://blog.arcoptimizer.com/construire-la-vraie-application-avec-react-query/amp
+
+API permettant de faire des tests de requêtes : https://jsonplaceholder.typicode.com/
+
+##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :
 - Codepen (HTML, CSS, JS) : https://codepen.io/trending
@@ -89,13 +103,15 @@ Données techniques et tests ludiques (HTML/CSS/JS) : https://www.w3schools.com/
 
 Précautions à respecter lors du développement d'un site web : https://www.w3.org/
 
+##### UI/UX :
+
 En responsive, différents modèles et dimensions de mobiles : https://www.dimensions.com/collection/phones-cell-phones
 
 Pour réaliser des maquettes UI/UX design : https://www.figma.com/fr/
 
 Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM : https://ellianabeberness.com/copy-of-chefy-ux-design-research
 
-Choix de bibliothèque pour générer des formulaires (React) : https://npmtrends.com/formik-vs-react-hook-form
+##### SEO :
 
 Référencement SEO (Analyse du trafic de n'importe quel site web) : https://www.similarweb.com/fr/
 
@@ -103,17 +119,13 @@ Référencement SEO (Bonnes pratiques avec la balise meta description) : https:/
 
 Livre sur le référencement SEO : Le SEO en 500 questions, Olivier Andrieu.
 
+##### Extensions Google :
+
 Extension Google permettant d'analyser les frameworks, librairies JS et CDN d'un site web : https://www.wappalyzer.com/
 
 Extension Google permettant de revoir l'ancienne version et structure d'un site web (Wayback Machine) : https://archive.org/web/
 
 Extension Google permettant de visualiser l'ensemble des éléments d'une page de façon colorée (Debug CSS) : https://github.com/pranayjoshicse/Debug-CSS
-
-Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
-
-Comparaison des performances entre CRA et Next.js : https://bts-sio-formation.com/divers/next
-
-API permettant de faire des tests de requêtes : https://jsonplaceholder.typicode.com/
 
 #### Autres :  
 

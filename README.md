@@ -61,23 +61,23 @@ Livre pour approfondir ses connaissances en React (01/20, V16 :ok:) : https://ww
 
 ##### React :
 
-[En React, la documentation sur les hooks principaux](https://fr.reactjs.org/docs/hooks-reference.html).
+[Documentation sur les hooks react principaux](https://fr.reactjs.org/docs/hooks-reference.html).
 
-Choix de bibliothèque pour générer des formulaires (React) : https://npmtrends.com/formik-vs-react-hook-form
+[Comparaison des performances entre CRA et Next.js](https://bts-sio-formation.com/divers/next).
 
-Optimisation des performances React (grâce au hook useCallback) : https://m.youtube.com/watch?v=tbBILjDgXb4
+[Optimisation des performances React (Vidéo sur le hook useCallback)](https://m.youtube.com/watch?v=tbBILjDgXb4).
 
-Comparaison des performances entre CRA et Next.js : https://bts-sio-formation.com/divers/next
+[Choix de bibliothèque pour générer des formulaires](https://npmtrends.com/formik-vs-react-hook-form).
 
 ##### Redux :
 
-En Redux, la documentation sur les hooks principaux : https://react-redux.js.org/api/hooks
+[Documentation sur les hooks redux principaux](https://react-redux.js.org/api/hooks).
 
 ##### Tests :
 
-Jest (tests utilitaires), documentation : https://jestjs.io/fr/docs/tutorial-react
+[Documentation sur les tests unitaires (Jest)](https://jestjs.io/fr/docs/tutorial-react).
 
-React Testing Library, documentation : https://testing-library.com/docs/react-testing-library/intro/
+[Documentation sur les tests unitaires (React Testing Library)](https://testing-library.com/docs/react-testing-library/intro/).
 
 ##### API REST :
 

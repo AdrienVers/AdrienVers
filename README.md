@@ -29,7 +29,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-comme
 Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/). Pour plus de détails : Le [code](https://github.com/AdrienVers/Roue-de-la-fortune) sur GitHub.
 
 - ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
-
+ 
 Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub.
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>

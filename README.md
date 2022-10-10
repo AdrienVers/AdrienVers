@@ -30,7 +30,7 @@ Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javas
 
 - ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
  
-Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (utilisation d'API, gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, gestion des abonnements, etc..). Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub.
+Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, etc..). Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub.
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 

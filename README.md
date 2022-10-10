@@ -111,6 +111,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Pour réaliser des maquettes UI/UX design (Figma)](https://www.figma.com/fr/).
 
+[Projets donnant des idées créations et/ou modifications de design (Adobe Labs)](https://labs.adobe.com/).
+
 ##### Méthodologie agile :
 
 [Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).

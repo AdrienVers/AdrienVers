@@ -102,6 +102,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 [Données techniques (HTML/CSS/JS)](https://developer.mozilla.org/fr/).
 
 [Données techniques et tests ludiques (HTML/CSS/JS)](https://www.w3schools.com/).
+
+[Flex-box tout en 1](https://codesandbox.io/s/layan-forked-qzz2zg?from-embed).
  
 [Précautions à respecter lors du développement d'un site web](https://www.w3.org/).
 

@@ -80,6 +80,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Documentation sur les tests de composants (React Testing Library)](https://testing-library.com/docs/react-testing-library/intro/).
 
+[Tester les performances d'un site](https://tools.pingdom.com/)
+
 ##### API REST :
 
 [Documentation sur React Query](https://react-query-v3.tanstack.com/overview).

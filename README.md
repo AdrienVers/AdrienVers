@@ -62,7 +62,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 ##### React :
 
-[Documentation sur les hooks React principaux](https://fr.reactjs.org/docs/hooks-reference.html).
+[Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://fr.reactjs.org/docs/hooks-reference.html).
 
 [Comparaison des performances entre CRA et Next.js](https://bts-sio-formation.com/divers/next).
 
@@ -72,7 +72,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 ##### Redux :
 
-[Documentation sur les hooks Redux principaux](https://react-redux.js.org/api/hooks).
+[Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
 
 ##### Tests :
 

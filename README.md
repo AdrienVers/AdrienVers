@@ -90,6 +90,10 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [API permettant de faire des tests de requêtes](https://jsonplaceholder.typicode.com/). 
 
+[API fiable sur les recettes de cuisine](https://spoonacular.com/food-api).
+
+[API fiable sur les films et séries](https://www.themoviedb.org/documentation/api)
+
 ##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :

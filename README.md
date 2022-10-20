@@ -92,7 +92,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [API fiable sur les recettes de cuisine](https://spoonacular.com/food-api).
 
-[API fiable sur les films et séries](https://www.themoviedb.org/documentation/api)
+[API fiable sur les films et séries](https://www.themoviedb.org/documentation/api).
 
 ##### HTML/CSS/JS :
 

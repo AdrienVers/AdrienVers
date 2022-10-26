@@ -115,7 +115,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 ##### CSS-in-JS :
 
-[Présentation de librairies CSS-in-JS sans runtime](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/)
+[Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/)
 
 ##### UI/UX :
 

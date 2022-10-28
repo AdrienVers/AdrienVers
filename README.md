@@ -149,6 +149,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).
 
+[Vérifier qu'un courtier en ligne ou banque est bien autorisé par l'AMF](https://www.amf-france.org/fr/espace-epargnants/proteger-son-epargne/faire-les-verifications).
+
 [Analyse du PIB, consommation, production, secteurs d'activité, etc](https://www.insee.fr/fr/statistiques/2107840).
 
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).

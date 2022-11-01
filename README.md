@@ -74,7 +74,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
 
-##### Tests :
+##### Tests : 
 
 [Documentation sur les tests unitaires (Jest)](https://jestjs.io/fr/docs/tutorial-react).
 

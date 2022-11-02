@@ -8,7 +8,7 @@ Les technologies qui me plaisent et que je maîtrise sont les suivantes :
 
 J'ai également des notions en :  
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,vue,nodejs,php,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,redux,vue,nodejs,php,py)](https://skills.thijs.gg)
 
 ## <p><span></span></p>
 
@@ -16,7 +16,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 ## <p>Mes différents projets <span>(:computer::page_with_curl:)</span></p>
 
-- ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,typescript,firebase,vscode"/></a>)</span></p>
+- ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai approndi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
@@ -28,7 +28,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-comme
 
 Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/). Pour plus de détails : Le [code](https://github.com/AdrienVers/Roue-de-la-fortune) sur GitHub.
 
-- ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,redux,materialui,vscode"/></a>)</span></p>
+- ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,vscode"/></a>)</span></p>
  
 Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, etc..). Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub.
 

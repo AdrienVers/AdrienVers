@@ -22,15 +22,22 @@ Au travers de ce projet, j'ai approndi mes connaîssances sur le framework React
 
 Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components, React-Query), Firebase.
 
-Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-commerce) sur GitHub, l'accès au [site](https://adrienvers.github.io/site-de-e-commerce/).  
+Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-commerce) sur GitHub, l'accès au [site](https://adrienvers.github.io/site-de-e-commerce/).
+
+
+- ### <p>Application de Cross-fit (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,ts,redux,vscode"/></a>)</span></p>
+ 
+Au travers de ce projet, j'ai décidé de mieux gérer le state management de mon application React en passant par Redux, tout en me familiarisant au TypeScript. Pour plus de détails : Le [code](https://github.com/AdrienVers/Cross-fit) sur GitHub, l'accès au [site](https://adrienvers.github.io/Cross-fit/).
+
 
 - ### <p>Roue de la fortune (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/). Pour plus de détails : Le [code](https://github.com/AdrienVers/Roue-de-la-fortune) sur GitHub.
 
+
 - ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
  
-Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web (gestion des tags, recherches, connexion/déconnexion, mode clair/sombre, etc..). Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub.
+Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web, ainsi que de communiquer avec une API REST. Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub, l'accès au [site](https://adrienvers.github.io/youtube-clone/).
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 

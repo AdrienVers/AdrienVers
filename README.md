@@ -55,11 +55,13 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 - ### Différentes technologies web recommandées et en devenir : 
 
-[Statistiques sur les librairies web les plus utilisées en 2021](https://2021.stateofjs.com/fr-FR/)
+[Statistiques sur les librairies web les plus utilisées en 2021](https://2021.stateofjs.com/fr-FR/).
 
-[Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet)
+[Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
 
-[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://stackleap.io/js/react)
+[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://stackleap.io/js/react).
+
+[Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 
 [Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722)
 

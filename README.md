@@ -89,7 +89,9 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Documentation sur les tests de composants (React Testing Library)](https://testing-library.com/docs/react-testing-library/intro/).
 
-[Tester les performances d'un site](https://tools.pingdom.com/)
+[Tester les performances d'un site](https://tools.pingdom.com/).
+
+[Installer Jest dans NextJS](https://blog.logrocket.com/testing-next-js-apps-jest/).
 
 ##### API REST :
 
@@ -124,7 +126,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 ##### CSS-in-JS :
 
-[Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/)
+[Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/).
 
 ##### UI/UX :
 

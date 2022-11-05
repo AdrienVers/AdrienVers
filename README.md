@@ -128,7 +128,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/).
 
-[Installer styled-components dans NextJS (V13 :white_check_mark:)](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components).
+[Tendance entre styled-components (+ CRA) et styled-jsx (+ NextJS)](https://npmtrends.com/styled-components-vs-styled-jsx).
 
 ##### UI/UX :
 

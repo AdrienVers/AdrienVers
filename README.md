@@ -91,7 +91,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Tester les performances d'un site](https://tools.pingdom.com/).
 
-[Installer Jest dans NextJS](https://blog.logrocket.com/testing-next-js-apps-jest/).
+[Installer Jest dans NextJS (fonctionnel avec la V13)](https://blog.logrocket.com/testing-next-js-apps-jest/).
 
 ##### API REST :
 
@@ -127,6 +127,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 ##### CSS-in-JS :
 
 [Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/).
+
+[Installer styled-components dans NextJS (fonctionnel avec la V13)](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components).
 
 ##### UI/UX :
 

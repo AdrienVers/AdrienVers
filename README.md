@@ -158,6 +158,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Visualisation de l'ensemble des éléments d'une page de façon colorée (Debug CSS)](https://github.com/pranayjoshicse/Debug-CSS).
 
+[Récupérer n'importe quelle couleur d'un site web](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?hl=fr).
+
 #### Autres :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

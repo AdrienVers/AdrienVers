@@ -152,13 +152,13 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 ##### Extensions Google :
 
-[Analyse des frameworks, librairies JS et CDN d'un site web](https://www.wappalyzer.com/).
+[Analyse des frameworks, librairies JS et CDN d'un site web (Wappalyzer)](https://www.wappalyzer.com/).
 
 [Revoir l'ancienne version et structure d'un site web (Wayback Machine)](https://archive.org/web/).
 
 [Visualisation de l'ensemble des éléments d'une page de façon colorée (Debug CSS)](https://github.com/pranayjoshicse/Debug-CSS).
 
-[Récupérer n'importe quelle couleur d'un site web](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?hl=fr).
+[Récupérer n'importe quelle couleur d'un site web (Smart Color Picker)](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?hl=fr).
 
 #### Autres :  
 

@@ -160,6 +160,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Récupérer n'importe quelle couleur d'un site web (Smart Color Picker)](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl?hl=fr).
 
+[Récupérer n'importe quelle police (font-family) d'un site web (Font Finder)](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha/related?hl=fr).
+
 #### Autres :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

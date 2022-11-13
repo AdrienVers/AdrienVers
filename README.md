@@ -107,6 +107,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [API fiable sur les films et séries](https://www.themoviedb.org/documentation/api).
 
+[API du gouvernement permettant d'obtenir des données publiques sur les entreprises (chiffre d'affaire, cotation en bourse, etc.)](https://api.gouv.fr/documentation/api-info-financiere).
+
 ##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :

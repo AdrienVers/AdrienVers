@@ -134,6 +134,10 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Tendance entre styled-components (+ CRA) et emotion (+ NextJS)](https://npmtrends.com/@emotion/react-vs-styled-components).
 
+##### TypeScript : 
+
+[Les bases à connaître avant de démarrer un projet en TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html).
+
 ##### UI/UX :
 
 [Différents modèles et dimensions de mobiles pour le responsive)](https://www.dimensions.com/collection/phones-cell-phones).

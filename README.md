@@ -128,6 +128,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
  
 [Précautions à respecter lors du développement d'un site web](https://www.w3.org/).
 
+[Patterns usuels en JS recommandés par la W3C](https://www.w3.org/WAI/ARIA/apg/patterns/).
+
 ##### CSS-in-JS :
 
 [Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/).

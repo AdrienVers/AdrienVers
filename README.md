@@ -160,6 +160,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Livre sur le référencement SEO : Le SEO en 500 questions, Olivier Andrieu.](https://www.eyrolles.com/Informatique/Livre/le-seo-en-500-questions-9782416002168/).
 
+[Améliorer la vitesse de chargement du contenu (LCP)](https://web.dev/optimize-lcp/).
+
 ##### Extensions Google :
 
 [Analyse des frameworks, librairies JS et CDN d'un site web (Wappalyzer)](https://www.wappalyzer.com/).

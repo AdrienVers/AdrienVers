@@ -188,5 +188,3 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).
 
-| <a href="https://github.com/adrienvers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adrienvers&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adrien's github stats" /></a> | <a href="https://github.com/adrienvers/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienvers&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |

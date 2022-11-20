@@ -187,3 +187,5 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
 [Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrienvers&show_icons=true&theme=transparent)

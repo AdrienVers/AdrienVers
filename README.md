@@ -73,6 +73,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://fr.reactjs.org/docs/hooks-reference.html).
 
+[Maîtriser le hook useEffect](https://alexsidorenko.com/blog/useeffect/).
+
 [Comparaison des performances entre CRA et Next.js](https://bts-sio-formation.com/divers/next).
 
 [Optimisation des performances React (Vidéo sur le hook useCallback)](https://m.youtube.com/watch?v=tbBILjDgXb4).

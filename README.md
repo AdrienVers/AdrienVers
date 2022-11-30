@@ -180,6 +180,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Récupérer n'importe quelle police (font-family) d'un site web (Font Finder)](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha/related?hl=fr).
 
+[Visualiser un site web sous différents supports d'un seul coup (PC, tablette, mobile, etc.)](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?ref=blogduwebdesign.com).
+
 #### Autres :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

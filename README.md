@@ -85,6 +85,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
 
+[Zustand : Une alternative de state management possible face aux différents problèmes liées au Context API ou à Redux](https://github.com/pmndrs/zustand).
+
 ##### Tests : 
 
 [Documentation générale sur les tests unitaires (Jest)](https://jestjs.io/fr/docs/tutorial-react).

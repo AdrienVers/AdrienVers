@@ -115,6 +115,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Utilisation de AWS Amplify pour React](https://ui.docs.amplify.aws/?platform=react).
 
+[Article intéressant sur le GraphQL](https://blog.octo.com/graphql-et-pourquoi-faire/).
+
 ##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :

@@ -71,7 +71,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 ##### React :
 
-[Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://fr.reactjs.org/docs/hooks-reference.html).
+[Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://fr.reactjs.org/docs/hooks-reference.html). (lien n'est plus fonctionnel..)
 
 [Maîtriser le hook useEffect](https://alexsidorenko.com/blog/useeffect/).
 

@@ -152,6 +152,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Les bases à connaître avant de démarrer un projet en TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html).
 
+[Transformer du JS en TS de façon amusante](https://chat.openai.com/chat).
+
 ##### UI/UX :
 
 [Différents modèles et dimensions de mobiles pour le responsive)](https://www.dimensions.com/collection/phones-cell-phones).

@@ -59,7 +59,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
 
-[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://stackleap.io/js/react).
+[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://stackleap.io/js/react).  (le lien n'est plus fonctionnel..)
 
 [Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 
@@ -71,7 +71,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 ##### React :
 
-[Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://fr.reactjs.org/docs/hooks-reference.html). (lien n'est plus fonctionnel..)
+[Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://fr.reactjs.org/docs/hooks-reference.html).
 
 [Maîtriser le hook useEffect](https://alexsidorenko.com/blog/useeffect/).
 

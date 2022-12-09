@@ -18,7 +18,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 - ### <p>Site de trading (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,jest,firebase"/></a>)</span></p>
 
-Réalisation d'un site de trading permettant de s'initier au monde financier et à la Bouse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, etc...).
+Réalisation d'un site de trading permettant de s'initier au monde financier et à la Bouse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, SEO avec Next et les métadonnées).
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase. 
 

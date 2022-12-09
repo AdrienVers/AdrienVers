@@ -117,7 +117,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [AWS Amplify : Utilisation avec React](https://ui.docs.amplify.aws/?platform=react).
 
-[AWS Amplify : Migration de GraphQL Transformer v1 à v2](AWS Amplify, migration de GraphQL Transformer v1 à v2).
+[AWS Amplify : Migration de GraphQL Transformer v1 à v2](https://docs.amplify.aws/cli/migration/transformer-migration/#changes-that-amplify-cli-will-auto-migrate-for-you).
 
 [Article intéressant sur le GraphQL](https://blog.octo.com/graphql-et-pourquoi-faire/).
 

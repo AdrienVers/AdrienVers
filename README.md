@@ -4,11 +4,11 @@ Après une première expérience réussie dans le monde de l'industrie en tant q
 
 Les technologies qui me plaisent et que je maîtrise sont les suivantes : 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,cpp,unity)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,ts,unity)](https://skills.thijs.gg)
 
 J'ai également des notions en :  
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,redux,vue,nodejs,php,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=redux,vue,nodejs,cpp,php,py)](https://skills.thijs.gg)
 
 ## <p><span></span></p>
 

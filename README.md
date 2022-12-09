@@ -190,6 +190,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Visualiser un site web sous différents supports d'un seul coup (PC, tablette, mobile, etc.)](https://chrome.google.com/webstore/detail/sizzy/nfhlbmjiiogoelaflfclodlkncbdiefo?ref=blogduwebdesign.com).
 
+[Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
+
 #### Autres :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

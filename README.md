@@ -59,7 +59,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
 
-[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://stackleap.io/js/react).  (leur site n'est plus fonctionnel..)
+[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md#1702-march-22-2021).
 
 [Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 

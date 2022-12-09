@@ -16,11 +16,20 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 ## <p>Mes différents projets <span>(:computer::page_with_curl:)</span></p>
 
+- ### <p>Site de trading (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,jest,firebase"/></a>)</span></p>
+
+Réalisation d'un site de trading permettant de s'initier au monde financier et à la Bouse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, etc...).
+
+Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase. 
+
+Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money) sur GitHub, l'accès au [site](https://district-money.vercel.app/).
+
+
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai approndi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
-Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components, React-Query), Firebase. 
+Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase. 
 
 Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-commerce) sur GitHub, l'accès au [site](https://adrienvers.github.io/site-de-e-commerce/).
 

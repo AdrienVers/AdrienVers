@@ -211,6 +211,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Analyse des décisions et orientations politiques de la Commission européenne 2019-2024](https://ec.europa.eu/info/strategy/priorities-2019-2024_fr).
 
+[Statistiques et données en Europe (taux d'inflation, PIB, prix du logement, etc..](https://ec.europa.eu/eurostat/fr/).
+
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
 [Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).

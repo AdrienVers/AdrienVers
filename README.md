@@ -217,3 +217,4 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).
 
+[Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

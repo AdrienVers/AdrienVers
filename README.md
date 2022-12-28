@@ -175,13 +175,13 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).
 
-##### Systèmes d'authentification :
+##### Services cloud (authentification, gestion des données, etc) :
 
-[Firebase](https://firebase.google.com/products/auth?gclid=CjwKCAiA76-dBhByEiwAA0_s9TIzbEOrTwflV9s99mYHiz0xQd9lI57HNlcmWvCRmJXOgBdaZinH1RoC3YcQAvD_BwE&gclsrc=aw.ds).
+[Firebase avec Firestore pour la gestion des données](https://firebase.google.com/products/auth?gclid=CjwKCAiA76-dBhByEiwAA0_s9TIzbEOrTwflV9s99mYHiz0xQd9lI57HNlcmWvCRmJXOgBdaZinH1RoC3YcQAvD_BwE&gclsrc=aw.ds).
 
-[AWS](https://aws.amazon.com/fr/iam/).
+[AWS avec DynamoDB pour la gestion des données](https://aws.amazon.com/fr/iam/).
 
-[NextAuth](https://next-auth.js.org/).
+[Une alternative aux 2 premiers pour le système d'authentification : NextAuth](https://next-auth.js.org/).
 
 ##### SEO :
 

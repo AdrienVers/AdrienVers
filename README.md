@@ -90,6 +90,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Choix de bibliothèque pour générer des formulaires](https://npmtrends.com/formik-vs-react-hook-form).
 
+[Mieux gérer l'organisation de ses dossiers / fichiers dans un projet React](https://www.youtube.com/watch?v=UUga4-z7b6s).
+
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

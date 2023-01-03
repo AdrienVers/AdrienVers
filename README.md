@@ -92,6 +92,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Mieux gérer l'organisation de ses dossiers / fichiers dans un projet React](https://www.youtube.com/watch?v=UUga4-z7b6s).
 
+[Roadmap interactive pour React (également pour les Frontend, Backend, DevOps et QA Testers)](https://roadmap.sh/react).
+
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
@@ -211,7 +213,9 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 
-#### Autres :  
+#### Autres secteurs (:bulb:) : 
+
+#### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).
 
@@ -225,8 +229,6 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
-[Roadmap interactive pour les QA Testers (également pour les Frontend, Backend et DevOps)](https://roadmap.sh/qa).
-
-[Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).
+#### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

@@ -215,7 +215,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 #### Autres secteurs (:bulb:) : 
 
-#### Finance :  
+##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).
 
@@ -225,10 +225,10 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Analyse des décisions et orientations politiques de la Commission européenne 2019-2024](https://ec.europa.eu/info/strategy/priorities-2019-2024_fr).
 
-[Statistiques et données en Europe (taux d'inflation, PIB, prix du logement, etc..](https://ec.europa.eu/eurostat/fr/).
+[Statistiques et données en Europe (taux d'inflation, PIB, prix du logement, etc..)](https://ec.europa.eu/eurostat/fr/).
 
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
-#### Cybersécurité :  
+##### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

@@ -225,7 +225,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
-[Roadmap pour les QA Testers](https://roadmap.sh/qa).
+[Roadmap interactive pour les QA Testers (également pour les Frontend, Backend et DevOps)](https://roadmap.sh/qa).
 
 [Ressources en ingénierie mécanique](https://www.linkedin.com/mwlite/company/mechanical-engineering-learn).
 

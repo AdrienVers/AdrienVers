@@ -27,7 +27,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money)
 
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
 
-Au travers de ce projet, j'ai approndi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
+Au travers de ce projet, j'ai approfondi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
 Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase. 
 
@@ -179,13 +179,15 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).
 
-##### Services cloud (authentification, gestion des données, etc) :
+##### Services cloud (authentification, gestion des données, etc..) :
 
 [Firebase avec Firestore pour la gestion des données](https://firebase.google.com/products/auth?gclid=CjwKCAiA76-dBhByEiwAA0_s9TIzbEOrTwflV9s99mYHiz0xQd9lI57HNlcmWvCRmJXOgBdaZinH1RoC3YcQAvD_BwE&gclsrc=aw.ds).
 
 [AWS avec DynamoDB pour la gestion des données](https://aws.amazon.com/fr/iam/).
 
 [Une alternative aux 2 premiers pour le système d'authentification : NextAuth](https://next-auth.js.org/).
+
+[Les différentes catégories de services en Cloud Computing (IaaS, PaaS, SaaS)](https://archipelia.com/iaas-paas-saas/).
 
 ##### SEO :
 

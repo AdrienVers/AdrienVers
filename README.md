@@ -94,6 +94,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Roadmap interactive pour React (également pour les Frontend, Backend, DevOps et QA Testers)](https://roadmap.sh/react).
 
+[Bibliothèque permettant de récupérer des cartes sous format svg : react-simple-maps](https://www.react-simple-maps.io/).
+
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

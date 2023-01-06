@@ -177,6 +177,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Projets donnant des idées créations et/ou modifications de design (Adobe Labs)](https://labs.adobe.com/).
 
+[Choisir les bonnes couleurs pour un design optimal de son site web](https://graphiste.com/blog/comment-choisir-les-couleurs-dun-logo/).
+
 ##### Méthodologie agile :
 
 [Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).

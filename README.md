@@ -96,6 +96,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).
 
+[Site web permettant de télécharger les SVG de différentes cartes géographiques](https://pixelmap.amcharts.com/).
+
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

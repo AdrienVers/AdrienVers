@@ -171,6 +171,10 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Transformer du JS en TS de façon amusante](https://chat.openai.com/chat).
 
+##### BDD :
+
+[Générateur de requêtes SQL](https://www.text2sql.ai/).
+
 ##### UI/UX :
 
 [Différents modèles et dimensions de mobiles pour le responsive)](https://www.dimensions.com/collection/phones-cell-phones).

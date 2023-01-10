@@ -31,7 +31,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money)
 
 Au travers de ce projet, j'ai approfondi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
-![Le Normand Voyageur](https://user-images.githubusercontent.com/59047879/211547786-5104e300-e041-4941-bf90-cfb7667cd988.png)
+![Le Normand Voyageur](https://user-images.githubusercontent.com/59047879/211549436-0ba58dcf-ba2e-4295-b02b-a6ed5cd96242.png)
 
 Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase. 
 

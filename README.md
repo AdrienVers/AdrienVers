@@ -20,6 +20,8 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 Réalisation d'un site de trading permettant de s'initier au monde financier et à la Bourse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, meilleur référencement avec Next et les métadonnées).
 
+![District Money](https://user-images.githubusercontent.com/59047879/211547728-e54d8809-d927-4fb9-bcb3-0a890d4c3985.png)
+
 Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase. 
 
 Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money) sur GitHub, l'accès au [site](https://district-money.vercel.app/).
@@ -28,6 +30,8 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money)
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
 
 Au travers de ce projet, j'ai approfondi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
+
+![Le Normand Voyageur](https://user-images.githubusercontent.com/59047879/211547786-5104e300-e041-4941-bf90-cfb7667cd988.png)
 
 Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase. 
 

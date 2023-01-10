@@ -175,6 +175,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Générateur de requêtes SQL](https://www.text2sql.ai/).
 
+[ORM permettant de manipuler les BDD relationnelles (PostgreSQL) et non relationnelles (MongoDB) : Prisma](https://www.prisma.io/).
+
 ##### UI/UX :
 
 [Différents modèles et dimensions de mobiles pour le responsive)](https://www.dimensions.com/collection/phones-cell-phones).

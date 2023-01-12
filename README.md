@@ -203,6 +203,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Une alternative aux 2 premiers pour le système d'authentification : NextAuth](https://next-auth.js.org/).
 
+[Liste des Authentication Providers pouvant être utilisés avec NextJS](https://nextjs.org/docs/authentication).
+
 [Les différentes catégories de services en Cloud Computing (IaaS, PaaS, SaaS)](https://archipelia.com/iaas-paas-saas/).
 
 ##### SEO :

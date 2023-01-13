@@ -68,7 +68,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 - ### Différentes technologies web recommandées et en devenir : 
 
-[Statistiques sur les librairies web les plus utilisées en 2021](https://2021.stateofjs.com/fr-FR/).
+[Statistiques sur les librairies web les plus utilisées en 2022](https://2022.stateofjs.com/en-US/libraries/) :white_check_mark:.
 
 [Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
 

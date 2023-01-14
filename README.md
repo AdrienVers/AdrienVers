@@ -229,7 +229,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Récupérer n'importe quelle police (font-family) d'un site web (Font Finder)](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha/related?hl=fr).
 
-[Visualiser un site web sous différents supports d'un seul coup (PC, tablette, mobile, etc.) (gratuitement) : Responsively App](https://responsively.app/).
+[Visualiser un site web sous différents supports d'un seul coup (PC, tablette, mobile, etc.) : Responsively App](https://responsively.app/).
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 

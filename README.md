@@ -175,6 +175,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Transformer du JS en TS de façon amusante](https://chat.openai.com/chat).
 
+[Fiche pratique sur les types en TypeScript](https://doabledanny.gumroad.com/l/typescript-cheat-sheet-pdf).
+
 ##### BDD :
 
 [Générateur de requêtes SQL](https://www.text2sql.ai/).

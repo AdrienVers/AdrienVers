@@ -193,7 +193,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Choisir les bonnes couleurs pour un design optimal de son site web](https://graphiste.com/blog/comment-choisir-les-couleurs-dun-logo/).
 
-[Illustrations libres de droits pour le design UI / UX](https://fr.freepik.com/search?format=search&query=ux%20design).
+[Illustrations libres de droits pour le UI/UX design](https://fr.freepik.com/search?format=search&query=ux%20design).
 
 ##### Méthodologie agile :
 

@@ -98,10 +98,6 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Roadmap interactive pour React (également pour les Frontend, Backend, DevOps et QA Testers)](https://roadmap.sh/react).
 
-[Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).
-
-[Site web permettant de télécharger les SVG de différentes cartes géographiques](https://pixelmap.amcharts.com/).
-
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
@@ -194,6 +190,14 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 [Choisir les bonnes couleurs pour un design optimal de son site web](https://graphiste.com/blog/comment-choisir-les-couleurs-dun-logo/).
 
 [Illustrations libres de droits pour le UI/UX design](https://fr.freepik.com/search?format=search&query=ux%20design).
+
+##### SVG :
+
+[Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).
+
+[Site web permettant de télécharger les SVG de différentes cartes géographiques](https://pixelmap.amcharts.com/).
+
+[Générateur d'illustrations sous format SVG](https://illustroke.com/).
 
 ##### Méthodologie agile :
 

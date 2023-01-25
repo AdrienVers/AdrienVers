@@ -189,6 +189,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Choisir les bonnes couleurs pour un design optimal de son site web](https://graphiste.com/blog/comment-choisir-les-couleurs-dun-logo/).
 
+[Collection d'outils permettant la réalisation facile et gratuite de motifs, dégradés, textures et formes](https://fffuel.co/).
+
 [Illustrations libres de droits pour le UI/UX design](https://fr.freepik.com/search?format=search&query=ux%20design).
 
 ##### SVG :

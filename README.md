@@ -243,6 +243,10 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 
+##### Développeurs, Formateurs et Youtubeurs respectant les bonnes pratiques à suivre pour progresser :
+
+[Jack Herrington - Senior Full Stack Developer (Next/React, Vue, TypeScript, GraphQL)](https://www.youtube.com/@jherr/featured).
+
 #### Autres secteurs (:bulb:) : 
 
 ##### Finance :  

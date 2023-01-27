@@ -98,6 +98,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Roadmap interactive pour React (également pour les Frontend, Backend, DevOps et QA Testers)](https://roadmap.sh/react).
 
+[Newsletters publics et intéressantes sur React et les écosystèmes qui gravitent autour](https://thisweekinreact.com/fr/newsletter/125).
+
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

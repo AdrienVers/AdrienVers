@@ -249,6 +249,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Jack Herrington - Senior Full Stack Developer (Next/React, Vue, TypeScript, GraphQL)](https://www.youtube.com/@jherr/featured).
 
+[Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
+
 #### Autres secteurs (:bulb:) : 
 
 ##### Finance :  

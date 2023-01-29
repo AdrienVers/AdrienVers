@@ -265,6 +265,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Statistiques et données en Europe (taux d'inflation, PIB, prix du logement, etc..)](https://ec.europa.eu/eurostat/fr/).
 
+[Indicateurs économiques aux États-Unis (administration fédérale BLS)](https://www.bls.gov/bls/newsrels.htm).
+
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
 ##### Cybersécurité :  

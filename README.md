@@ -62,6 +62,19 @@ Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), j
 
 ## <p><span></span></p>
 
+## <p>Mes projets en cours de réalisation <span>(:construction_worker:)</span></p>
+
+- ### <p>Réseau social dédié aux voyages (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,mongodb,prisma"/></a>)</span></p>
+
+Réalisation d'un réseau social permettant discuter avec d'autres personnes et permettant de publier des photos ou expériences de voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte (MongoDB/Prisma avec NextAuth), possibilité de sélectionner les pays que l'on a déjà visité (sur une carte d'Europe), requêtes HTTP vers API REST permettant d'afficher les drapeaux des pays déjà visités (REST Countries API). L'objectif du projet était de réaliser un site web complètement Full-Stack avec de nouveaux acquis côté BDD (MongoDB / Prisma / NextAuth) et de continuer avec de bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL).
+
+![Awayver](https://user-images.githubusercontent.com/59047879/216100851-e2a1061b-c826-4466-9bae-b71f042c6680.png)
+
+Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, MongoDB, Prisma, NextAuth. 
+
+Pour plus de détails :  Le [code](https://github.com/AdrienVers/Awayver) sur GitHub, l'accès au [site](https://awayver.vercel.app/).
+
+
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 ## <p>Ma veille technologique <span>(:computer::chart_with_upwards_trend:)</span></p>

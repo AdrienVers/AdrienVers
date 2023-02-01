@@ -72,8 +72,7 @@ Réalisation d'un réseau social permettant discuter avec d'autres personnes et 
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, MongoDB, Prisma, NextAuth. 
 
-Pour plus de détails :  Le [code](https://github.com/AdrienVers/Awayver) sur GitHub, l'accès au [site](https://awayver.vercel.app/).
-
+![Awayver](https://user-images.githubusercontent.com/59047879/216103454-a9ebf402-283c-4a05-bbe6-b74a6506f9a2.png)
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 

@@ -20,7 +20,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 Réalisation d'un site de trading permettant de s'initier au monde financier et à la Bourse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, meilleur référencement avec Next et les métadonnées).
 
-![District Money](https://user-images.githubusercontent.com/59047879/211547728-e54d8809-d927-4fb9-bcb3-0a890d4c3985.png)
+![DistrictMoney](https://user-images.githubusercontent.com/59047879/216105227-fbe5004f-adee-4330-8682-71653c85370e.png)
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase. 
 
@@ -31,7 +31,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money)
 
 Au travers de ce projet, j'ai approfondi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
-![Le Normand Voyageur](https://user-images.githubusercontent.com/59047879/211549671-f4cf583a-7356-4170-942b-019f9d3a3cf1.png)
+![NormandVoyageur](https://user-images.githubusercontent.com/59047879/216105312-6a33140d-9c11-467e-864f-af180c627007.png)
 
 Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase. 
 

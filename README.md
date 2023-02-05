@@ -68,7 +68,7 @@ Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), j
 
 Réalisation d'un réseau social permettant discuter avec d'autres personnes et permettant de publier des photos ou expériences de voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte (MongoDB/Prisma avec NextAuth), possibilité de sélectionner les pays que l'on a déjà visité (sur une carte d'Europe), requêtes HTTP vers API REST permettant d'afficher les drapeaux des pays déjà visités (REST Countries API). L'objectif du projet était de réaliser un site web complètement Full-Stack avec de nouveaux acquis côté BDD (MongoDB / Prisma / NextAuth) et de continuer avec de bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL).
 
-![Awayver](https://user-images.githubusercontent.com/59047879/216103628-22e6496f-4b76-4cbe-89d1-bad6afc01535.png)
+![Awayver](https://user-images.githubusercontent.com/59047879/216832956-3578fd40-8c09-441f-9463-882ec3bf91b6.png)
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, MongoDB, Prisma, NextAuth. 
 

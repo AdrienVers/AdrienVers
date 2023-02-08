@@ -231,6 +231,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Les différentes catégories de services en Cloud Computing (IaaS, PaaS, SaaS)](https://archipelia.com/iaas-paas-saas/).
 
+Hébergeur de fichiers et d'images (avec version gratuite) : [Imgur](https://imgur.com/), [Cloudinary](https://cloudinary.com/), [Filestack](https://www.filestack.com/).
+
 ##### SEO :
 
 [Analyse du trafic de n'importe quel site web](https://www.similarweb.com/fr/).

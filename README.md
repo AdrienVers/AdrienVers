@@ -52,6 +52,8 @@ Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javas
  
 Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web, ainsi que de communiquer avec une API REST. Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub, l'accès au [site](https://adrienvers.github.io/youtube-clone/).
 
+![Youtube](https://user-images.githubusercontent.com/59047879/217788751-d8108fd1-2be4-4172-8db2-72eb06d87153.png)
+
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
 Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, programmée via Tia Portal. La présentation sur GitHub est une démo de ce qui peut être fait pour le même type de projet, pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  Le [code](https://github.com/AdrienVers/IHM-industrielle) sur GitHub et le [site](https://adrienvers.github.io/IHM-Industrielle/).

@@ -187,6 +187,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Fiche pratique sur les types en TypeScript](https://doabledanny.gumroad.com/l/typescript-cheat-sheet-pdf).
 
+Tips : Bannir toute librairie non mise à jour depuis plus d'une année et ne supportant pas TypeScript (filestack-react).
+
 ##### BDD :
 
 [Générateur de requêtes SQL](https://www.text2sql.ai/).

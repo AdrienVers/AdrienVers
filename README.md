@@ -235,7 +235,15 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Les différentes catégories de services en Cloud Computing (IaaS, PaaS, SaaS)](https://archipelia.com/iaas-paas-saas/).
 
-Hébergeurs de fichiers et d'images (avec version gratuite) : [Imgur (simple d'utilisation, mais génère des problèmes d'accès lors du développement en localhost)](https://imgur.com/), [Cloudinary (simple d'utilisation, mais génère des problèmes de cookies)](https://cloudinary.com/), [Filestack (simple d'utilisation, mais génère problèmes lors de la mise en production liés au manque cruel de mise à jour)](https://www.filestack.com/), [Supabase (simple d'utilisation et fonctionne sans générer de problèmes tiers](https://supabase.com/).
+Hébergeurs de fichiers et d'images (avec version gratuite) : 
+
+[Imgur (simple d'utilisation, mais génère des problèmes d'accès lors du développement en localhost)](https://imgur.com/), 
+
+[Cloudinary (simple d'utilisation, mais génère des problèmes de cookies)](https://cloudinary.com/), 
+
+[Filestack (simple d'utilisation, mais génère problèmes lors de la mise en production liés au manque cruel de mise à jour)](https://www.filestack.com/), 
+
+[Supabase (simple d'utilisation et fonctionne sans générer de problèmes tiers](https://supabase.com/).
 
 ##### SEO :
 

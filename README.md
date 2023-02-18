@@ -223,6 +223,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).
 
+[Mieux gérer l'organisation et les dead-lines de ses projets avec Jira](https://www.atlassian.com/software).
+
 ##### Services cloud (authentification, gestion des données, etc..) :
 
 [Firebase avec Firestore pour la gestion des données](https://firebase.google.com/products/auth?gclid=CjwKCAiA76-dBhByEiwAA0_s9TIzbEOrTwflV9s99mYHiz0xQd9lI57HNlcmWvCRmJXOgBdaZinH1RoC3YcQAvD_BwE&gclsrc=aw.ds).

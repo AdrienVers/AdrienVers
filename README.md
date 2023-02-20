@@ -279,6 +279,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
 
+[Enzo Ustariz - Senior Front-End Developer (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).
+
 #### Autres secteurs (:bulb:) : 
 
 ##### Finance :  

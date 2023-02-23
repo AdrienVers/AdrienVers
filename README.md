@@ -136,13 +136,13 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Blog sur React Query](https://blog.arcoptimizer.com/construire-la-vraie-application-avec-react-query/amp).
 
-[API permettant de faire des tests de requêtes](https://jsonplaceholder.typicode.com/). 
-
 [API fiable sur les recettes de cuisine](https://spoonacular.com/food-api).
 
 [API fiable sur les films et séries](https://www.themoviedb.org/documentation/api).
 
 [API du gouvernement permettant d'obtenir des données publiques sur les entreprises (chiffre d'affaire, cotation en bourse, etc.)](https://api.gouv.fr/documentation/api-info-financiere).
+
+[Liste d'APIs sur de nombreux thèmes variés, accessibles gratuitement](https://github.com/public-apis/public-apis).
 
 ##### API GraphQL :
 

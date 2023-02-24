@@ -142,6 +142,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [API du gouvernement permettant d'obtenir des données publiques sur les entreprises (chiffre d'affaire, cotation en bourse, etc.)](https://api.gouv.fr/documentation/api-info-financiere).
 
+API fournissant des données spatiales : [Spaceflight News API](https://thespacedevs.com/snapi) et [Launch Library 2](https://thespacedevs.com/llapi).
+
 [Liste d'APIs sur de nombreux thèmes variés, accessibles gratuitement](https://github.com/public-apis/public-apis).
 
 ##### API GraphQL :

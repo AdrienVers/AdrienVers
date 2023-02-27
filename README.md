@@ -144,7 +144,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 API de la RTE fournissant [la consommation électrique française](https://data.rte-france.com/catalog/-/api/consumption/Consumption/v1.2) et [la production électrique par filière](https://data.rte-france.com/catalog/-/api/generation/Actual-Generation/v1.1#).
 
-API fournissant des données spatiales : [Spaceflight News API](https://thespacedevs.com/snapi) et [Launch Library 2](https://thespacedevs.com/llapi).
+API fournissant des données spatiales : [Spaceflight News API](https://thespacedevs.com/snapi), [Launch Library 2](https://thespacedevs.com/llapi) et [Horizons System (NASA)](https://ssd.jpl.nasa.gov/horizons/app.html#/).
 
 [Liste d'APIs sur de nombreux thèmes variés, accessibles gratuitement](https://github.com/public-apis/public-apis).
 

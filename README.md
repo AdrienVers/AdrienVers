@@ -207,6 +207,10 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Railway, un cloud générant des BDD facilement et rapidement (que ce soit du PostgreSQL, MongoDB ou autre)](https://railway.app/).
 
+##### .NET :
+
+[Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).
+
 ##### UI/UX :
 
 [Différents modèles et dimensions de mobiles pour le responsive)](https://www.dimensions.com/collection/phones-cell-phones).

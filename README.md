@@ -105,6 +105,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 
+[Les toutes dernières versions et informations sur Angular (V15 :white_check_mark:)](https://github.com/angular/angular/releases).
+
 [Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
 
 - ### Différentes ressources pour se perfectionner : 

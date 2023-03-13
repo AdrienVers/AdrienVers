@@ -310,6 +310,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Jack Herrington - Senior Full Stack Developer (Next/React, Vue, TypeScript, GraphQL)](https://www.youtube.com/@jherr/featured).
 
+[David Hockley - Senior Full Stack Developer (React, Angular, TypeScript, NodeJS](https://www.youtube.com/@kodaps_fr/videos).
+
 [Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
 
 [Enzo Ustariz - Senior Front-End Developer (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).

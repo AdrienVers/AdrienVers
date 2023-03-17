@@ -30,7 +30,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money)
 
 Réalisation d'une application facilitant le partage de photos prises lors d'un shooting professionnel par un photographe indépendant avec ses modèles. Les modèles peuvent ensuite sélectionner les photos à retoucher et les renvoyer via l'application. Pour extraire et envoyer les photos, l'API de Google Drive a été utilisée.
 
-![Photographie](https://user-images.githubusercontent.com/59047879/225850010-ce769cae-10b4-445a-ad47-5fc98d83aa5a.png)
+![Photographie](https://user-images.githubusercontent.com/59047879/225850298-ae671903-9636-4a11-8dcf-cbac42467996.png)
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Drive API. 
 

@@ -4,7 +4,7 @@ Après une première expérience réussie dans le monde de l'industrie en tant q
 
 Les technologies qui me plaisent et que je maîtrise sont les suivantes : 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,,ts,react,angular,unity)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,unity)](https://skills.thijs.gg)
 
 ## <p><span></span></p>
 

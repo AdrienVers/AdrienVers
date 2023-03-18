@@ -8,7 +8,7 @@ Les technologies qui me plaisent et que je maîtrise sont les suivantes :
 
 J'ai également des notions en :  
 
-[![My Skills](https://skills.thijs.gg/icons?i=redux,vue,nodejs,cpp,php,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=redux,angular,nodejs,cpp,php,py)](https://skills.thijs.gg)
 
 ## <p><span></span></p>
 

@@ -2,10 +2,6 @@
 
 Après une première expérience réussie dans le monde de l'industrie en tant qu'ingénieur en électrotechnique / automatique / informatique, et avec une appétence très forte pour la programmation, j'ai décidé de me spécialiser dans le développement web (orienté Frontend), alliant deux de mes passions : la programmation et la mise en forme de contenu !
 
-Les technologies qui me plaisent et que je maîtrise sont les suivantes : 
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,angular,unity)](https://skills.thijs.gg)
-
 ## <p><span></span></p>
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux (par ordre de publications) : 

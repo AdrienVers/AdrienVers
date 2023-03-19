@@ -10,7 +10,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux 
 
 - ### <p>Site de trading (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,jest,firebase"/></a>)</span></p>
 
-Réalisation d'un site de trading permettant de s'initier au monde financier et à la Bourse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, meilleur référencement avec Next et les métadonnées).
+Application de trading permettant de s'initier au monde financier et à la Bourse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, meilleur référencement avec Next et les métadonnées).
 
 ![DistrictMoney](https://user-images.githubusercontent.com/59047879/216105227-fbe5004f-adee-4330-8682-71653c85370e.png)
 
@@ -20,7 +20,7 @@ Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money)
 
 - ### <p>Application pour photographe professionnel (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,gcp"/></a>)</span></p>
 
-Réalisation d'une application facilitant le partage de photos prises lors d'un shooting professionnel par un photographe indépendant avec ses modèles. Les modèles peuvent ensuite sélectionner les photos à retoucher et les renvoyer via l'application. Pour extraire et envoyer les photos, l'API de Google Drive a été utilisée.
+Application facilitant le partage de photos prises lors d'un shooting professionnel par un photographe indépendant avec ses modèles. Les modèles peuvent ensuite sélectionner les photos à retoucher et les renvoyer via l'application. Pour extraire et envoyer les photos, l'API de Google Drive a été utilisée.
 
 ![Photographie](https://user-images.githubusercontent.com/59047879/225850298-ae671903-9636-4a11-8dcf-cbac42467996.png)
 
@@ -28,7 +28,7 @@ Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Dr
 
 - ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
 
-Modélisation 3D du système solaire et astres autour de la Terre, offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes en les sélectionnant ou en les recherchant via une barre de navigation.
+Modélisation 3D du système solaire offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes, en les sélectionnant ou en les recherchant via une barre de navigation.
 
 ![SpaceOdyssey](https://user-images.githubusercontent.com/59047879/223502439-32e1d215-c1f8-4e5d-bad4-84d42b45da9e.png)
 
@@ -38,7 +38,7 @@ Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) su
 
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
 
-Au travers de ce projet, j'ai approfondi mes connaîssances sur le framework React, en réalisant le site d'un restaurant, proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
+Application pour un restaurant proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
 
 ![NormandVoyageur](https://user-images.githubusercontent.com/59047879/216105312-6a33140d-9c11-467e-864f-af180c627007.png)
 

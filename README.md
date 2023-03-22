@@ -274,7 +274,7 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 ##### SEO :
 
-[Analyse du trafic de n'importe quel site web](https://www.similarweb.com/fr/).
+[Analyse du trafic de n'importe quel site web](https://www.similarweb.com/fr/). 
 
 [Bonnes pratiques avec la balise meta description](https://www.blogdumoderateur.com/seo-bonnes-pratiques-meta-descriptions/).
 

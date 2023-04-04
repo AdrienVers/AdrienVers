@@ -300,6 +300,10 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 
+##### Extensions VS Code :
+
+[Extention permettant de visualiser la taille de ses fichiers dans un projet VS Code](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize).
+
 ##### Développeurs, Formateurs et Youtubeurs respectant les bonnes pratiques à suivre pour progresser :
 
 [Jack Herrington - Senior Full Stack Developer (Next/React, Vue, TypeScript, GraphQL)](https://www.youtube.com/@jherr/featured).

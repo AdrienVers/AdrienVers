@@ -216,6 +216,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Générateur de requêtes SQL](https://www.text2sql.ai/).
 
+[Infographie très complète sur PostgreSQL](https://dev.to/ftisiot/postgresqlr-jsonb-cheatsheet-complete-fast-lookup-guide-2o2m).
+
 [ORM permettant de manipuler les BDD relationnelles (PostgreSQL) et non relationnelles (MongoDB) : Prisma](https://www.prisma.io/).
 
 [Railway, un cloud générant des BDD facilement et rapidement (que ce soit du PostgreSQL, MongoDB ou autre)](https://railway.app/).

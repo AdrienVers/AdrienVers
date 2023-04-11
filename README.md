@@ -306,6 +306,10 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Extention permettant de visualiser la taille de ses fichiers dans un projet VS Code](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize).
 
+##### Bureaucratique :
+
+[Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).
+
 ##### Développeurs, Formateurs et Youtubeurs respectant les bonnes pratiques à suivre pour progresser :
 
 [Jack Herrington - Senior Full Stack Developer (Next/React, Vue, TypeScript, GraphQL)](https://www.youtube.com/@jherr/featured).

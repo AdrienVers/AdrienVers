@@ -18,6 +18,16 @@ Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase.
 
 Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money) sur GitHub, l'accès au [site](https://district-money.vercel.app/).
 
+- ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
+
+Modélisation 3D du système solaire offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes, en les sélectionnant ou en les recherchant via une barre de navigation.
+
+![SpaceOdyssey](https://user-images.githubusercontent.com/59047879/223502439-32e1d215-c1f8-4e5d-bad4-84d42b45da9e.png)
+
+Stacks utilisées : Next/React, TyepScript, Styled Components, React-Three-Fiber / ThreeJS. 
+
+Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) sur GitHub, l'accès au [site](https://space-odyssey.vercel.app/).
+
 - ### <p>Application pour photographe professionnel (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,gcp"/></a>)</span></p>
 
 Application facilitant le partage de photos prises lors d'un shooting professionnel par un photographe indépendant avec ses modèles. Les modèles peuvent ensuite sélectionner les photos à retoucher et les renvoyer via l'application. Pour extraire et envoyer les photos, l'API de Google Drive a été utilisée.
@@ -31,16 +41,6 @@ Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Dr
 Réalisation d'un script permettant de compresser automatiquement toutes les photos sur Google Drive. Script réalisé en JavaScript sur Apps Script (avec ImgApp, DocsServiceApp, Drive et Slides).
 
 ![DSC](https://user-images.githubusercontent.com/59047879/231527226-10215bff-2392-454e-a78e-21dd1fc40828.png)
-
-- ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
-
-Modélisation 3D du système solaire offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes, en les sélectionnant ou en les recherchant via une barre de navigation.
-
-![SpaceOdyssey](https://user-images.githubusercontent.com/59047879/223502439-32e1d215-c1f8-4e5d-bad4-84d42b45da9e.png)
-
-Stacks utilisées : Next/React, TyepScript, Styled Components, React-Three-Fiber / ThreeJS. 
-
-Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) sur GitHub, l'accès au [site](https://space-odyssey.vercel.app/).
 
 - ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
 

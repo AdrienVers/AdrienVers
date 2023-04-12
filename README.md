@@ -240,6 +240,10 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Illustrations libres de droits pour le UI/UX design](https://fr.freepik.com/search?format=search&query=ux%20design).
 
+##### Creative Design :
+
+[Ensemble des sites web ayant obtenu des prix pour leur design et interface UI/UX](https://www.awwwards.com/websites/sites_of_the_day/).
+
 ##### SVG :
 
 [Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).

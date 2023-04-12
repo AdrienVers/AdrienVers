@@ -30,7 +30,7 @@ Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Dr
 
 Réalisation d'un script permettant de compresser automatiquement toutes les photos sur Google Drive. Script réalisé en JavaScript sur Apps Script (avec ImgApp, DocsServiceApp, Drive et Slides).
 
-![CPI](https://user-images.githubusercontent.com/59047879/231526845-63af0f8d-cf22-4312-8927-8193f69cd003.png)
+![DSC](https://user-images.githubusercontent.com/59047879/231527226-10215bff-2392-454e-a78e-21dd1fc40828.png)
 
 - ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
 

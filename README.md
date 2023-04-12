@@ -26,6 +26,12 @@ Application facilitant le partage de photos prises lors d'un shooting profession
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Drive API. 
 
+- ### <p>Compression automatisée d'images (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=js,gcp"/></a>)</span></p>
+
+Réalisation d'un script permettant de compresser automatiquement toutes les photos sur Google Drive. Script réalisé en JavaScript sur Apps Script (avec ImgApp, DocsServiceApp, Drive et Slides).
+
+![CPO](https://user-images.githubusercontent.com/59047879/231525945-35640da0-9a52-4d0b-bdcd-2936d67b8bdc.png)
+
 - ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
 
 Modélisation 3D du système solaire offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes, en les sélectionnant ou en les recherchant via une barre de navigation.

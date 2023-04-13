@@ -32,6 +32,8 @@ Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) su
 
 Application facilitant le partage de photos prises lors d'un shooting professionnel par un photographe indépendant avec ses modèles. Les modèles peuvent ensuite sélectionner les photos à retoucher et les renvoyer via l'application. Pour extraire et envoyer les photos, l'API de Google Drive a été utilisée.
 
+Pour des raisons évidentes de confidentialités la présentation du projet sur GitHub est une reproduction simplifiée et non optimisée au niveau du code. Pour avoir des informations sur la version Fullstack, veuillez me contacter.
+
 ![Photographie](https://user-images.githubusercontent.com/59047879/225850298-ae671903-9636-4a11-8dcf-cbac42467996.png)
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Drive API. 
@@ -71,7 +73,9 @@ Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionn
 
 - ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
 
-Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, programmée via Tia Portal. La présentation sur GitHub est une démo de ce qui peut être fait pour le même type de projet, pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  Le [code](https://github.com/AdrienVers/IHM-industrielle) sur GitHub et le [site](https://adrienvers.github.io/IHM-Industrielle/).
+Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, programmée via Tia Portal. 
+
+La présentation sur GitHub est une démo de ce qui peut être fait pour le même type de projet, pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  Le [code](https://github.com/AdrienVers/IHM-industrielle) sur GitHub et le [site](https://adrienvers.github.io/IHM-Industrielle/).
 
 - ### <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
 

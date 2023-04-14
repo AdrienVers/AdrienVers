@@ -354,7 +354,7 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Indicateurs économiques aux États-Unis (administration fédérale BLS)](https://www.bls.gov/bls/newsrels.htm).
 
-[Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
+[Analyse des enjeux géopolitiques (Le dessous des cartes)](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
 [Informations pratiques sur les entreprises françaises (CA, dirigeants, comptes annuels, infos juridiques, etc..)](www.pappers.fr).
 

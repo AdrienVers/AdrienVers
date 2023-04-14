@@ -356,6 +356,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Analyse des enjeux géopolitiques](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
+[Informations pratiques sur les entreprises françaises (CA, dirigeants, comptes annuels, infos juridiques, etc..)](www.pappers.fr).
+
 ##### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

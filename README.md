@@ -137,6 +137,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
+[Réaliser des graphiques en React grâce à react-chartjs-2](https://react-chartjs-2.js.org/examples/line-chart).
+
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

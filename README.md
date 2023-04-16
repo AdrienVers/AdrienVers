@@ -344,6 +344,14 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 #### Autres secteurs (:bulb:) : 
 
+##### Création d'entreprise :  
+
+[Vérifier la disponibilité d'un nom de société en France (Infogreffe)](https://www.infogreffe.fr/recherche-entreprise-dirigeants).
+
+[Vérifier la disponibilité d'un nom de société aux États-Unis (SEC)](https://www.sec.gov/edgar/searchedgar/companysearch).
+
+[Vérifier la disponibilité d'un nom de société à l'international (TMview)](https://www.tmdn.org/tmview).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

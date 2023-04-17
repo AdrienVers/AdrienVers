@@ -260,6 +260,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Générateur de logo en fonction du contenu et des réponses données](https://smashinglogo.com/fr/).
 
+[Générateur d'images en fonction du contenu (image possible) et description donnée (gratuit avec recharge de crédits toutes les 24h)](https://dreamlike.art/).
+
 [Site web permettant de faire de la segmentation d'images](https://segment-anything.com/demo).
 
 ##### SVG :

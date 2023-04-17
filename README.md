@@ -260,6 +260,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Générateur de logo en fonction du contenu et des réponses données](https://smashinglogo.com/fr/).
 
+[Site web permettant de faire de la segmentation d'images](https://segment-anything.com/demo).
+
 ##### SVG :
 
 [Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).

@@ -264,6 +264,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Site web permettant de faire de la segmentation d'images](https://segment-anything.com/demo).
 
+[Site web proposant une IA permettant d'effacer certains éléments d'une photographie](https://magicstudio.com/fr/magiceraser).
+
 ##### SVG :
 
 [Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).

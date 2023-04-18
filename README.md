@@ -264,7 +264,7 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Site web permettant de faire de la segmentation d'images](https://segment-anything.com/demo).
 
-[Site web proposant une IA permettant d'effacer certains éléments d'une photographie](https://magicstudio.com/fr/magiceraser).
+[Site web permettant d'effacer certains éléments d'une photographie et de remplir automatiquement le vide laissé](https://magicstudio.com/fr/magiceraser).
 
 ##### SVG :
 

@@ -111,6 +111,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
+[Documentation officielle de Nuxt 3 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
+
 [Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
 
 - ### Différentes ressources pour se perfectionner : 

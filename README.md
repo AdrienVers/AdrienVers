@@ -326,7 +326,7 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Récupérer n'importe quelle police (font-family) d'un site web (Font Finder)](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha/related?hl=fr).
 
-Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amiresponsive) et [screenfly](https://screenfly.org/).
+Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amiresponsive), [screenfly](https://screenfly.org/) et [Responsive Viewer](https://responsiveviewer.org/).
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 

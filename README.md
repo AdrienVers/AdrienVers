@@ -348,6 +348,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Enzo Ustariz - Senior Front-End Developer (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).
 
+[Guillaume Duhan - Senior Front-End Developer (Vue, Nuxt)](https://www.youtube.com/@codewithguillaume/videos).
+
 [Christophe Mommer - Senior DevOps Developer / MVP (C#,  .NET)](https://www.youtube.com/@HTSCoding/videos).
 
 #### Autres secteurs (:bulb:) : 

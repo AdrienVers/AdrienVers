@@ -328,6 +328,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Visualiser un site web sous différents supports d'un seul coup (PC, tablette, mobile, etc.) : Responsively App](https://responsively.app/).
 
+[Visualiser son site sur un écran de bureau moyen (1600px x 992px)](https://ui.dev/amiresponsive).
+
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 
 ##### Extensions VS Code :

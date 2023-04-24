@@ -159,6 +159,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Installer Jest dans NextJS (V13 :white_check_mark:)](https://blog.logrocket.com/testing-next-js-apps-jest/).
 
+[Installer Vitest dans Nuxt 3](https://dev.to/tao/adding-vitest-to-nuxt-3-2023-lpa).
+
 ##### API REST : 
 
 [Documentation sur React Query](https://react-query-v3.tanstack.com/overview).

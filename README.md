@@ -161,6 +161,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Installer Vitest dans Nuxt 3](https://dev.to/tao/adding-vitest-to-nuxt-3-2023-lpa).
 
+[Installer Storybook dans Nuxt 3](https://laurentcazanove.com/articles/storybook-nuxt-guide/).
+
 ##### API REST : 
 
 [Documentation sur React Query](https://react-query-v3.tanstack.com/overview).

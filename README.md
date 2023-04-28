@@ -386,7 +386,7 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Analyse des enjeux géopolitiques (Le dessous des cartes)](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
-[Informations pratiques sur les entreprises françaises (CA, dirigeants, comptes annuels, infos juridiques, etc..)](www.pappers.fr).
+[Informations pratiques sur les entreprises françaises (CA, dirigeants, comptes annuels, infos juridiques, etc..)](https://www.pappers.fr/).
 
 ##### Cybersécurité :  
 

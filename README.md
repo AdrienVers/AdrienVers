@@ -139,8 +139,6 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
-[Réaliser des graphiques en React grâce à react-chartjs-2](https://react-chartjs-2.js.org/examples/line-chart).
-
 ##### Redux :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
@@ -231,6 +229,12 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 [Fiche pratique sur les types en TypeScript](https://doabledanny.gumroad.com/l/typescript-cheat-sheet-pdf).
 
 Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne supportant pas TypeScript (filestack-react).
+
+##### Graphiques : 
+
+[Réaliser des graphiques en React grâce à react-chartjs-2](https://react-chartjs-2.js.org/examples/line-chart).
+
+[Réaliser des graphiques en Angular grâce à ng2-charts](https://valor-software.com/ng2-charts/#GeneralInfo).
 
 ##### BDD :
 

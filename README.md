@@ -370,6 +370,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Vérifier la disponibilité d'un nom de société à l'international (TMview)](https://www.tmdn.org/tmview).
 
+[Analyseur automatique de CV (CV Catcher d'AddViseo)](https://emploi.addviseo.com/cvcatcher).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

@@ -246,6 +246,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Railway, un cloud générant des BDD facilement et rapidement (que ce soit du PostgreSQL, MongoDB ou autre)](https://railway.app/).
 
+[Site web permettant de réaliser facilement des modèles conceptuels de base de données SQL (dbdiagram)](https://dbdiagram.io/home).
+
 ##### .NET :
 
 [Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).

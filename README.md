@@ -290,6 +290,10 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Générateur d'illustrations sous format SVG](https://illustroke.com/).
 
+##### Versioning : 
+
+[Vérifier l'état de GitHub en cas de problème d'actualisation d'un projet](https://www.githubstatus.com/).
+
 ##### Méthodologie agile :
 
 [Exemple concret d'un projet réalisé avec la méthodologie agile SCRUM](https://ellianabeberness.com/copy-of-chefy-ux-design-research).

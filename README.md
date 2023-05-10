@@ -348,11 +348,13 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 
-[Thème et couleur de script non agressif pour VS Code (Default Themes : Dark Modern)](https://code.visualstudio.com/docs/getstarted/themes).
-
 ##### Extensions VS Code :
 
-[Extention permettant de visualiser la taille de ses fichiers dans un projet VS Code](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize).
+[Extension permettant de visualiser la taille de ses fichiers dans un projet VS Code](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize).
+
+[Thème et couleur de script non agressif pour VS Code (Default Themes : Dark+)](https://code.visualstudio.com/docs/getstarted/themes).
+
+[Extension permettant de visualiser toutes les icons des fichiers (Material Icon Theme)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
 ##### Bureaucratique :
 

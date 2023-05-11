@@ -210,7 +210,7 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Les promises en JS (syntaxe, async/await)](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke).
 
-[Générateur de regex en fonction du cas utilisé (username, mail, password, etc...)[https://ihateregex.io/expr/username].
+[Générateur de regex en fonction du cas utilisé (username, mail, password, etc...](https://ihateregex.io/expr/username).
 
 ##### CSS-in-JS :
 

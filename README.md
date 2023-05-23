@@ -238,7 +238,9 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Réaliser des graphiques en Angular grâce à ng2-charts](https://valor-software.com/ng2-charts/#GeneralInfo).
 
-[Comparatif des différentes librairies react permettant de créer des graphiques (Nivo, Victory, React-chartjs-2, Recharts)](https://blog.logrocket.com/top-8-react-chart-libraries/).
+[Comparatif des différentes librairies permettant de créer des graphiques en React (Nivo, Victory, React-chartjs-2, Recharts)](https://blog.logrocket.com/top-8-react-chart-libraries/).
+
+[Comparatif des différentes librairies permettant de créer des calendriers en React](https://flatlogic.com/blog/top-javascript-calendar-plugins/).
 
 ##### BDD :
 

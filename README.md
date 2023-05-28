@@ -290,6 +290,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Compresseur d'image sans nuire à la qualité de l'image](https://imagecompressor.com/).
 
+[Exemples de site web avec différents designs intéressants](https://nicepage.com/website-design).
+
 ##### SVG :
 
 [Bibliothèque permettant de récupérer des cartes géographiques sous format svg : react-simple-maps](https://www.react-simple-maps.io/).

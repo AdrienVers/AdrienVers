@@ -232,6 +232,10 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne supportant pas TypeScript (filestack-react).
 
+##### Clean Code : 
+
+[Liste des différents Design Patterns, principes SOLID et autres sujets](https://refactoring.guru/).
+
 ##### Graphiques : 
 
 [Réaliser des graphiques en React grâce à react-chartjs-2](https://react-chartjs-2.js.org/examples/line-chart).
@@ -242,7 +246,7 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Comparatif des différentes librairies permettant de créer des calendriers en React](https://flatlogic.com/blog/top-javascript-calendar-plugins/).
 
-[Librairie pour réaliser des graphiques responsives sur React, Angular et Vue)][https://apexcharts.com/).
+[Librairie pour réaliser des graphiques responsives sur React, Angular et Vue][https://apexcharts.com/).
 
 ##### BDD :
 

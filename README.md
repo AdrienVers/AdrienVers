@@ -36,7 +36,9 @@ Réalisation d'un script permettant de compresser automatiquement toutes les pho
 
 ![DSC](https://user-images.githubusercontent.com/59047879/231527226-10215bff-2392-454e-a78e-21dd1fc40828.png)
 
-Pour voir l'ensemble de mes projets, vous pouvez vous rendre sur mon [PORFOLIO](https://portfolio-adrienvers.vercel.app/).
+## Pour voir l'ensemble de mes projets, vous pouvez vous rendre sur mon [portfolio](https://portfolio-adrienvers.vercel.app/).
+
+
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 

@@ -4,9 +4,9 @@ En tant que passionné de programmation et de mise en forme de contenu, je me su
 
 ## <p><span></span></p>
 
-Sur mon GitHub, vous pourrez d'ores et déjà retrouver mes différents travaux (par ordre de publications) : 
+Sur mon GitHub, vous pourrez d'ores et déjà retrouver quelques uns de mes projets : 
 
-## <p>Mes différents projets <span>(:computer::page_with_curl:)</span></p>
+## <p>Quelques projets <span>(:computer::page_with_curl:)</span></p>
 
 - ### <p>Site de trading (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,jest,firebase"/></a>)</span></p>
 
@@ -18,6 +18,7 @@ Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase.
 
 Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money) sur GitHub, l'accès au [site](https://district-money.vercel.app/).
 
+
 - ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
 
 Modélisation 3D du système solaire offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes, en les sélectionnant ou en les recherchant via une barre de navigation.
@@ -28,15 +29,6 @@ Stacks utilisées : Next/React, TyepScript, Styled Components, React-Three-Fiber
 
 Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) sur GitHub, l'accès au [site](https://space-odyssey.vercel.app/).
 
-- ### <p>Application pour photographe professionnel (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,gcp"/></a>)</span></p>
-
-Application facilitant le partage de photos prises lors d'un shooting professionnel par un photographe indépendant avec ses modèles. Les modèles peuvent ensuite sélectionner les photos à retoucher et les renvoyer via l'application. Pour extraire et envoyer les photos, l'API de Google Drive a été utilisée.
-
-Pour des raisons évidentes de confidentialités la présentation du projet sur GitHub est une reproduction simplifiée et non optimisée au niveau du code. Pour avoir des informations sur la version Fullstack, veuillez me contacter.
-
-![Photographie](https://user-images.githubusercontent.com/59047879/225850298-ae671903-9636-4a11-8dcf-cbac42467996.png)
-
-Stacks utilisées : Next/React, TyepScript, Styled Components, NodeJS, Google Drive API. 
 
 - ### <p>Compression automatisée d'images (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,js,nodejs,gcp"/></a>)</span></p>
 
@@ -44,54 +36,7 @@ Réalisation d'un script permettant de compresser automatiquement toutes les pho
 
 ![DSC](https://user-images.githubusercontent.com/59047879/231527226-10215bff-2392-454e-a78e-21dd1fc40828.png)
 
-- ### <p>Site de e-commerce (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
-
-Application pour un restaurant proposant de nombreux plats rencontrés lors de mes différents voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers l'API REST spoonacular.com, gestion de panier, formulaire de contact, carrousel d'actualité, etc...). Projet réalisé avec la stratégie du mobile-first, puis responsive jusqu'au format ordinateur. Les illustrations sur ce site web ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/).
-
-![NormandVoyageur](https://user-images.githubusercontent.com/59047879/216105312-6a33140d-9c11-467e-864f-af180c627007.png)
-
-Stacks utilisées : React (Jest, Hooks (useState, useEffect, useRef, useContext), Framer Motion, Styled Components), Firebase. 
-
-Pour plus de détails :  Le [code](https://github.com/AdrienVers/site-de-e-commerce) sur GitHub, l'accès au [site](https://adrienvers.github.io/site-de-e-commerce/).
-
-
-- ### <p>Application de Cross-fit (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,ts,redux,vscode"/></a>)</span></p>
- 
-Au travers de ce projet, j'ai décidé de mieux gérer le state management de mon application React en passant par Redux, tout en me familiarisant au TypeScript. Pour plus de détails : Le [code](https://github.com/AdrienVers/Cross-fit) sur GitHub, l'accès au [site](https://adrienvers.github.io/Cross-fit/).
-
-
-- ### <p>Roue de la fortune (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
-
-Au travers de ce projet, j'ai voulu approndir mes connaîssances en CSS et Javascript pur (sans librairie), en réalisant une roue avec différents paramètres dynamiques (choix du nombre de possibilités, choix de la puissance via un clic ou via la barre d'espace, remplissage d'une jauge de puissance, rendu responsive de la barre de navigation, détection de collision entre la flèche et les tranches de la roue, etc..). Les illustrations sur la roue ont été réalisées par mon collaborateur [Joseph Paris](https://www.josephparisvisuals.com/). Pour plus de détails : Le [code](https://github.com/AdrienVers/Roue-de-la-fortune) sur GitHub.
-
-
-- ### <p>Clone de Youtube (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=react,js,firebase,vscode"/></a>)</span></p>
- 
-Au travers de ce projet, j'ai décidé de me familariser, puis de me perfectionner en React, où l'objectif était de reproduire les différentes fonctionnalités de YouTube, pouvant être retrouvées sur de nombreux sites web, ainsi que de communiquer avec une API REST. Pour plus de détails : Le [code](https://github.com/AdrienVers/youtube-clone) sur GitHub, l'accès au [site](https://adrienvers.github.io/youtube-clone/).
-
-![Youtube](https://user-images.githubusercontent.com/59047879/217788751-d8108fd1-2be4-4172-8db2-72eb06d87153.png)
-
-- ### <p>IHM web industrielle (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=html,css,js,vscode"/></a>)</span></p>
-
-Réalisée lors de ma fonction d'ingénieur en électrotechnique (2021), il s'agissait de réaliser une IHM utilisable de façon locale sur un pupitre opérateur industriel, programmée via Tia Portal. 
-
-La présentation sur GitHub est une démo de ce qui peut être fait pour le même type de projet, pour des raisons évidentes de confidentialités, la présentation du projet sur GitHub est une reproduction très modifiée, simplifiée, et ne dévoilant aucune informations sur les composants électrotechniques utilisés. Pour plus de détails :  Le [code](https://github.com/AdrienVers/IHM-industrielle) sur GitHub et le [site](https://adrienvers.github.io/IHM-Industrielle/).
-
-- ### <p>Jeu de stratégie (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=cpp,cs,visualstudio,unity"/></a>)</span></p>
-
-Réalisé lors du premier confinement et un peu après (fevrier à juin 2020), je souhaitais me perfectionner en C++/C# et en programmation orienté objet, j'ai alors eu l'idée de créer un jeu 2D sur Unity. Pour plus de détails : Le [code](https://github.com/AdrienVers/Little-Slayer) sur GitHub.
-
-## <p><span></span></p>
-
-## <p>Mes projets en cours de réalisation <span>(:construction_worker:)</span></p>
-
-- ### <p>Réseau social dédié aux voyages (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,mongodb,prisma"/></a>)</span></p>
-
-Réalisation d'un réseau social permettant discuter avec d'autres personnes et permettant de publier des photos ou expériences de voyages. Ce site web comprend de nombreuses fonctionnalités (création de compte (MongoDB/Prisma avec NextAuth), possibilité de sélectionner les pays que l'on a déjà visité (sur une carte d'Europe), requêtes HTTP vers API REST permettant d'afficher les drapeaux des pays déjà visités (REST Countries API). L'objectif du projet était de réaliser un site web complètement Full-Stack avec de nouveaux acquis côté BDD (MongoDB / Prisma / NextAuth) et de continuer avec de bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL).
-
-![Awayver](https://user-images.githubusercontent.com/59047879/216832956-3578fd40-8c09-441f-9463-882ec3bf91b6.png)
-
-Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, MongoDB, Prisma, NextAuth. 
+Pour voir l'ensemble de mes projets, vous pouvez vous rendre sur mon [PORFOLIO](https://portfolio-adrienvers.vercel.app/).
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 

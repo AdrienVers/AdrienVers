@@ -12,7 +12,7 @@ Sur mon GitHub, vous pourrez d'ores et déjà retrouver quelques uns de mes proj
 
 Application de trading permettant de s'initier au monde financier et à la Bourse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, meilleur référencement avec Next et les métadonnées).
 
-![DistrictMoney](https://user-images.githubusercontent.com/59047879/216105227-fbe5004f-adee-4330-8682-71653c85370e.png)
+![DistrictMoney](https://github.com/AdrienVers/AdrienVers/assets/59047879/171ad2f4-8800-45ae-a66d-d6eaec879b66)
 
 Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase. 
 

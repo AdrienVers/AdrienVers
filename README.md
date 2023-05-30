@@ -1,6 +1,6 @@
 ### Bienvenue 👋
 
-En tant que passionné de programmation et de mise en forme de contenu, je me suis spécialisé dans le développement web afin de combiner ces deux passions. Vous pouvez accéder à mon portfolio en cliquant : [ICI](https://portfolio-adrienvers.vercel.app/).
+Ingénieur en développement informatique (Fullstack), spécialisé dans la création d'applications web et de logiciels, allant de projets complexes aux sites vitrines. Vous pouvez accéder à mon portfolio en cliquant : [ICI](https://portfolio-adrienvers.vercel.app/).
 
 ## <p><span></span></p>
 

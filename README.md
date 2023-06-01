@@ -300,6 +300,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Reproduire l'intégralité d'un site web sous forme de maquette sur Figama grâce à HTML to Design](https://chrome.google.com/webstore/detail/htmltodesign/ldnheaepmnmbjjjahokphckbpgciiaed).
 
+[Visualiser un fichier JSON de façon claire dans le navigateur](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related).
+
 ##### Extensions VS Code :
 
 [Extension permettant de visualiser la taille de ses fichiers dans un projet VS Code](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize).

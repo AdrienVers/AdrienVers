@@ -73,6 +73,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Roadmap interactive pour React (également pour les Frontend, Backend, DevOps et QA Testers)](https://roadmap.sh/react).
 
+[Approfondir ses connaissances en React et savoir répondre à des questions techniques](https://github.com/sudheerj/reactjs-interview-questions).
+
 [Newsletters publics et intéressantes sur React et les écosystèmes qui gravitent autour](https://thisweekinreact.com/fr/newsletter/125).
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).

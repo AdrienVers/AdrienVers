@@ -226,6 +226,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Utilisation pratique de Figma avec différentes interactions possibles](https://ellianabeberness.com/copy-of-chefy-ux-design-research).
 
+[Différents fonds d'écran pour sites web avec des motifs générés en CSS](https://www.magicpattern.design/tools/css-backgrounds).
+
 ##### Creative Design :
 
 [Ensemble des sites web ayant obtenu des prix pour leur design et interface UI/UX](https://www.awwwards.com/websites/sites_of_the_day/).

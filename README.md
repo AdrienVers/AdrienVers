@@ -45,7 +45,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 
-[Les toutes dernières versions et informations sur Angular (V15 :white_check_mark:)](https://github.com/angular/angular/releases).
+[Les toutes dernières versions et informations sur Angular (V16 :white_check_mark:)](https://github.com/angular/angular/releases).
 
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 

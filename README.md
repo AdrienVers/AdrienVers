@@ -272,6 +272,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Liste des Authentication Providers pouvant être utilisés avec NextJS](https://nextjs.org/docs/authentication).
 
+[Décodeur de tokens JWT](https://jwt.io/).
+
 [Les différentes catégories de services en Cloud Computing (IaaS, PaaS, SaaS)](https://archipelia.com/iaas-paas-saas/).
 
 Hébergeurs de fichiers et d'images (avec version gratuite) : 

@@ -376,6 +376,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Liste des différentes start up françaises selon leur secteur d'activité (fintech, foodtech, etc..)](https://app.caption.market/wishlist/startups).
 
+[Statistiques sur les productions agricoles par pays](https://www.fao.org/faostat/fr/#rankings/commodities_by_country).
+
 ##### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

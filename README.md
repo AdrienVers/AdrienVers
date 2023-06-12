@@ -204,6 +204,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Site web permettant de réaliser facilement des modèles conceptuels de base de données SQL (dbdiagram)](https://dbdiagram.io/home).
 
+[Plateforme serverless pour du MySQL : PlanetScale](https://planetscale.com/).
+
 ##### .NET :
 
 [Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).

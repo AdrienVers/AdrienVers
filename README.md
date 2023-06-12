@@ -206,6 +206,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Plateforme serverless pour du MySQL : PlanetScale](https://planetscale.com/).
 
+[Plateforme permettant d'héberger gratuitement PostgreSQL : Render](https://render.com/pricing).
+
 ##### .NET :
 
 [Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).

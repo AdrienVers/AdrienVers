@@ -378,6 +378,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Statistiques sur les productions agricoles par pays](https://www.fao.org/faostat/fr/#rankings/commodities_by_country).
 
+[Actualité sur l'agriculture et indicateurs concernant les marchés agricoles en France](https://www.terre-net.fr/).
+
 ##### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

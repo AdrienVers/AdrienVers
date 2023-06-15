@@ -180,6 +180,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Regroupement de packages très utiles dans la réalisation d'API en ASP.NET](https://www.nuget.org/).
 
+[Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
+
 ##### Graphiques : 
 
 [Réaliser des graphiques en React grâce à react-chartjs-2](https://react-chartjs-2.js.org/examples/line-chart).

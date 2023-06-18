@@ -168,6 +168,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Transformer du JS en TS de façon amusante](https://chat.openai.com/chat).
 
+[Récapitulatif des erreurs possibles en Typescript](https://typescript.tv/errors/).
+
 [Fiche pratique sur les types en TypeScript](https://doabledanny.gumroad.com/l/typescript-cheat-sheet-pdf).
 
 Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne supportant pas TypeScript (filestack-react).

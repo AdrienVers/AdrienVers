@@ -238,6 +238,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Différents fonds d'écran pour sites web avec des motifs générés en CSS](https://www.magicpattern.design/tools/css-backgrounds).
 
+[Tester le contraste entre deux couleurs pour vérifier la bonne lisibilité d'un texte (Critère 3.2 RGAA)](https://coolors.co/contrast-checker/112a46-acc8e5).
+
 ##### Creative Design :
 
 [Ensemble des sites web ayant obtenu des prix pour leur design et interface UI/UX](https://www.awwwards.com/websites/sites_of_the_day/).

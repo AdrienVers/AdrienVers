@@ -212,8 +212,6 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Plateforme permettant d'héberger gratuitement PostgreSQL : Render](https://render.com/pricing).
 
-[Plateforme permettant d'héberger gratuitement des images Docker : Zeet](https://zeet.co/pricing).
-
 ##### .NET :
 
 [Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).
@@ -297,6 +295,12 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 [Filestack (simple d'utilisation, mais génère des problèmes lors de la mise en production liés au manque cruel de mise à jour)](https://www.filestack.com/), 
 
 [Supabase (simple d'utilisation et fonctionne sans générer de problèmes tiers)](https://supabase.com/).
+
+##### Docker :
+
+[Plateforme permettant d'héberger gratuitement des images Docker : Zeet](https://zeet.co/pricing).
+
+[Package microsoft .NET facilitant la conteneurisation d'une minimal API](https://www.nuget.org/packages/Microsoft.NET.Build.Containers).
 
 ##### SEO :
 

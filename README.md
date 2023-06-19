@@ -47,11 +47,15 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Les toutes dernières versions et informations sur Angular (V16 :white_check_mark:)](https://github.com/angular/angular/releases).
 
+[Livre pour approfondir ses connaissances en Angular (02/22, V12 :ok:](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
+
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
 [Documentation officielle de Nuxt 3 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
 
 [Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
+
+[Livre pour apprendre à utiliser Docker spécifiquement pour .NET](https://www.editions-eni.fr/open/mediabook.aspx?idR=b973005be6fba0786454e1823c08a297).
 
 - ### Différentes ressources pour se perfectionner : 
 

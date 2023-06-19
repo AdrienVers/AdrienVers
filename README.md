@@ -306,6 +306,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Package microsoft .NET facilitant la conteneurisation d'une minimal API](https://www.nuget.org/packages/Microsoft.NET.Build.Containers).
 
+[Plateforme permettant d'héberger gratuitement l'image Docker d'une application (ASP.NET) : Render](https://render.com/pricing).
+
 ##### SEO :
 
 [Analyse du trafic de n'importe quel site web](https://www.similarweb.com/fr/). 

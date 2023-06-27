@@ -354,13 +354,15 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [David Hockley - Senior Full Stack Developer (React, Angular, TypeScript, NodeJS)](https://www.youtube.com/@kodaps_fr/videos).
 
-[Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
+[Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript, Patterns)](https://m.youtube.com/@melvynxdev/videos).
 
 [Enzo Ustariz - Senior Front-End Developer (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).
 
 [Guillaume Duhan - Senior Front-End Developer (Vue, Nuxt)](https://www.youtube.com/@codewithguillaume/videos).
 
 [Christophe Mommer - Senior DevOps Developer / MVP (C#,  .NET)](https://www.youtube.com/@HTSCoding/videos).
+
+[Anthony Cyrille - Senior Full Stack Developer (Clean Code, Architecture héxagonale, SOLID, TDD)](https://anthony-cyrille-s-school.teachable.com/).
 
 #### Autres secteurs (:bulb:) : 
 

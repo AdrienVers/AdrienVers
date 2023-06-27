@@ -182,6 +182,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Liste des différents Design Patterns, principes SOLID et autres sujets](https://refactoring.guru/).
 
+[Article intéressant sur la structure d'une architecture héxagonale](https://blog.octo.com/application-domain-infrastructure-des-mots-de-la-layered-hexagonal-clean-architecture/).
+
 ##### C# :
 
 [Regroupement de packages très utiles dans la réalisation d'API en ASP.NET](https://www.nuget.org/).

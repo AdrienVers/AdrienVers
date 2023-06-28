@@ -105,6 +105,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Installer Storybook dans Nuxt 3](https://laurentcazanove.com/articles/storybook-nuxt-guide/).
 
+[Article intéressant sur la pyramide des tests](https://blog.octo.com/the-test-pyramid-in-practice-1-5/).
+
 ##### API REST : 
 
 [Documentation sur React Query](https://react-query-v3.tanstack.com/overview).

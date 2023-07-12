@@ -125,6 +125,8 @@ API fournissant des données spatiales : [Spaceflight News API](https://thespace
 
 [Liste d'APIs sur de nombreux thèmes variés, accessibles gratuitement](https://github.com/public-apis/public-apis).
 
+[Créer une API REST en 2 minutes, avec données personnalisables, pour effectuer des tests dessus](https://mockapi.io/).
+
 ##### API GraphQL :
 
 [AWS Amplify : Utilisation avec React](https://ui.docs.amplify.aws/?platform=react).

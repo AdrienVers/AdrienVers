@@ -83,11 +83,11 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
-##### Redux :
+##### State Management :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).
 
-[Zustand : Une alternative de state management possible face aux différents problèmes liées au Context API ou à Redux](https://github.com/pmndrs/zustand).
+[Zustand : Une alternative de state management possible face aux différents problèmes liés au Context API ou à Redux](https://github.com/pmndrs/zustand).
 
 ##### Tests : 
 

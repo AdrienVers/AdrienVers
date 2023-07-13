@@ -350,7 +350,7 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Extension permettant de visualiser toutes les icons des fichiers (Material Icon Theme)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
-[Extension permettant de fermer automatiquement une balise HTML (ou JSX) avec le bon nom](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag).
+[Extension permettant de fermer automatiquement une balise HTML (ou JSX) avec le bon nom](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag). (équivalent possible avec "editor.linkedEditing": true dans settings.json de VS Code)
 
 ##### Bureaucratique :
 

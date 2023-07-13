@@ -350,6 +350,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Extension permettant de visualiser toutes les icons des fichiers (Material Icon Theme)](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
+[Extension permettant de fermer automatiquement une balise HTML (ou JSX) avec le bon nom](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

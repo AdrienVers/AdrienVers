@@ -41,7 +41,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
 
-[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md#1702-march-22-2021).
+[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
 
 [Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 
@@ -52,6 +52,10 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
 [Documentation officielle de Nuxt 3 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
+
+[Documentation officielle de NestJS (lien pointant vers le cycle de vie d'une requête HTTP)](https://docs.nestjs.com/faq/request-lifecycle).
+
+[Les toutes dernières versions et informations sur le Framework NestJS (V10 :white_check_mark:)](https://github.com/nestjs/nest/releases).
 
 [Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
 

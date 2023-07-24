@@ -109,6 +109,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Installer Storybook dans Nuxt 3](https://laurentcazanove.com/articles/storybook-nuxt-guide/).
 
+[Article intéressant sur l'utilisation de Storybook par Doctolib](https://oxygen.doctolib.design/60b411768/p/79d9a5-inclusion/b/648cec).
+
 [Article intéressant sur la pyramide des tests](https://blog.octo.com/the-test-pyramid-in-practice-1-5/).
 
 ##### API REST : 

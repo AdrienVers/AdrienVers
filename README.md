@@ -194,6 +194,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Article intéressant sur la structure d'une architecture héxagonale](https://blog.octo.com/application-domain-infrastructure-des-mots-de-la-layered-hexagonal-clean-architecture/).
 
+[Vulgarisation des Design Patterns (refactoring guru)](https://refactoring.guru/design-patterns/factory-method).
+
 ##### C# :
 
 [Regroupement de packages très utiles dans la réalisation d'API en ASP.NET](https://www.nuget.org/).

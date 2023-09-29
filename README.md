@@ -51,6 +51,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
+[Les toutes dernières versions et informations sur Cypress](https://docs.cypress.io/guides/references/changelog).
+
 [Documentation officielle de Nuxt 3 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
 
 [Documentation officielle de NestJS (lien pointant vers le cycle de vie d'une requête HTTP)](https://docs.nestjs.com/faq/request-lifecycle).

@@ -192,7 +192,7 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 ##### Clean Code : 
 
-[Liste des différents Design Patterns, principes SOLID et autres sujets](https://refactoring.guru/).
+[Liste des différents Design Patterns, principes SOLID et autres sujets](https://refactoring.guru/design-patterns/catalog).
 
 [Article intéressant sur la structure d'une architecture héxagonale](https://blog.octo.com/application-domain-infrastructure-des-mots-de-la-layered-hexagonal-clean-architecture/).
 

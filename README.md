@@ -49,6 +49,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Livre pour approfondir ses connaissances en Angular (02/22, V12 :ok:](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
 
+[Liste de challenges à réaliser en Angular (avec solutions)](https://angular-challenges.vercel.app/).
+
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
 [Les toutes dernières versions et informations sur Cypress](https://docs.cypress.io/guides/references/changelog).

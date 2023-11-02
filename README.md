@@ -202,6 +202,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Suite d'articles interessants sur les Design Patterns en C#](https://medium.com/@lexitrainerph).
 
+[Le Factory Pattern (C#, Unity)](https://unity.com/how-to/how-use-factory-pattern-object-creation-runtime).
+
 ##### C# :
 
 [Regroupement de packages très utiles dans la réalisation d'API en ASP.NET](https://www.nuget.org/).

@@ -170,6 +170,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Générateur de regex en fonction du cas utilisé (username, mail, password, etc..)](https://ihateregex.io/expr/username).
 
+[Questions-Réponses en JavaScript](https://github.com/lydiahallie/javascript-questions)
+
 ##### CSS-in-JS :
 
 [Présentation de librairies CSS-in-JS sans runtime (≠ styled-components).](https://blog.logrocket.com/comparing-the-top-zero-runtime-css-in-js-libraries/).

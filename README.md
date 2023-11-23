@@ -208,7 +208,7 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 ##### C# :
 
-[Regroupement de packages très utiles dans la réalisation d'API en ASP.NET](https://www.nuget.org/).
+[Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
 
 [Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
 

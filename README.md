@@ -424,6 +424,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Analyse des enjeux géopolitiques (Le dessous des cartes)](https://www.arte.tv/fr/videos/103960-026-A/le-dessous-des-cartes/).
 
+[Infographies sur l'agriculture et sur d'autres secteurs en France](https://infographies.agriculture.gouv.fr/).
+
 [Informations pratiques sur les entreprises françaises (CA, dirigeants, comptes annuels, infos juridiques, etc..)](https://www.pappers.fr/).
 
 [Liste des différentes start up françaises selon leur secteur d'activité (fintech, foodtech, etc..)](https://app.caption.market/wishlist/startups).

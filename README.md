@@ -178,7 +178,13 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Tendance entre styled-components (+ CRA) et emotion (+ NextJS)](https://npmtrends.com/@emotion/react-vs-styled-components).
 
-#### 3D : 
+##### Icons :
+
+[Icons variées pouvant être utilisées avec React / Vue (Font Awesome)](https://fontawesome.com/icons).
+
+[Icons de google pouvant être utilisées avec Angular (Material Icons)](https://fonts.google.com/icons?icon.set=Material+Icons).
+
+##### 3D : 
 
 [Implémentation de React-Three-Fiber et ThreeJS dans NextJS](https://medium.com/@kusuma844/adding-3d-to-your-next-js-project-with-react-three-fiber-4bce8c21550).
 

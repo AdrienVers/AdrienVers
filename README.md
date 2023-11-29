@@ -45,7 +45,7 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
 
-[Les toutes dernières versions et informations sur Angular (V16 :white_check_mark:)](https://github.com/angular/angular/releases).
+[Les toutes dernières versions et informations sur Angular (V17 :white_check_mark:)](https://github.com/angular/angular/releases).
 
 [Livre pour approfondir ses connaissances en Angular (02/22, V12 :ok:](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
 

@@ -6,7 +6,7 @@ Ingénieur en développement informatique (Fullstack), spécialisé dans la cré
 
 Sur mon GitHub, vous pourrez d'ores et déjà retrouver quelques uns de mes projets : 
 
-## <p>Quelques projets <span>(:computer::page_with_curl:)</span></p>
+## <p>Quelques projets</p>
 
 - ### <p>Site de trading (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,jest,firebase"/></a>)</span></p>
 
@@ -33,7 +33,7 @@ Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) su
 
 Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
-## <p>Ma veille technologique <span>(:computer::chart_with_upwards_trend:)</span></p>
+## <p>Ma veille technologique</p>
 
 - ### Différentes technologies web recommandées et en devenir : 
 

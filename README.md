@@ -51,6 +51,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Liste de challenges à réaliser en Angular (avec solutions)](https://angular-challenges.vercel.app/).
 
+[Comprendre visuellement la programmation réactive (RxJS avec Angular)](https://rxmarbles.com/#merge).
+
 [Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
 [Les toutes dernières versions et informations sur Cypress](https://docs.cypress.io/guides/references/changelog).
@@ -392,7 +394,9 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [David Hockley - Senior Full Stack Developer (React, Angular, TypeScript, NodeJS)](https://www.youtube.com/@kodaps_fr/videos).
 
-[Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript, Patterns)](https://m.youtube.com/@melvynxdev/videos).
+[Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
+
+[Simon Dieny - Senior Full Stack Developer (Angular, NodeJS, Design Patterns)](https://www.youtube.com/@codeursenior/videos).
 
 [Enzo Ustariz - Senior Front-End Developer (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).
 

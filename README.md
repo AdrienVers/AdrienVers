@@ -214,6 +214,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Le Factory Pattern (C#, Unity)](https://unity.com/how-to/how-use-factory-pattern-object-creation-runtime).
 
+[Respecter les conventions de commits git avec le package commitlint (feat, fix, chore, ...)](https://www.npmjs.com/package/commitlint).
+
 ##### C# :
 
 [Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).

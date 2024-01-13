@@ -220,7 +220,11 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
 
+Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install Tool (Microsoft), C# Dev Kit (Microsoft), Code Runner (Jun Han).
+
 [Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
+
+[Réaliser des tests unitaires en C# avec xUnit](https://learn.microsoft.com/fr-fr/dotnet/core/testing/unit-testing-with-dotnet-test).
 
 ##### C++ :
 

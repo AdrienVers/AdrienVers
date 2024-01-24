@@ -258,6 +258,10 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Plateforme permettant d'héberger gratuitement PostgreSQL : Render](https://render.com/pricing).
 
+##### Big Data :
+
+[Articles de blog sur la Big Data, notamment sur du monitoring (Elasticsearch, Kafka, Kibana, etc.)](https://xavki.blog/elk-tutos-francais/).
+
 ##### .NET :
 
 [Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).

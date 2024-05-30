@@ -250,6 +250,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [ORM permettant de manipuler les BDD relationnelles (PostgreSQL) et non relationnelles (MongoDB) : Prisma](https://www.prisma.io/).
 
+[Documentation officielle pour utiliser l'ORM Prisma avec NestJS et SQLite](https://github.com/prisma/prisma-examples/tree/latest/typescript/rest-nestjs).
+
 [Railway, un cloud générant des BDD facilement et rapidement (que ce soit du PostgreSQL, MongoDB ou autre)](https://railway.app/).
 
 [Site web permettant de réaliser facilement des modèles conceptuels de base de données SQL (dbdiagram)](https://dbdiagram.io/home).

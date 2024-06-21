@@ -404,6 +404,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Jack Herrington - Senior Full Stack Developer (Next/React, Vue, TypeScript, GraphQL)](https://www.youtube.com/@jherr/featured).
 
+[Michael Guay - Senior Full Stack Developer (Next/React, Angular, NestJS)](https://www.youtube.com/@mguay/videos).
+
 [David Hockley - Senior Full Stack Developer (React, Angular, TypeScript, NodeJS)](https://www.youtube.com/@kodaps_fr/videos).
 
 [Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).

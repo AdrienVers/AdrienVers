@@ -365,6 +365,10 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 [Livre sur le référencement SEO : Le SEO en 500 questions, Olivier Andrieu.](https://www.eyrolles.com/Informatique/Livre/le-seo-en-500-questions-9782416002168/).
 
 [Améliorer la vitesse de chargement du contenu (LCP)](https://web.dev/optimize-lcp/).
+
+##### Marketing :
+
+[Mieux gérer son tunnel de vente (SaaS B2B)](https://www.youtube.com/watch?v=3MTYaezzizQ).
  
 ##### Extensions Google :
 

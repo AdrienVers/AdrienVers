@@ -404,6 +404,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 → Équivalent possible avec "editor.linkedEditing": true (dans settings.json de VS Code).
 
+##### IA : 
+
+[Promeai, IA permettant d'apporter des modifications précises sur une image existante](https://www.promeai.pro/blender).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

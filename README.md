@@ -119,6 +119,8 @@ Vous trouverez également quelques liens pouvant être interessants ci-dessous :
 
 [Article intéressant sur la pyramide des tests](https://blog.octo.com/the-test-pyramid-in-practice-1-5/).
 
+[Simulez une carte bancaire pour tester une fonctionnalité de paiement (via stripe)](https://docs.stripe.com/testing).
+
 ##### API REST : 
 
 [Documentation sur React Query](https://react-query-v3.tanstack.com/overview).

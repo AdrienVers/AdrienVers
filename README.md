@@ -324,7 +324,9 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Vérifier l'état de GitHub en cas de problème d'actualisation d'un projet](https://www.githubstatus.com/).
 
-[Gérer les différentes versions de Node (passer facilement de 16 à 20)](https://github.com/coreybutler/nvm-windows/releases).
+[Gérer les versions de Node avec volta (gestionnaire node maintenu et rapide)](https://docs.volta.sh/guide/getting-started).
+
+[Ancienne façon de gérer les différentes versions de Node (passer facilement de 16 à 20)](https://github.com/coreybutler/nvm-windows/releases).
 
 [Voir le calendrier des release de Node et ses versions stables](https://nodejs.org/en/about/previous-releases).
 

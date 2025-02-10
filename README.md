@@ -452,6 +452,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Analyseur automatique de CV (CV Catcher d'AddViseo)](https://emploi.addviseo.com/cvcatcher).
 
+##### Nutrition : 
+
+[Connaître les scores de satiété de chaque aliment du quotidien](https://www.rnpc.fr/la-satiete/).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

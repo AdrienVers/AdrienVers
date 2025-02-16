@@ -464,6 +464,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Analyse du PIB, consommation, production, secteurs d'activité, etc](https://www.insee.fr/fr/statistiques/2107840).
 
+[Présentation des villes et villages en France où il fait bon vivre (population, prix au m2, ect)](https://www.villesetvillagesouilfaitbonvivre.com/palmares/resultats).
+
 [Analyse des décisions et orientations politiques de la Commission européenne 2019-2024](https://ec.europa.eu/info/strategy/priorities-2019-2024_fr).
 
 [Statistiques et données en Europe (taux d'inflation, PIB, prix du logement, etc..)](https://ec.europa.eu/eurostat/fr/).

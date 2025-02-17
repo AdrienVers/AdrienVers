@@ -452,6 +452,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Analyseur automatique de CV (CV Catcher d'AddViseo)](https://emploi.addviseo.com/cvcatcher).
 
+[Déterminer le chiffre d'affaire d'une entreprise](https://annuaire-entreprises.data.gouv.fr/) [et dirigeants](https://www.infogreffe.fr/).
+
 ##### Nutrition : 
 
 [Connaître les scores de satiété de chaque aliment du quotidien](https://www.rnpc.fr/la-satiete/).

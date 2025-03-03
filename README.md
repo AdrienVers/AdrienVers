@@ -416,6 +416,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Promeai, IA permettant d'apporter des modifications précises sur une image existante](https://www.promeai.pro/blender).
 
+[Référencement des outils IA pour l'ingénierie](https://malywut.github.io/ai-engineering-landscape/).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

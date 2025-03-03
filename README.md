@@ -418,6 +418,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Référencement des outils IA pour l'ingénierie](https://malywut.github.io/ai-engineering-landscape/).
 
+[Architecture et bonnes pratiques pour intégrer des LLM](https://martinfowler.com/articles/gen-ai-patterns/).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

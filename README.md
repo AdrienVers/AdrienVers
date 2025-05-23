@@ -184,6 +184,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 ##### Icons :
 
+[Icônes téléchargeables sous format SVG (React svg icons)](https://reactsvgicons.com/).
+
 [Icons variées pouvant être utilisées avec React / Vue (Font Awesome)](https://fontawesome.com/icons).
 
 [Icons de google pouvant être utilisées avec Angular (Material Icons)](https://fonts.google.com/icons?icon.set=Material+Icons).

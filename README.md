@@ -460,6 +460,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Déterminer le chiffre d'affaire d'une entreprise](https://annuaire-entreprises.data.gouv.fr/) [et dirigeants](https://www.infogreffe.fr/).
 
+[Afficher ce que LinkedIn est capable d'analyser sur son portfolio (ou autre site web)](https://www.linkedin.com/post-inspector/).
+
 ##### Nutrition : 
 
 [Connaître les scores de satiété de chaque aliment du quotidien](https://www.rnpc.fr/la-satiete/).

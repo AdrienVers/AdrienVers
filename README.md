@@ -1,37 +1,37 @@
 ### Bienvenue 👋
 
-Ingénieur en développement informatique (Fullstack), spécialisé dans la création d'applications web et de logiciels, allant de projets complexes aux sites vitrines. Vous pouvez accéder à mon portfolio en cliquant : [ICI](https://portfolio-adrienvers.vercel.app/).
+Ingénieur en développement informatique, spécialisé dans la création d'applications web et de logiciels, allant de projets complexes aux sites vitrines. Vous pouvez [accéder à mon portfolio pour voir mes différents services et réalisations](https://adrienverschaere.com).
 
-## <p><span></span></p>
+Vous êtes un particulier et vous souhaitez créer ou refondre votre site web ? Une PME et vous souhaitez développer votre présence en ligne ? Ou encore, une startup avec une idée innovante et avez besoin d'une solution digitale prête à évoluer ? Je peux vous apporter mon expertise.
 
-Sur mon GitHub, vous pourrez d'ores et déjà retrouver quelques uns de mes projets : 
+📌 𝘾𝙚 𝙦𝙪𝙚 𝙟𝙚 𝙥𝙧𝙤𝙥𝙤𝙨𝙚 :
 
-## <p>Quelques projets</p>
+- Analyse de vos besoins et conception d'une maquette fidèle à votre vision.
+- Développement de votre site web, automatisation et déploiement en production.
+- Mise en place d'une architecture logicielle robuste et modulable, garantissant une maintenance simple et évolutive de votre application web. 
 
-- ### <p>Site de trading (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,jest,firebase"/></a>)</span></p>
+🛠 𝙏𝙚𝙘𝙝𝙣𝙤𝙨 𝙥𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡𝙚𝙨 :
 
-Application de trading permettant de s'initier au monde financier et à la Bourse. Ce site web comprend de nombreuses fonctionnalités (création de compte, connexion/déconnexion (Firebase), requêtes HTTP vers API REST, simulation d'achat ou de vente d'actions, gestion de portefeuille, ...). L'objectif du projet était de réaliser un site web avec les bonnes pratiques (typage des variables avec TypeScript, tests unitaires avec Jest et RTL, meilleur référencement avec Next et les métadonnées).
+- Front : Next (React), Angular.
+- Back : Nest (NodeJS), ASP.NET.
+- ORM : Prisma, EF Core.
+- BDD : MongoDB, SQLite.
+- TU : Jest, Vitest, xUnit.
+- E2E : Playwright, Cypress.
+- CI/CD : GitHub Actions.
+- API Client : Postman, Bruno.
+- Doc : Storybook, Swagger.
+- Méthodologies : TDD, DDD.
 
-![DistrictMoney](https://github.com/AdrienVers/AdrienVers/assets/59047879/171ad2f4-8800-45ae-a66d-d6eaec879b66)
+🌍 𝗦𝗲𝗰𝘁𝗲𝘂𝗿𝘀 𝗱𝗲 𝗽𝗿𝗲𝗱𝗶𝗹𝗲𝗰𝘁𝗶𝗼𝗻 :
 
-Stacks utilisées : Next/React, TyepScript, Styled Components, Jest, Firebase. 
+🌱 Agriculture, Énergies, GreenTech,
+🌐 Education, GameTech, Tourisme, 
+🏗️ BTP, Smart City et PropTech
 
-Pour plus de détails :  Le [code](https://github.com/AdrienVers/District-Money) sur GitHub, l'accès au [site](https://district-money.vercel.app/).
+## <p>Mon utilisation de Github :</p>
 
-
-- ### <p>Modélisation du système solaire (<span><a href="https://skillicons.dev"><img width="120" src="https://skillicons.dev/icons?i=nextjs,ts,postman,threejs"/></a>)</span></p>
-
-Modélisation 3D du système solaire offrant la possibilité d'accéder à des informations sur les différentes planètes et télescopes, en les sélectionnant ou en les recherchant via une barre de navigation.
-
-![SpaceOdyssey](https://user-images.githubusercontent.com/59047879/223502439-32e1d215-c1f8-4e5d-bad4-84d42b45da9e.png)
-
-Stacks utilisées : Next/React, TyepScript, Styled Components, React-Three-Fiber / ThreeJS. 
-
-Pour plus de détails : Le [code](https://github.com/AdrienVers/SpaceOdyssey) sur GitHub, l'accès au [site](https://space-odyssey.vercel.app/).
-
-## Pour voir l'ensemble de mes projets, vous pouvez vous rendre sur mon [portfolio](https://portfolio-adrienvers.vercel.app/).
-
-Vous trouverez également quelques liens pouvant être interessants ci-dessous :
+Sur cette même page, vous trouverez un florilège de liens qui pourraient vous être utiles, que vous soyez développeur ou non. Bonne découverte !
 
 ## <p>Ma veille technologique</p>
 

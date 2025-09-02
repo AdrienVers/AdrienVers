@@ -250,6 +250,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Librairie pour réaliser des graphiques responsives sur React, Angular et Vue](https://apexcharts.com/).
 
+[Réaliser des flowchart, data mapping et organizational charts dynamiques](https://www.jointjs.com/).
+
 ##### BDD :
 
 [Générateur de requêtes SQL](https://www.text2sql.ai/).

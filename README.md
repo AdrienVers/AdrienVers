@@ -93,6 +93,10 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
+##### VueJS :
+
+[S'entraîner aux entretiens techniques en VueJS / NuxtJS](https://welovedevs.com/fr/app/tests/questions-test-vuejs).
+
 ##### State Management :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

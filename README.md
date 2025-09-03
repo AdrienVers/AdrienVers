@@ -99,6 +99,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [50 questions de base pour réviser ses acquis en VueJS](https://www.geeksforgeeks.org/javascript/vuejs-interview-questions-and-answers/#vuejs-interview-questions-and-answers-advanced).
 
+[Certification officielle en VueJS](https://certificates.dev/vuejs/dashboard/guides/developer).
+
 ##### State Management :
 
 [Documentation sur les hooks Redux principaux (useDispatch, useSelector)](https://react-redux.js.org/api/hooks).

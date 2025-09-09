@@ -113,7 +113,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Tester les performances d'un site](https://tools.pingdom.com/).
 
-[Installer Jest dans NextJS (V13 :white_check_mark:)](https://blog.logrocket.com/testing-next-js-apps-jest/).
+[Installer Jest dans NextJS (V13, 2024)](https://blog.logrocket.com/testing-next-js-apps-jest/).
 
 [Installer Vitest dans Nuxt 3](https://dev.to/tao/adding-vitest-to-nuxt-3-2023-lpa).
 

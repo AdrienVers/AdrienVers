@@ -72,7 +72,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 #### Dans le developpement web (:computer:) : 
 
 
-##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> (v19) :
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React (v19) :
 
 [Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://react.dev/reference/react/hooks).
 
@@ -94,11 +94,11 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
-##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) (v20) : 
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v20) : 
 
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 
-##### ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) (v3.5) / NuxtJS (v4) :
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> Vue (v3.5) / NuxtJS (v4) :
 
 [Visualiser les states et payloads dans le navigateur grâce à Vue DevTools](https://devtools.vuejs.org/).
 

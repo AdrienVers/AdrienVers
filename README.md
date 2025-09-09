@@ -72,7 +72,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 #### Dans le developpement web (:computer:) : 
 
 
-##### ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) React (v19) :
+##### ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) (v19) :
 
 [Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://react.dev/reference/react/hooks).
 
@@ -94,11 +94,11 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
-##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) Angular (v20) : 
+##### ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) (v20) : 
 
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 
-##### ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) VueJS (v3.5) / NuxtJS (v4) :
+##### ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) (v3.5) / NuxtJS (v4) :
 
 [Visualiser les states et payloads dans le navigateur grâce à Vue DevTools](https://devtools.vuejs.org/).
 

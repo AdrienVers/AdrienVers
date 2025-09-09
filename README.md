@@ -12,7 +12,7 @@ Vous êtes un particulier et vous souhaitez créer ou refondre votre site web ? 
 
 🛠 𝙏𝙚𝙘𝙝𝙣𝙤𝙨 𝙥𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡𝙚𝙨 :
 
-- Front : Next (React), Angular.
+- Front : Next (React), Angular, Nuxt (Vue).
 - Back : Nest (NodeJS), ASP.NET.
 - ORM : Prisma, EF Core.
 - BDD : MongoDB, SQLite.

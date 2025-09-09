@@ -63,23 +63,25 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Livre pour approfondir ses connaissances en React (01/20, V16)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
 
-[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
+[Les toutes dernières versions et informations sur le Framework React (V19 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
 
-[Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
+[Les toutes dernières versions et informations sur NextJS (V15 :white_check_mark:)](https://nextjs.org/blog).
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v20) : 
 
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 
-[Les toutes dernières versions et informations sur Angular (V17 :white_check_mark:)](https://github.com/angular/angular/releases).
+[Les toutes dernières versions et informations sur Angular (V19 :white_check_mark:)](https://github.com/angular/angular/releases).
 
 [Comprendre visuellement la programmation réactive (RxJS avec Angular)](https://rxmarbles.com/#merge).
 
-[Livre pour approfondir ses connaissances en Angular (3e édition 02/22, V12 => 4e édition 04/2025, V19)](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
+[Livre pour approfondir ses connaissances en Angular (3e édition 02/22, V12 => 4e édition 04/2025, V19 :white_check_mark:)](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
 
 [Liste de challenges à réaliser en Angular (avec solutions)](https://angular-challenges.vercel.app/).
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> Vue (v3.5) / NuxtJS (v4) :
+
+[Documentation officielle de Nuxt 4 :white_check_mark: (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
 
 [Visualiser les states et payloads dans le navigateur grâce à Vue DevTools](https://devtools.vuejs.org/).
 
@@ -88,8 +90,6 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 [50 questions de base pour réviser ses acquis en VueJS](https://www.geeksforgeeks.org/javascript/vuejs-interview-questions-and-answers/#vuejs-interview-questions-and-answers-advanced).
 
 [Certification officielle en VueJS](https://certificates.dev/vuejs/dashboard/guides/developer).
-
-[Documentation officielle de Nuxt 4 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
 
 ### Différentes technologies web recommandées et en devenir : 
 

@@ -93,7 +93,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
-##### VueJS :
+##### VueJS (v3.5) / NuxtJS (4) :
 
 [Visualiser les states et payloads dans le navigateur grâce à Vue DevTools](https://devtools.vuejs.org/).
 

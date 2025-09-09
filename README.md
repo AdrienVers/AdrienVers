@@ -72,7 +72,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 #### Dans le developpement web (:computer:) : 
 
 
-##### ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) (v19) :
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> (v19) :
 
 [Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://react.dev/reference/react/hooks).
 

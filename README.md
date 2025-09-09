@@ -35,44 +35,11 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 ## <p>Ma veille technologique</p>
 
-- ### Différentes technologies web recommandées et en devenir : 
-
-[Statistiques sur les librairies web les plus utilisées en 2022](https://2022.stateofjs.com/en-US/libraries/) :white_check_mark:.
-
-[Statistiques sur les plateformes les plus utilisées en 2021](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
-
-[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
-
-[Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
-
-[Les toutes dernières versions et informations sur Angular (V17 :white_check_mark:)](https://github.com/angular/angular/releases).
-
-[Livre pour approfondir ses connaissances en Angular (02/22, V12 :ok:](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
-
-[Liste de challenges à réaliser en Angular (avec solutions)](https://angular-challenges.vercel.app/).
-
-[Comprendre visuellement la programmation réactive (RxJS avec Angular)](https://rxmarbles.com/#merge).
-
-[Les toutes dernières versions et informations sur C# (V11 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
-
-[Les toutes dernières versions et informations sur Cypress](https://docs.cypress.io/guides/references/changelog).
-
-[Documentation officielle de Nuxt 3 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
-
-[Documentation officielle de NestJS (lien pointant vers le cycle de vie d'une requête HTTP)](https://docs.nestjs.com/faq/request-lifecycle).
-
-[Les toutes dernières versions et informations sur le Framework NestJS (V10 :white_check_mark:)](https://github.com/nestjs/nest/releases).
-
-[Livre pour approfondir ses connaissances en React (01/20, V16 :ok:)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
-
-[Livre pour apprendre à utiliser Docker spécifiquement pour .NET](https://www.editions-eni.fr/open/mediabook.aspx?idR=b973005be6fba0786454e1823c08a297).
-
 - ### Différentes ressources pour se perfectionner : 
 
 #### Dans le developpement web (:computer:) : 
 
-
-##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React (v19) :
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React (v19) / NextJS (v15) :
 
 [Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://react.dev/reference/react/hooks).
 
@@ -94,9 +61,23 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Actualité sur React (Sébastien Lorber)](https://thisweekinreact.com/fr?utm_source=melvynxdev).
 
+[Livre pour approfondir ses connaissances en React (01/20, V16)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
+
+[Les toutes dernières versions et informations sur le Framework React (V18.2 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
+
+[Les toutes dernières versions et informations sur NextJS (V13 :white_check_mark:)](https://nextjs.org/blog).
+
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v20) : 
 
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
+
+[Les toutes dernières versions et informations sur Angular (V17 :white_check_mark:)](https://github.com/angular/angular/releases).
+
+[Comprendre visuellement la programmation réactive (RxJS avec Angular)](https://rxmarbles.com/#merge).
+
+[Livre pour approfondir ses connaissances en Angular (3e édition 02/22, V12 => 4e édition 04/2025, V19)](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).
+
+[Liste de challenges à réaliser en Angular (avec solutions)](https://angular-challenges.vercel.app/).
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> Vue (v3.5) / NuxtJS (v4) :
 
@@ -107,6 +88,14 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 [50 questions de base pour réviser ses acquis en VueJS](https://www.geeksforgeeks.org/javascript/vuejs-interview-questions-and-answers/#vuejs-interview-questions-and-answers-advanced).
 
 [Certification officielle en VueJS](https://certificates.dev/vuejs/dashboard/guides/developer).
+
+[Documentation officielle de Nuxt 4 (framework basé sur VueJS)](https://nuxt.com/docs/getting-started/installation).
+
+### Différentes technologies web recommandées et en devenir : 
+
+[Statistiques sur les librairies web les plus utilisées en 2024](https://2024.stateofjs.com/en-US/libraries/) :white_check_mark:.
+
+[Statistiques sur les plateformes les plus utilisées en 2025](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet).
 
 ##### State Management :
 
@@ -135,6 +124,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 [Article intéressant sur la pyramide des tests](https://blog.octo.com/the-test-pyramid-in-practice-1-5/).
 
 [Simulez une carte bancaire pour tester une fonctionnalité de paiement (via stripe)](https://docs.stripe.com/testing).
+
+[Les toutes dernières versions et informations sur Cypress](https://docs.cypress.io/guides/references/changelog).
 
 ##### API REST : 
 
@@ -221,6 +212,12 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne supportant pas TypeScript (filestack-react).
 
+##### NestJS : 
+
+[Documentation officielle de NestJS (lien pointant vers le cycle de vie d'une requête HTTP)](https://docs.nestjs.com/faq/request-lifecycle).
+
+[Les toutes dernières versions et informations sur le Framework NestJS (V11 :white_check_mark:)](https://github.com/nestjs/nest/releases).
+
 ##### Clean Code : 
 
 [Liste des différents Design Patterns, principes SOLID et autres sujets](https://refactoring.guru/design-patterns/catalog).
@@ -244,6 +241,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 [Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
 
 [Réaliser des tests unitaires en C# avec xUnit](https://learn.microsoft.com/fr-fr/dotnet/core/testing/unit-testing-with-dotnet-test).
+
+[Les toutes dernières versions et informations sur C# (V13 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
 ##### Unity :
 
@@ -386,6 +385,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 [Package microsoft .NET facilitant la conteneurisation d'une minimal API](https://www.nuget.org/packages/Microsoft.NET.Build.Containers).
 
 [Plateforme permettant d'héberger gratuitement l'image Docker d'une application (ASP.NET) : Render](https://render.com/pricing).
+
+[Livre pour apprendre à utiliser Docker spécifiquement pour .NET](https://www.editions-eni.fr/open/mediabook.aspx?idR=b973005be6fba0786454e1823c08a297).
 
 ##### SEO :
 

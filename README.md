@@ -1,6 +1,6 @@
 ### Bienvenue 👋
 
-Ingénieur en développement informatique, spécialisé dans la création d'applications web et de logiciels, allant de projets complexes aux sites vitrines. Vous pouvez [accéder à mon portfolio pour voir mes différents services et réalisations](https://adrienverschaere.com).
+Ingénieur en développement informatique, spécialisé dans la création d'applications web et de logiciels, allant de projets complexes aux sites vitrines. Vous pouvez <a href="https://adrienverschaere.com" target="_blank">accéder à mon portfolio pour voir mes différents services et réalisations</a>.
 
 Vous souhaitez créer ou refondre votre site web ou développer votre présence en ligne ? Vous avez une idée innovante et avez besoin d'une solution digitale prête à évoluer ? Je peux vous apporter mon expertise.
 

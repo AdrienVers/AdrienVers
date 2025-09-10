@@ -78,6 +78,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 
+[Intégration et configuration des LLM conformes aux bonnes pratiques Angular](https://angular.dev/ai/develop-with-ai).
+
 [Comprendre visuellement la programmation réactive (RxJS avec Angular)](https://rxmarbles.com/#merge).
 
 [Livre pour approfondir ses connaissances en Angular (3e édition 02/22, V12 => 4e édition 04/2025, V19 :white_check_mark:)](https://www.editions-eni.fr/livre/angular-developpez-vos-applications-web-avec-le-framework-javascript-de-google-3e-edition-9782409034084/les-services).

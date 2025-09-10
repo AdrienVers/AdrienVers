@@ -73,7 +73,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Visualiser les states et payloads dans le navigateur grâce à Angular DevTools](https://angular.dev/tools/devtools).
 
-[Nouvelle version de Material Design pour Angular (v3)](https://m3.material.io/).
+[Nouvelle version de Material Design (v3) pour Angular](https://m3.material.io/).
 
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 

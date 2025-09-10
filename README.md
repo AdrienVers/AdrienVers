@@ -22,6 +22,7 @@ Vous êtes un particulier et vous souhaitez créer ou refondre votre site web ? 
 - API Client : Postman, Bruno.
 - Doc : Storybook, Swagger.
 - Méthodologies : TDD, DDD.
+- Intégration LLM : OpenRouter
 
 🌍 𝗦𝗲𝗰𝘁𝗲𝘂𝗿𝘀 𝗱𝗲 𝗽𝗿𝗲𝗱𝗶𝗹𝗲𝗰𝘁𝗶𝗼𝗻 :
 
@@ -443,6 +444,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 [Référencement des outils IA pour l'ingénierie](https://malywut.github.io/ai-engineering-landscape/).
 
 [Architecture et bonnes pratiques pour intégrer des LLM](https://martinfowler.com/articles/gen-ai-patterns/).
+
+[Plateforme open-source permettant d'accéder à de nombreux models LLM gratuitement](https://openrouter.ai/).
 
 ##### Bureaucratique :
 

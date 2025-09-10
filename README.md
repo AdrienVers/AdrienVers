@@ -69,9 +69,11 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v20) : 
 
-[Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
+[Les toutes dernières versions et informations sur Angular (V20 :white_check_mark:)](https://github.com/angular/angular/releases).
 
-[Les toutes dernières versions et informations sur Angular (V19 :white_check_mark:)](https://github.com/angular/angular/releases).
+[Visualiser les states et payloads dans le navigateur grâce à Angular DevTools](https://angular.dev/tools/devtools).
+
+[Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 
 [Comprendre visuellement la programmation réactive (RxJS avec Angular)](https://rxmarbles.com/#merge).
 

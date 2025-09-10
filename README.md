@@ -2,7 +2,7 @@
 
 Ingénieur en développement informatique, spécialisé dans la création d'applications web et de logiciels, allant de projets complexes aux sites vitrines. Vous pouvez [accéder à mon portfolio pour voir mes différents services et réalisations](https://adrienverschaere.com).
 
-Vous êtes un particulier et vous souhaitez créer ou refondre votre site web ? Une PME et vous souhaitez développer votre présence en ligne ? Ou encore, une startup avec une idée innovante et avez besoin d'une solution digitale prête à évoluer ? Je peux vous apporter mon expertise.
+Vous souhaitez créer ou refondre votre site web ou développer votre présence en ligne ? Vous avez une idée innovante et avez besoin d'une solution digitale prête à évoluer ? Je peux vous apporter mon expertise.
 
 📌 𝘾𝙚 𝙦𝙪𝙚 𝙟𝙚 𝙥𝙧𝙤𝙥𝙤𝙨𝙚 :
 

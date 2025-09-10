@@ -38,7 +38,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 - ### Différentes ressources pour se perfectionner : 
 
-#### Dans le developpement web (:computer:) : 
+#### Dans le developpement web (💻) : 
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React (v19) / NextJS (v15) :
 

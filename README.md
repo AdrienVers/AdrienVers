@@ -251,6 +251,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Les toutes dernières versions et informations sur C# (V13 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
+[Formateur de code très pratique en C# sur VS Code (CSharpier)](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode).
+
 ##### Unity :
 
 [Accès aux différentes versions / releases de Unity](https://unity.com/fr/releases/editor/archive).

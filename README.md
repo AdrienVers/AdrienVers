@@ -13,6 +13,7 @@ Vous souhaitez créer ou refondre votre site web ou développer votre présence 
 🛠 𝙏𝙚𝙘𝙝𝙣𝙤𝙨 𝙥𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡𝙚𝙨 :
 
 - Front : Next (React), Angular, Nuxt (Vue).
+- Mobile : React Native.
 - Back : Nest (NodeJS), ASP.NET.
 - ORM : Prisma, EF Core.
 - BDD : MongoDB, SQLite.
@@ -22,7 +23,9 @@ Vous souhaitez créer ou refondre votre site web ou développer votre présence 
 - API Client : Postman, Bruno.
 - Doc : Storybook, Swagger.
 - Méthodologies : TDD, DDD.
-- Intégration LLM : OpenRouter
+- Architecture : 3-Tiers, Hexagonale.
+- Intégration LLM : OpenRouter.
+- Monorepos : Nx, Turborepo.
 
 🌍 𝗦𝗲𝗰𝘁𝗲𝘂𝗿𝘀 𝗱𝗲 𝗽𝗿𝗲𝗱𝗶𝗹𝗲𝗰𝘁𝗶𝗼𝗻 :
 
@@ -98,7 +101,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Certification officielle en VueJS](https://certificates.dev/vuejs/dashboard/guides/developer).
 
-##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> ASP.NET (v8 LTS) / C# (v13)
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> ASP.NET (v10) / C# (v13)
 
 [Les toutes dernières versions et informations sur C# (V13 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 

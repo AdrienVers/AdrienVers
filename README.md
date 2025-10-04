@@ -98,6 +98,22 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Certification officielle en VueJS](https://certificates.dev/vuejs/dashboard/guides/developer).
 
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> ASP.NET (v8 LTS) / C# (v13)
+
+[Les toutes dernières versions et informations sur C# (V13 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
+
+[Les toutes dernières versions et informations sur .NET (v10 :white_check_mark:)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-and-net-core?utm_source=chatgpt.com).
+
+[Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
+
+Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install Tool, C# Dev Kit (Microsoft), csharpier.
+
+[Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
+
+[Réaliser des tests unitaires en C# avec xUnit](https://learn.microsoft.com/fr-fr/dotnet/core/testing/unit-testing-with-dotnet-test).
+
+[Formateur de code très pratique en C# sur VS Code (CSharpier)](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode).
+
 ### Différentes technologies web recommandées et en devenir : 
 
 [Statistiques sur les librairies web les plus utilisées en 2024](https://2024.stateofjs.com/en-US/libraries/) :white_check_mark:.
@@ -238,20 +254,6 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 [Le Factory Pattern (C#, Unity)](https://unity.com/how-to/how-use-factory-pattern-object-creation-runtime).
 
 [Respecter les conventions de commits git avec le package commitlint (feat, fix, chore, ...)](https://www.npmjs.com/package/commitlint).
-
-##### C# :
-
-[Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
-
-Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install Tool, C# Dev Kit (Microsoft).
-
-[Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
-
-[Réaliser des tests unitaires en C# avec xUnit](https://learn.microsoft.com/fr-fr/dotnet/core/testing/unit-testing-with-dotnet-test).
-
-[Les toutes dernières versions et informations sur C# (V13 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
-
-[Formateur de code très pratique en C# sur VS Code (CSharpier)](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode).
 
 ##### Unity :
 

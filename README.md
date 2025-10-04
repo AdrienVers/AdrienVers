@@ -30,7 +30,9 @@ Vous souhaitez créer ou refondre votre site web ou développer votre présence 
 🌍 𝗦𝗲𝗰𝘁𝗲𝘂𝗿𝘀 𝗱𝗲 𝗽𝗿𝗲𝗱𝗶𝗹𝗲𝗰𝘁𝗶𝗼𝗻 :
 
 🌱 Agriculture, Énergies, GreenTech,
+
 🌐 Education, GameTech, Tourisme, 
+
 🏗️ BTP, Smart City et PropTech
 
 ## <p>Mon utilisation de Github :</p>

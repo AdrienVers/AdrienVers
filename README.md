@@ -113,6 +113,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Les toutes dernières versions et informations sur .NET (v10 :white_check_mark:)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-and-net-core?utm_source=chatgpt.com).
 
+[Démystification et présentation des technologies récentes en .NET, présentée par Christophe Mommer](https://www.youtube.com/watch?v=ya1YWU2Aglk).
+
 [Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
 
 Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install Tool, C# Dev Kit (Microsoft), csharpier.
@@ -122,7 +124,6 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 [Réaliser des tests unitaires en C# avec xUnit](https://learn.microsoft.com/fr-fr/dotnet/core/testing/unit-testing-with-dotnet-test).
 
 [Formateur de code très pratique en C# sur VS Code (CSharpier)](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode).
-
 
 ### Différentes technologies web recommandées et en devenir : 
 
@@ -308,10 +309,6 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 ##### Big Data :
 
 [Articles de blog sur la Big Data, notamment sur du monitoring (Elasticsearch, Kafka, Kibana, etc.)](https://xavki.blog/elk-tutos-francais/).
-
-##### .NET :
-
-[Démystification et présentation des technologies récentes en .NET](https://www.youtube.com/watch?v=ya1YWU2Aglk).
 
 ##### UI/UX :
 

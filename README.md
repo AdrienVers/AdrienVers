@@ -91,7 +91,9 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Liste de challenges à réaliser en Angular (avec solutions)](https://angular-challenges.vercel.app/).
 
-[Protéger son application contre les failles XSS (à compléter avec la protection contre les failles CSRF)](https://angular.fr/technical/auth-with-http-only.html#service-d-authentification).
+[Protéger son application contre les attaques XSS (à compléter avec la protection contre les failles CSRF)](https://angular.fr/technical/auth-with-http-only.html#service-d-authentification).
+
+[Protéger son application contre les attaques CSRF (ajout d’un en-tête HTTP X-XSRF-TOKEN que le backend pourra vérifier)](https://angular.dev/best-practices/security#httpclient-xsrf-csrf-security).
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> Vue (v3.5) / NuxtJS (v4) :
 

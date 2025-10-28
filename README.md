@@ -8,7 +8,8 @@ Vous souhaitez créer ou refondre votre site web ou développer votre présence 
 
 - Analyse de vos besoins et conception d'une maquette fidèle à votre vision.
 - Développement de votre site web, automatisation et déploiement en production.
-- Mise en place d'une architecture logicielle robuste et modulable, garantissant une maintenance simple et évolutive de votre application web. 
+- Mise en place d'une architecture logicielle robuste et modulable, garantissant une maintenance simple et évolutive de votre application web.
+- Audit complet : évaluation de l’expérience utilisateur (UX), détection des failles de sécurité et optimisation du référencement.
 
 🛠 𝙏𝙚𝙘𝙝𝙣𝙤𝙨 𝙥𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡𝙚𝙨 :
 

@@ -15,7 +15,7 @@ Vous souhaitez créer ou refondre votre site web ou développer votre présence 
 
 - Front : Next (React), Angular, Nuxt (Vue).
 - Mobile : React Native.
-- Back : Nest (NodeJS), ASP.NET.
+- Back : Nest (NodeJS), ASP.NET.C
 - ORM : Prisma, EF Core.
 - BDD : MongoDB, SQLite.
 - TU : Jest, Vitest, xUnit.
@@ -266,6 +266,10 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 [Le Factory Pattern (C#, Unity)](https://unity.com/how-to/how-use-factory-pattern-object-creation-runtime).
 
 [Respecter les conventions de commits git avec le package commitlint (feat, fix, chore, ...)](https://www.npmjs.com/package/commitlint).
+
+##### CQRS : 
+
+[Article intéressant sur la DDD et la CQRS pouvant être appliqué sur différentes couches d'une application)](https://blog.ordina-jworks.io/domain-driven%20design/2016/02/02/A-Decade-Of-DDD-CQRS-And-Event-Sourcing.html).
 
 ##### Unity :
 

@@ -509,6 +509,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Connaître les scores de satiété de chaque aliment du quotidien](https://www.rnpc.fr/la-satiete/).
 
+##### Culture : 
+
+[Liste regroupant toutes les statues en France](https://e-monumen.net/categorie/monumen/monuments-aux-grands-hommes/).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

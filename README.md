@@ -74,9 +74,9 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Les toutes dernières versions et informations sur NextJS (V15 :white_check_mark:)](https://nextjs.org/blog).
 
-##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v20) : 
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v21) : 
 
-[Les toutes dernières versions et informations sur Angular (V20 :white_check_mark:)](https://github.com/angular/angular/releases).
+[Les toutes dernières versions et informations sur Angular (V21:white_check_mark:)](https://github.com/angular/angular/releases).
 
 [Visualiser les states et payloads dans le navigateur grâce à Angular DevTools](https://angular.dev/tools/devtools).
 

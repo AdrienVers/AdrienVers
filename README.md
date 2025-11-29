@@ -118,6 +118,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
 
+[Raisons pour lequelles il est interessant d'utiliser Aspire .NET](https://medium.com/@davidfowl/bridging-the-gap-the-future-of-aspire-6eb421a92ab8).
+
 Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install Tool, C# Dev Kit (Microsoft), csharpier.
 
 [Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).

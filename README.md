@@ -118,6 +118,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Démystification et présentation des technologies récentes en .NET, présentée par Christophe Mommer](https://www.youtube.com/watch?v=ya1YWU2Aglk).
 
+[Différence entre une class et une struct](https://ironpdf.com/fr/blog/net-help/csharp-struct-vs-class/).
+
 [Ensemble des packages utiles pour la réalisation d'API en ASP.NET](https://www.nuget.org/).
 
 [Raisons pour lequelles il est interessant d'utiliser Aspire .NET](https://medium.com/@davidfowl/bridging-the-gap-the-future-of-aspire-6eb421a92ab8).

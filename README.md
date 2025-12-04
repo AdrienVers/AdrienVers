@@ -130,6 +130,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Formateur de code très pratique en C# sur VS Code (CSharpier)](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode).
 
+[Calendrier de l'avent version C# v10](https://csadvent.christmas/).
+
 ### Différentes technologies web recommandées et en devenir : 
 
 [Statistiques sur les librairies web les plus utilisées en 2024](https://2024.stateofjs.com/en-US/libraries/) :white_check_mark:.

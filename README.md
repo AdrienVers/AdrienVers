@@ -74,6 +74,8 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Les toutes dernières versions et informations sur NextJS (V15 :white_check_mark:)](https://nextjs.org/blog).
 
+[Calendrier de l'avent version React Native](https://galaxies.dev/calendar/2025).
+
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/> Angular (v21) : 
 
 [Les toutes dernières versions et informations sur Angular (V21:white_check_mark:)](https://github.com/angular/angular/releases).

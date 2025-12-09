@@ -48,7 +48,9 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React (v19) / NextJS (v15) :
 
-[Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://react.dev/reference/react/hooks).
+<a href="https://react.dev/reference/react/hooks" target="_blank" rel="noopener noreferrer">
+  Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)
+</a>
 
 [Maîtriser le hook useEffect](https://alexsidorenko.com/blog/useeffect/).
 

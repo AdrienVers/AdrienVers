@@ -521,6 +521,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Liste regroupant toutes les statues en France](https://e-monumen.net/categorie/monumen/monuments-aux-grands-hommes/).
 
+[Différencier les oiseaux des jardins](https://www.oiseauxdesjardins.fr/index.php?m_id=20121).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

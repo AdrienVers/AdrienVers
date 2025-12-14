@@ -263,6 +263,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 ##### PHP : 
 
+[Installation de PHP v8 (en Thread Safe)](https://windows.php.net/download/), [installation de Composer](https://getcomposer.org/download/), [démarrer un projet Symfony v8](https://symfony.com/doc/current/setup.html).
+
 [TD sur l'architecture MVC en PHP](https://romainlebreton.github.io/R3.01-DeveloppementWeb/).
 
 ##### Clean Code : 

@@ -533,6 +533,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Différencier les oiseaux des jardins](https://www.oiseauxdesjardins.fr/index.php?m_id=20121).
 
+[Photothèque LPO IDF](https://www.lpo-idf.fr/gallerie.php?pg=ph&tx=1&page=1&Adj=&Ref=&Motcle=&Ordre=+&Francais=&Auteur=+&Famille=+&Latin=&Motcle=).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

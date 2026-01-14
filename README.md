@@ -136,6 +136,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Convertisseur de DTO C# vers du JSON](https://csharp2json.azurewebsites.net/).
 
+[Roadmap d'Aspire pour 2025-2026](https://github.com/dotnet/aspire/discussions/10644).
+
 ### Différentes technologies web recommandées et en devenir : 
 
 [Statistiques sur les librairies web les plus utilisées en 2024](https://2024.stateofjs.com/en-US/libraries/) :white_check_mark:.

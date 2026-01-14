@@ -289,6 +289,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Comprendre les Bounded Contexts en DDD](https://ancyracademy.fr/blog/comprendre-les-bounded-contexts).
 
+[Différence entre une architecture monolithique classique, une architecture microservices et un monolithe modulaire](https://blog.bytebytego.com/p/monolith-vs-microservices-vs-modular).
+
 ##### CQRS : 
 
 [Article intéressant sur la DDD et la CQRS pouvant être appliqué sur différentes couches d'une application)](https://blog.ordina-jworks.io/domain-driven%20design/2016/02/02/A-Decade-Of-DDD-CQRS-And-Event-Sourcing.html).

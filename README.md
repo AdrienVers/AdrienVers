@@ -501,17 +501,19 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [David Hockley - Senior Full Stack Developer (React, Angular, TypeScript, NodeJS)](https://www.youtube.com/@kodaps_fr/videos).
 
-[Melvyn Malherbe - Senior Full Stack Developer (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
+[Melvyn Malherbe - Senior Full Stack Developer Francophone (Next/React, TypeScript)](https://m.youtube.com/@melvynxdev/videos).
 
 [Simon Dieny - Senior Full Stack Developer (Angular, NodeJS, Design Patterns)](https://www.youtube.com/@codeursenior/videos).
 
-[Enzo Ustariz - Senior Front-End Developer (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).
+[Enzo Ustariz - Senior Front-End Developer Francophone (React, Next, Vue, TypeScript, projets CSS, UI/UX Design, Concours Web)](https://www.youtube.com/@LeDesignerduWeb).
 
 [Guillaume Duhan - Senior Front-End Developer (Vue, Nuxt)](https://www.youtube.com/@codewithguillaume/videos).
 
-[Christophe Mommer - Senior DevOps Developer / MVP (C#,  .NET)](https://www.youtube.com/@HTSCoding/videos).
+[Milan Jovanovic - Senior Fullstack Developer (C#, .NET, Blazor, Clean Architecture, DDD)](https://www.courses.milanjovanovic.tech/l/products?sortKey=name&sortDirection=asc&page=1).
 
-[Anthony Cyrille - Senior Full Stack Developer (Clean Code, Architecture héxagonale, SOLID, TDD)](https://anthony-cyrille-s-school.teachable.com/).
+[Christophe Mommer - Senior DevOps Developer Francophone / MVP (C#, .NET, Blazor, Clean Architecture, DDD)](https://www.youtube.com/@HTSCoding/videos).
+
+[Anthony Cyrille - Senior Full Stack Developer Francophone (Clean Code, Architecture héxagonale, SOLID, TDD)](https://anthony-cyrille-s-school.teachable.com/).
 
 #### Autres secteurs (:bulb:) : 
 

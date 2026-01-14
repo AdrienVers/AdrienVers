@@ -287,6 +287,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Factory Pattern et Repository Pattern avec EF Core](https://jeremielitzler.fr/post/2024-12/entity-framework-repository-pattern-et-factory-pattern/).
 
+[Comprendre les Bounded Contexts en DDD](https://ancyracademy.fr/blog/comprendre-les-bounded-contexts).
+
 ##### CQRS : 
 
 [Article intéressant sur la DDD et la CQRS pouvant être appliqué sur différentes couches d'une application)](https://blog.ordina-jworks.io/domain-driven%20design/2016/02/02/A-Decade-Of-DDD-CQRS-And-Event-Sourcing.html).

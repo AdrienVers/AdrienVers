@@ -48,6 +48,10 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 ##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React (v19) / NextJS (v15) :
 
+[Les toutes dernières versions et informations sur React (V19 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
+
+[Les toutes dernières versions et informations sur NextJS (V15 :white_check_mark:)](https://nextjs.org/blog).
+
 [Documentation sur les hooks React principaux (useState, useEffect, useRef, useContext)](https://react.dev/reference/react/hooks).
 
 [Maîtriser le hook useEffect](https://alexsidorenko.com/blog/useeffect/).
@@ -70,9 +74,7 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Livre pour approfondir ses connaissances en React (01/20, V16)](https://www.editions-eni.fr/livre/react-developpez-le-front-end-de-vos-applications-web-et-mobiles-avec-javascript-9782409022722).
 
-[Les toutes dernières versions et informations sur le Framework React (V19 :white_check_mark:)](https://github.com/facebook/react/blob/main/CHANGELOG.md).
 
-[Les toutes dernières versions et informations sur NextJS (V15 :white_check_mark:)](https://nextjs.org/blog).
 
 [Calendrier de l'avent version React Native](https://galaxies.dev/calendar/2025).
 

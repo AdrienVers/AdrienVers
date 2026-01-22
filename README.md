@@ -491,6 +491,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Plateforme open-source permettant d'accéder à de nombreux models LLM gratuitement](https://openrouter.ai/).
 
+[Ajouter la documentation la plus récente des frameworks dans son IDE pour la fournir aux LLMs](https://context7.com/).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

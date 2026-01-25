@@ -357,7 +357,7 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Illustrations libres de droits pour le UI/UX design](https://fr.freepik.com/search?format=search&query=ux%20design).
 
-[Utilisation pratique de Figma avec différentes interactions possibles](https://ellianabeberness.com/copy-of-chefy-ux-design-research).
+[Cheminement d'un UX Designer](https://www.meganpalos.com/home/chef-rescue).
 
 [Différents fonds d'écran pour sites web avec des motifs générés en CSS](https://www.magicpattern.design/tools/css-backgrounds).
 

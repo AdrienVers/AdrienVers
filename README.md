@@ -535,6 +535,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Afficher ce que LinkedIn est capable d'analyser sur son portfolio (ou autre site web)](https://www.linkedin.com/post-inspector/).
 
+##### Géopolitique :  
+
+[Alternatives européennes aux produits numériques américains / chinois ayant le monopole](https://european-alternatives.eu/).
+
 ##### Nutrition : 
 
 [Connaître les scores de satiété de chaque aliment du quotidien](https://www.rnpc.fr/la-satiete/).

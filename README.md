@@ -152,6 +152,10 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Zustand : Une alternative de state management possible face aux différents problèmes liés au Context API ou à Redux](https://github.com/pmndrs/zustand).
 
+##### Monorepos : 
+
+[Dernières releases de Nx](https://nx.dev/docs/reference/releases).
+
 ##### Tests : 
 
 [Documentation générale sur les tests unitaires (Jest)](https://jestjs.io/fr/docs/tutorial-react).

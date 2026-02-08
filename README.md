@@ -86,6 +86,10 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Nouvelle version de Material Design (v3) pour Angular](https://m3.material.io/).
 
+[Composants Material UI spécifiques à Angular](https://material.angular.dev/).
+
+[Créer et gérer des tableaux responsives facilement en Angular](https://www.ag-grid.com/angular-data-grid/getting-started/).
+
 [Injection de dépendance (DI) en Angular](https://angular.dev/tutorials/learn-angular/20-inject-based-di).
 
 [Intégration et configuration des LLM conformes aux bonnes pratiques Angular](https://angular.dev/ai/develop-with-ai).

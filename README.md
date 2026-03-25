@@ -287,6 +287,8 @@ Tips : Éviter toute librairie non mise à jour depuis plus d'une année et ne s
 
 [Article intéressant sur la structure d'une architecture héxagonale](https://blog.octo.com/application-domain-infrastructure-des-mots-de-la-layered-hexagonal-clean-architecture/).
 
+[Architecture Decision Records (ADR)](https://blog.stephane-robert.info/docs/documenter/concevoir/adr/).
+
 [Vulgarisation des Design Patterns (refactoring guru)](https://refactoring.guru/design-patterns/factory-method).
 
 [Suite d'articles interessants sur les Design Patterns en C#](https://medium.com/@lexitrainerph).

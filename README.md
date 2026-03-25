@@ -595,4 +595,6 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Top 10 des risques de sécurité web les plus critiques (2025)](https://owasp.org/Top10/2025/).
 
+[Architecture Zero Trust (ZTA)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-zero-trust-architecture).
+
 [Rajouter un filigrane sur ses pièces d'identités afin d'éviter une usurpation d'identité](https://filigrane.beta.gouv.fr/).

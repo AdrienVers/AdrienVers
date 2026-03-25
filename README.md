@@ -591,4 +591,6 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).
 
+[Top 10 des risques de sécurité web les plus critiques (2025)](https://owasp.org/Top10/2025/).
+
 [Rajouter un filigrane sur ses pièces d'identités afin d'éviter une usurpation d'identité](https://filigrane.beta.gouv.fr/).

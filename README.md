@@ -505,6 +505,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Qu'est-ce qu'un agent IA et comment en crée un ?](https://agents.md/).
 
+[Installation de Codex](https://developers.openai.com/codex/cli).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

@@ -503,6 +503,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Ajouter la documentation la plus récente des frameworks dans son IDE pour la fournir aux LLMs](https://context7.com/).
 
+[Qu'est-ce qu'un agent IA et comment en crée un ?](https://agents.md/).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

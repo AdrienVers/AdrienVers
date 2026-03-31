@@ -212,6 +212,8 @@ API fournissant des données spatiales : [Spaceflight News API](https://thespace
 
 [Article intéressant sur le GraphQL](https://blog.octo.com/graphql-et-pourquoi-faire/).
 
+[Exemple pour assimiler et utiliser les requêtes GraphQL (Countries Trevorblades GraphQL API)](https://countries.trevorblades.com/).
+
 ##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :

@@ -214,6 +214,8 @@ API fournissant des données spatiales : [Spaceflight News API](https://thespace
 
 [Exemple pour assimiler et utiliser les requêtes GraphQL (Countries Trevorblades GraphQL API)](https://countries.trevorblades.com/).
 
+[Formation GraphQL / Apollo côté frontend (avec TypeScript)](https://www.apollographql.com/tutorials/intro-typescript/01-course-overview-and-setup).
+
 ##### HTML/CSS/JS :
 
 Hébergeurs de code permettant de visualiser le résultat directement :

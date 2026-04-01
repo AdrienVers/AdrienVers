@@ -571,6 +571,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Photothèque LPO IDF](https://www.lpo-idf.fr/gallerie.php?pg=ph&tx=1&page=1&Adj=&Ref=&Motcle=&Ordre=+&Francais=&Auteur=+&Famille=+&Latin=&Motcle=).
 
+##### Nature : 
+
+[Ce qu'un canard peut et ne doit pas manger](https://raising-ducks.com/what-ducks-can-eat/).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

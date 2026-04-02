@@ -483,6 +483,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Visualiser un fichier JSON de façon claire dans le navigateur](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related).
 
+[Veille stratégique et dynamique sur le site de laconsole](https://laconsole.dev/laveilleuse).
+
 ##### Extensions VS Code :
 
 [Extension permettant de visualiser la taille de ses fichiers dans un projet VS Code](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize).

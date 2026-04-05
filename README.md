@@ -577,6 +577,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Ce qu'un canard peut et ne doit pas manger](https://raising-ducks.com/what-ducks-can-eat/).
 
+##### Automobile :
+
+[Trouver toutes les pièces de rechange comptatibles avec sa voiture uniquement en renseignant sa plaque d'immatriculation](https://www.oscaro.com).
+
 ##### Finance :  
 
 [Actualité des marchés financiers](https://www.boursedirect.fr).

@@ -613,6 +613,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Tout savoir sur le nouveau standard de facturation électronique (Facture-X)](https://www.impots.gouv.fr/professionnel/je-passe-la-facturation-electronique).
 
+[Vérifier que la facture émise est bien au format Facture-X](https://app.b2brouter.net/fr/validation).
+
 ##### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

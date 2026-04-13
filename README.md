@@ -611,6 +611,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Actualité sur l'agriculture et indicateurs concernant les marchés agricoles en France](https://www.terre-net.fr/).
 
+[Tout savoir sur le nouveau standard de facturation électronique (Facture-X)](https://www.impots.gouv.fr/professionnel/je-passe-la-facturation-electronique).
+
 ##### Cybersécurité :  
 
 [Infographie très complète sur le modèle OSI](https://twitter.com/Shubham_pen/status/1513015164445945860).

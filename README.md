@@ -515,6 +515,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Installation de Codex](https://developers.openai.com/codex/cli).
 
+[Protocole MCP mis à disposition par le gouvernement](https://data.education.gouv.fr/pages/connecter-votre-ia/).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

@@ -204,6 +204,8 @@ API fournissant des données spatiales : [Spaceflight News API](https://thespace
 
 [Créer une API REST en 2 minutes, avec données personnalisables, pour effectuer des tests dessus](https://mockapi.io/).
 
+[API permettant d'accéder aux informations d'une entreprise (SIREN, SIRET, Adresse, etc.)](https://recherche-entreprises.api.gouv.fr/search?q=GITHUB%20FRANCE).
+
 ##### API GraphQL :
 
 [AWS Amplify : Utilisation avec React](https://ui.docs.amplify.aws/?platform=react).

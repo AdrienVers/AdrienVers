@@ -206,6 +206,8 @@ API fournissant des données spatiales : [Spaceflight News API](https://thespace
 
 [API permettant d'accéder aux informations d'une entreprise (SIREN, SIRET, Adresse, etc.)](https://recherche-entreprises.api.gouv.fr/search?q=GITHUB%20FRANCE).
 
+[Ensemble des protocoles HTTP](https://datatracker.ietf.org/doc/html/rfc9110).
+
 ##### API GraphQL :
 
 [AWS Amplify : Utilisation avec React](https://ui.docs.amplify.aws/?platform=react).

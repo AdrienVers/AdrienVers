@@ -521,6 +521,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Protocole MCP mis à disposition par le gouvernement](https://data.education.gouv.fr/pages/connecter-votre-ia/).
 
+##### Claude Code : 
+
+[Extension permettant de personnaliser et d'afficher les tokens utilisés lors de la session](https://github.com/sirmalloc/ccstatusline).
+
 ##### Bureaucratique :
 
 [Alternative open-source et fiable à Adobe Acrobat Reader (payant) : iLovePDF (gratuit)](https://www.ilovepdf.com/fr/desktop).

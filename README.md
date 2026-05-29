@@ -134,6 +134,8 @@ Extensions requises dans VS Code (autocomplétion, linter, etc..) : .NET Install
 
 [Se challenger sur C#, ASP.NET, Azure et du DevOps](https://www.microsoft.com/en-US/cloudskillschallenge/build/registration/2023).
 
+[Ensemble des formations Azure DevOps](https://learn.microsoft.com/fr-fr/credentials/browse/).
+
 [Réaliser des tests unitaires en C# avec xUnit](https://learn.microsoft.com/fr-fr/dotnet/core/testing/unit-testing-with-dotnet-test).
 
 [Formateur de code très pratique en C# sur VS Code (CSharpier)](https://marketplace.visualstudio.com/items?itemName=csharpier.csharpier-vscode).

@@ -457,6 +457,8 @@ Hébergeurs de fichiers et d'images (avec version gratuite) :
 
 [Livre pour apprendre à utiliser Docker spécifiquement pour .NET](https://www.editions-eni.fr/open/mediabook.aspx?idR=b973005be6fba0786454e1823c08a297).
 
+[Quiz DevSecOps](https://blog.stephane-robert.info/examens/).
+
 ##### SEO :
 
 [Analyse du trafic de n'importe quel site web](https://www.similarweb.com/fr/). 

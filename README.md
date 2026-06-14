@@ -591,6 +591,10 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Ce qu'un canard peut et ne doit pas manger](https://raising-ducks.com/what-ducks-can-eat/).
 
+[Fiches LPO sur les diverses espèces de papillons en France](https://www.lpo.fr/decouvrir-la-nature/conseils-biodiversite/conseils-biodiversite/conseils-biodiversite?Esp%C3%A8ce=Papillons).
+
+[API permettant d'obtenir de nombreuses ressources sur la biodiversité (API Inaturalist)](https://api.inaturalist.org/v1/observations/species_counts?taxon_id=47157&place_id=6753&hrank=species&verifiable=true&per_page=200).
+
 ##### Automobile :
 
 [Trouver toutes les pièces de rechange comptatibles avec sa voiture uniquement en renseignant sa plaque d'immatriculation](https://www.oscaro.com).

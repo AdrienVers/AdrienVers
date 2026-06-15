@@ -116,9 +116,9 @@ Sur cette même page, vous trouverez un florilège de liens qui pourraient vous 
 
 [Certification officielle en VueJS](https://certificates.dev/vuejs/dashboard/guides/developer).
 
-##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> ASP.NET (v10) / C# (v13)
+##### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> ASP.NET (v10) / C# (v14)
 
-[Les toutes dernières versions et informations sur C# (V13 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
+[Les toutes dernières versions et informations sur C# (V14 :white_check_mark:)](https://learn.microsoft.com/fr-fr/dotnet/csharp/whats-new/csharp-version-history).
 
 [Les toutes dernières versions et informations sur .NET (v10 :white_check_mark:)](https://learn.microsoft.com/en-us/lifecycle/products/microsoft-net-and-net-core?utm_source=chatgpt.com).
 

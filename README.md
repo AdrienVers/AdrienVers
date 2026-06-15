@@ -15,7 +15,7 @@ Vous souhaitez créer ou refondre votre site web ou développer votre présence 
 
 - Front : Next (React), Angular, Nuxt (Vue).
 - Mobile : React Native.
-- Back : Nest (NodeJS), ASP.NET.C
+- Back : Nest (NodeJS), ASP.NET
 - ORM : Prisma, EF Core.
 - BDD : MongoDB, SQLite.
 - TU : Jest, Vitest, xUnit.

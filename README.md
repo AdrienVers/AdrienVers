@@ -507,6 +507,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 ##### IA : 
 
+[Étude concurrentielle des différents LLM et autres modèles d’IA](https://artificialanalysis.ai/).
+
 [Promeai, IA permettant d'apporter des modifications précises sur une image existante](https://www.promeai.pro/blender).
 
 [Référencement des outils IA pour l'ingénierie](https://malywut.github.io/ai-engineering-landscape/).

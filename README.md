@@ -569,9 +569,15 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Analyseur automatique de CV (CV Catcher d'AddViseo)](https://emploi.addviseo.com/cvcatcher).
 
+[Afficher ce que LinkedIn est capable d'analyser sur son portfolio (ou autre site web)](https://www.linkedin.com/post-inspector/).
+
+##### Analyser la santé d'une entreprise :
+
 [Déterminer le chiffre d'affaire d'une entreprise](https://annuaire-entreprises.data.gouv.fr/) [et dirigeants](https://www.infogreffe.fr/).
 
-[Afficher ce que LinkedIn est capable d'analyser sur son portfolio (ou autre site web)](https://www.linkedin.com/post-inspector/).
+[Données légales via Infogreffe](https://www.infogreffe.fr/entreprise).
+
+[Analyse financière sur l'année n-1 via Northdata](https://www.northdata.fr).
 
 ##### Géopolitique :  
 

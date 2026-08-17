@@ -609,6 +609,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 ##### Finance :  
 
+[Analyser son profil investisseur en quelques minutes (AMF)](https://lautorite.qc.ca/grand-public/outils-et-calculateurs/calculateurs/votre-profil-dinvestisseur).
+
 [Actualité des marchés financiers](https://www.boursedirect.fr).
 
 [Vérifier qu'un courtier en ligne ou banque est bien autorisé par l'AMF](https://www.amf-france.org/fr/espace-epargnants/proteger-son-epargne/faire-les-verifications).

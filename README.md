@@ -267,6 +267,8 @@ Hébergeurs de code permettant de visualiser le résultat directement :
 
 [Implémentation de React-Three-Fiber et ThreeJS dans NextJS](https://medium.com/@kusuma844/adding-3d-to-your-next-js-project-with-react-three-fiber-4bce8c21550).
 
+[Créer son propre avatar en 3D gratuitement via Avaturn](https://avaturn.me/).
+
 ##### TypeScript : 
 
 [Les bases à connaître avant de démarrer un projet en TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html).

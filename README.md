@@ -605,6 +605,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [API permettant d'obtenir de nombreuses ressources sur la biodiversité (API Inaturalist)](https://api.inaturalist.org/v1/observations/species_counts?taxon_id=47157&place_id=6753&hrank=species&verifiable=true&per_page=200).
 
+[Informations et observations de différentes espèces dans le Monde et en France](https://www.inaturalist.org/observations?place_id=6753&taxon_id=13547&view=species).
+
 ##### Automobile :
 
 [Trouver toutes les pièces de rechange comptatibles avec sa voiture uniquement en renseignant sa plaque d'immatriculation](https://www.oscaro.com).

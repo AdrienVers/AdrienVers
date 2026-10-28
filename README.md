@@ -589,6 +589,8 @@ Visualiser son site sur différents formats : [ui.dev](https://ui.dev/amirespons
 
 [Connaître les scores de satiété de chaque aliment du quotidien](https://www.rnpc.fr/la-satiete/).
 
+[Modélisation 3D personnalisables du Corps Humain](https://human.biodigital.com/explore).
+
 ##### Culture : 
 
 [Liste regroupant toutes les statues en France](https://e-monumen.net/categorie/monumen/monuments-aux-grands-hommes/).
